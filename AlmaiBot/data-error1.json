@@ -1,0 +1,23 @@
+[
+  {
+    "nama_lengkap": "Nasrul",
+    "whatsapp": "6282280075556",
+    "email": "oppa.alul1984@gmail.com",
+    "password": "12345678",
+    "konfirmasi_password": "12345678"
+  },
+  {
+    "nama_lengkap": "razkA",
+    "whatsapp": "628973302049",
+    "email": "razkarazka007@gmail.com",
+    "password": "12345678",
+    "konfirmasi_password": "12345678"
+  },
+  {
+    "nama_lengkap": "Wahyudin",
+    "whatsapp": "6285222146076",
+    "email": "wahuy2caferacer@gmail.com",
+    "password": "12345678",
+    "konfirmasi_password": "12345678"
+  }
+]

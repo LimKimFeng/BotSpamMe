@@ -1,0 +1,920 @@
+venv) linjinfeng@linjinfeng-Thin-15-B12VE:~/Documents/BotSpamMe/AlmaiBot$ python3 AlmaiBot.py --batch
+=== PILIH FILE DATA DAN PROGRESS ===
+Masukkan nama/path file data JSON (contoh: data.json): data18-21.json
+Masukkan nama/path file progress JSON (contoh: progress.json): progress_data18-21.json
+⚠️ File 'progress_data18-21.json' tidak ditemukan. Coba lagi.
+Masukkan nama/path file progress JSON (contoh: progress.json): progress.json
+✅ Loaded 67 records dari data18-21.json. Progress file: progress.json
+
+============================================================
+[1/67] READY: Fitri Zulfani | 6287772067500 | fitrizulfani6@gmail.com
+Menunggu 10 detik agar halaman load + modal muncul...
+Klik ULTIMATE -> tunggu 10 detik ...
+Akan mengisi data berikut:
+{
+  "nama_lengkap": "Fitri Zulfani",
+  "whatsapp": "6287772067500",
+  "email": "fitrizulfani6@gmail.com",
+  "password": "12345678",
+  "konfirmasi_password": "12345678"
+}
+Form disubmit. Menunggu 30 detik untuk respon / OTP ...
+✅ OTP detected (reason: found_placeholder_otp) — restart browser session
+
+============================================================
+[2/67] READY: Mario Domingo | 6283853113619 | mario.ddf@gmail.com
+Menunggu 10 detik agar halaman load + modal muncul...
+Klik ULTIMATE -> tunggu 10 detik ...
+Akan mengisi data berikut:
+{
+  "nama_lengkap": "Mario Domingo",
+  "whatsapp": "6283853113619",
+  "email": "mario.ddf@gmail.com",
+  "password": "12345678",
+  "konfirmasi_password": "12345678"
+}
+Form disubmit. Menunggu 30 detik untuk respon / OTP ...
+✅ OTP detected (reason: found_placeholder_otp) — restart browser session
+
+============================================================
+[3/67] READY: Nanang Setionugroho | 62811250281 | nang.indolakto@gmail.com
+Menunggu 10 detik agar halaman load + modal muncul...
+Klik ULTIMATE -> tunggu 10 detik ...
+Akan mengisi data berikut:
+{
+  "nama_lengkap": "Nanang Setionugroho",
+  "whatsapp": "62811250281",
+  "email": "nang.indolakto@gmail.com",
+  "password": "12345678",
+  "konfirmasi_password": "12345678"
+}
+Form disubmit. Menunggu 30 detik untuk respon / OTP ...
+✅ OTP detected (reason: found_placeholder_otp) — restart browser session
+
+============================================================
+[4/67] READY: Josh | 6281286898948 | coel983r@gmail.com
+ERROR: gagal buka URL: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://almai.id/referral/scalpinghack", waiting until "load"
+
+
+============================================================
+[5/67] READY: Umar Noegroho Budhiawan | 62817183486 | umarnoegroho@gmail.com
+Menunggu 10 detik agar halaman load + modal muncul...
+Klik ULTIMATE -> tunggu 10 detik ...
+Akan mengisi data berikut:
+{
+  "nama_lengkap": "Umar Noegroho Budhiawan",
+  "whatsapp": "62817183486",
+  "email": "umarnoegroho@gmail.com",
+  "password": "12345678",
+  "konfirmasi_password": "12345678"
+}
+Form disubmit. Menunggu 30 detik untuk respon / OTP ...
+✅ OTP detected (reason: found_placeholder_otp) — restart browser session
+
+============================================================
+[6/67] READY: wisnu | 6281287727730 | wishnu_176@yahoo.com
+Menunggu 10 detik agar halaman load + modal muncul...
+Klik ULTIMATE -> tunggu 10 detik ...
+Akan mengisi data berikut:
+{
+  "nama_lengkap": "wisnu",
+  "whatsapp": "6281287727730",
+  "email": "wishnu_176@yahoo.com",
+  "password": "12345678",
+  "konfirmasi_password": "12345678"
+}
+Form disubmit. Menunggu 30 detik untuk respon / OTP ...
+✅ OTP detected (reason: found_placeholder_otp) — restart browser session
+
+============================================================
+[7/67] READY: Ma'mun Romansyah | 6281906263611 | mamunr129@gmail.com
+Menunggu 10 detik agar halaman load + modal muncul...
+Klik ULTIMATE -> tunggu 10 detik ...
+Akan mengisi data berikut:
+{
+  "nama_lengkap": "Ma'mun Romansyah",
+  "whatsapp": "6281906263611",
+  "email": "mamunr129@gmail.com",
+  "password": "12345678",
+  "konfirmasi_password": "12345678"
+}
+Form disubmit. Menunggu 30 detik untuk respon / OTP ...
+✅ OTP detected (reason: found_in_html) — restart browser session
+
+============================================================
+[8/67] READY: M Ade Irawan | 6285691247084 | irawanmade187@gmail.com
+Menunggu 10 detik agar halaman load + modal muncul...
+Klik ULTIMATE -> tunggu 10 detik ...
+Akan mengisi data berikut:
+{
+  "nama_lengkap": "M Ade Irawan",
+  "whatsapp": "6285691247084",
+  "email": "irawanmade187@gmail.com",
+  "password": "12345678",
+  "konfirmasi_password": "12345678"
+}
+Form disubmit. Menunggu 30 detik untuk respon / OTP ...
+✅ OTP detected (reason: found_in_html) — restart browser session
+
+============================================================
+[9/67] READY: Tubagus arsya | 6288220346688 | arsyanaufall410@gmail.com
+Menunggu 10 detik agar halaman load + modal muncul...
+Klik ULTIMATE -> tunggu 10 detik ...
+Akan mengisi data berikut:
+{
+  "nama_lengkap": "Tubagus arsya",
+  "whatsapp": "6288220346688",
+  "email": "arsyanaufall410@gmail.com",
+  "password": "12345678",
+  "konfirmasi_password": "12345678"
+}
+Form disubmit. Menunggu 30 detik untuk respon / OTP ...
+✅ OTP detected (reason: found_placeholder_otp) — restart browser session
+
+============================================================
+[10/67] READY: Dini | 628158014015 | dunia_td@yahoo.com
+Menunggu 10 detik agar halaman load + modal muncul...
+Klik ULTIMATE -> tunggu 10 detik ...
+Akan mengisi data berikut:
+{
+  "nama_lengkap": "Dini",
+  "whatsapp": "628158014015",
+  "email": "dunia_td@yahoo.com",
+  "password": "12345678",
+  "konfirmasi_password": "12345678"
+}
+Form disubmit. Menunggu 30 detik untuk respon / OTP ...
+✅ OTP detected (reason: found_in_html) — restart browser session
+
+============================================================
+[11/67] READY: Ghifari Rozaq | 6281389996747 | gfr.rozaq@gmail.com
+Menunggu 10 detik agar halaman load + modal muncul...
+Klik ULTIMATE -> tunggu 10 detik ...
+Akan mengisi data berikut:
+{
+  "nama_lengkap": "Ghifari Rozaq",
+  "whatsapp": "6281389996747",
+  "email": "gfr.rozaq@gmail.com",
+  "password": "12345678",
+  "konfirmasi_password": "12345678"
+}
+Form disubmit. Menunggu 30 detik untuk respon / OTP ...
+✅ OTP detected (reason: found_placeholder_otp) — restart browser session
+
+============================================================
+[12/67] READY: Ivan | 6285759872123 | ivanhartono1@gmail.com
+Menunggu 10 detik agar halaman load + modal muncul...
+Klik ULTIMATE -> tunggu 10 detik ...
+Akan mengisi data berikut:
+{
+  "nama_lengkap": "Ivan",
+  "whatsapp": "6285759872123",
+  "email": "ivanhartono1@gmail.com",
+  "password": "12345678",
+  "konfirmasi_password": "12345678"
+}
+Form disubmit. Menunggu 30 detik untuk respon / OTP ...
+✅ OTP detected (reason: found_in_html) — restart browser session
+
+============================================================
+[13/67] READY: Iskandar nur misuari | 6285967153185 | iskandar99nm@gmail.com
+Menunggu 10 detik agar halaman load + modal muncul...
+Klik ULTIMATE -> tunggu 10 detik ...
+Akan mengisi data berikut:
+{
+  "nama_lengkap": "Iskandar nur misuari",
+  "whatsapp": "6285967153185",
+  "email": "iskandar99nm@gmail.com",
+  "password": "12345678",
+  "konfirmasi_password": "12345678"
+}
+Form disubmit. Menunggu 30 detik untuk respon / OTP ...
+✅ OTP detected (reason: found_in_html) — restart browser session
+
+============================================================
+[14/67] READY: Ega | 6281312032527 | ega17arie@gmail.com
+Menunggu 10 detik agar halaman load + modal muncul...
+Klik ULTIMATE -> tunggu 10 detik ...
+Akan mengisi data berikut:
+{
+  "nama_lengkap": "Ega",
+  "whatsapp": "6281312032527",
+  "email": "ega17arie@gmail.com",
+  "password": "12345678",
+  "konfirmasi_password": "12345678"
+}
+Form disubmit. Menunggu 30 detik untuk respon / OTP ...
+✅ OTP detected (reason: found_placeholder_otp) — restart browser session
+
+============================================================
+[15/67] READY: Nursalim | 6281212315169 | nursalimsiman@gmail.com
+Menunggu 10 detik agar halaman load + modal muncul...
+Klik ULTIMATE -> tunggu 10 detik ...
+Akan mengisi data berikut:
+{
+  "nama_lengkap": "Nursalim",
+  "whatsapp": "6281212315169",
+  "email": "nursalimsiman@gmail.com",
+  "password": "12345678",
+  "konfirmasi_password": "12345678"
+}
+Form disubmit. Menunggu 30 detik untuk respon / OTP ...
+✅ OTP detected (reason: found_placeholder_otp) — restart browser session
+
+============================================================
+[16/67] READY: Tri rahayu | 6281377580054 | rahayutrie1308@gmail.com
+Menunggu 10 detik agar halaman load + modal muncul...
+Klik ULTIMATE -> tunggu 10 detik ...
+Akan mengisi data berikut:
+{
+  "nama_lengkap": "Tri rahayu",
+  "whatsapp": "6281377580054",
+  "email": "rahayutrie1308@gmail.com",
+  "password": "12345678",
+  "konfirmasi_password": "12345678"
+}
+Form disubmit. Menunggu 30 detik untuk respon / OTP ...
+✅ OTP detected (reason: found_placeholder_otp) — restart browser session
+
+============================================================
+[17/67] READY: Selamet Minanto | 6283871930595 | selametminanto75@gmail.com
+Menunggu 10 detik agar halaman load + modal muncul...
+Klik ULTIMATE -> tunggu 10 detik ...
+Akan mengisi data berikut:
+{
+  "nama_lengkap": "Selamet Minanto",
+  "whatsapp": "6283871930595",
+  "email": "selametminanto75@gmail.com",
+  "password": "12345678",
+  "konfirmasi_password": "12345678"
+}
+Form disubmit. Menunggu 30 detik untuk respon / OTP ...
+✅ OTP detected (reason: found_text_Verifikasi_OTP) — restart browser session
+
+============================================================
+[18/67] READY: Imelda | 6281256633123 | imelda.marlin20@gmail.com
+ERROR: gagal buka URL: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://almai.id/referral/scalpinghack", waiting until "load"
+
+
+============================================================
+[19/67] READY: Budi Santoso | 6285697883136 | budisantoso.kudus@gmail.com
+Menunggu 10 detik agar halaman load + modal muncul...
+Klik ULTIMATE -> tunggu 10 detik ...
+Akan mengisi data berikut:
+{
+  "nama_lengkap": "Budi Santoso",
+  "whatsapp": "6285697883136",
+  "email": "budisantoso.kudus@gmail.com",
+  "password": "12345678",
+  "konfirmasi_password": "12345678"
+}
+Form disubmit. Menunggu 30 detik untuk respon / OTP ...
+✅ OTP detected (reason: found_placeholder_otp) — restart browser session
+
+============================================================
+[20/67] READY: Roni Sulriendi | 6281266334422 | roni_sulriendi@yahoo.co.id
+Menunggu 10 detik agar halaman load + modal muncul...
+Klik ULTIMATE -> tunggu 10 detik ...
+Akan mengisi data berikut:
+{
+  "nama_lengkap": "Roni Sulriendi",
+  "whatsapp": "6281266334422",
+  "email": "roni_sulriendi@yahoo.co.id",
+  "password": "12345678",
+  "konfirmasi_password": "12345678"
+}
+Form disubmit. Menunggu 30 detik untuk respon / OTP ...
+✅ OTP detected (reason: found_placeholder_otp) — restart browser session
+
+============================================================
+[21/67] READY: Soma Anand | 628566363456 | somaanand02@gmail.com
+Menunggu 10 detik agar halaman load + modal muncul...
+Klik ULTIMATE -> tunggu 10 detik ...
+Akan mengisi data berikut:
+{
+  "nama_lengkap": "Soma Anand",
+  "whatsapp": "628566363456",
+  "email": "somaanand02@gmail.com",
+  "password": "12345678",
+  "konfirmasi_password": "12345678"
+}
+Form disubmit. Menunggu 30 detik untuk respon / OTP ...
+✅ OTP detected (reason: found_in_html) — restart browser session
+
+============================================================
+[22/67] READY: Riswan Nurdiharjo | 6281388558449 | riswannoerdihardjo@gmail.com
+Menunggu 10 detik agar halaman load + modal muncul...
+Klik ULTIMATE -> tunggu 10 detik ...
+Akan mengisi data berikut:
+{
+  "nama_lengkap": "Riswan Nurdiharjo",
+  "whatsapp": "6281388558449",
+  "email": "riswannoerdihardjo@gmail.com",
+  "password": "12345678",
+  "konfirmasi_password": "12345678"
+}
+Form disubmit. Menunggu 30 detik untuk respon / OTP ...
+✅ OTP detected (reason: found_in_html) — restart browser session
+
+============================================================
+[23/67] READY: miftah mubarok | 6289671418057 | mifftahmubarook@gmail.com
+Menunggu 10 detik agar halaman load + modal muncul...
+Klik ULTIMATE -> tunggu 10 detik ...
+Akan mengisi data berikut:
+{
+  "nama_lengkap": "miftah mubarok",
+  "whatsapp": "6289671418057",
+  "email": "mifftahmubarook@gmail.com",
+  "password": "12345678",
+  "konfirmasi_password": "12345678"
+}
+Form disubmit. Menunggu 30 detik untuk respon / OTP ...
+✅ OTP detected (reason: found_in_html) — restart browser session
+
+============================================================
+[24/67] READY: Satria | 6282116371448 | sat.forwork25@gmail.com
+Menunggu 10 detik agar halaman load + modal muncul...
+Klik ULTIMATE -> tunggu 10 detik ...
+Akan mengisi data berikut:
+{
+  "nama_lengkap": "Satria",
+  "whatsapp": "6282116371448",
+  "email": "sat.forwork25@gmail.com",
+  "password": "12345678",
+  "konfirmasi_password": "12345678"
+}
+Form disubmit. Menunggu 30 detik untuk respon / OTP ...
+✅ OTP detected (reason: found_placeholder_otp) — restart browser session
+
+============================================================
+[25/67] READY: Nimal Maulida | 6282223109991 | nimalmaulidaa@gmail.com
+Menunggu 10 detik agar halaman load + modal muncul...
+Klik ULTIMATE -> tunggu 10 detik ...
+Akan mengisi data berikut:
+{
+  "nama_lengkap": "Nimal Maulida",
+  "whatsapp": "6282223109991",
+  "email": "nimalmaulidaa@gmail.com",
+  "password": "12345678",
+  "konfirmasi_password": "12345678"
+}
+Form disubmit. Menunggu 30 detik untuk respon / OTP ...
+✅ OTP detected (reason: found_placeholder_otp) — restart browser session
+
+============================================================
+[26/67] READY: Widya Wahyuningsih | 6285299256569 | widyawahyuningsih3@gmail.com
+Menunggu 10 detik agar halaman load + modal muncul...
+Klik ULTIMATE -> tunggu 10 detik ...
+Akan mengisi data berikut:
+{
+  "nama_lengkap": "Widya Wahyuningsih",
+  "whatsapp": "6285299256569",
+  "email": "widyawahyuningsih3@gmail.com",
+  "password": "12345678",
+  "konfirmasi_password": "12345678"
+}
+Form disubmit. Menunggu 30 detik untuk respon / OTP ...
+✅ OTP detected (reason: found_placeholder_otp) — restart browser session
+
+============================================================
+[27/67] READY: Lilis holisoh | 628112110383 | lilis.holisoh83@gmail.com
+Menunggu 10 detik agar halaman load + modal muncul...
+Klik ULTIMATE -> tunggu 10 detik ...
+Akan mengisi data berikut:
+{
+  "nama_lengkap": "Lilis holisoh",
+  "whatsapp": "628112110383",
+  "email": "lilis.holisoh83@gmail.com",
+  "password": "12345678",
+  "konfirmasi_password": "12345678"
+}
+Form disubmit. Menunggu 30 detik untuk respon / OTP ...
+✅ OTP detected (reason: found_in_html) — restart browser session
+
+============================================================
+[28/67] READY: Andre Setiawan | 62816669680 | tjindjoe2000@yahoo.com
+Menunggu 10 detik agar halaman load + modal muncul...
+Klik ULTIMATE -> tunggu 10 detik ...
+Akan mengisi data berikut:
+{
+  "nama_lengkap": "Andre Setiawan",
+  "whatsapp": "62816669680",
+  "email": "tjindjoe2000@yahoo.com",
+  "password": "12345678",
+  "konfirmasi_password": "12345678"
+}
+Form disubmit. Menunggu 30 detik untuk respon / OTP ...
+✅ OTP detected (reason: found_placeholder_otp) — restart browser session
+
+============================================================
+[29/67] READY: PUTU DANDI PONI ANGGARA | 628123649519 | thudandy046@gmail.com
+Menunggu 10 detik agar halaman load + modal muncul...
+Klik ULTIMATE -> tunggu 10 detik ...
+Akan mengisi data berikut:
+{
+  "nama_lengkap": "PUTU DANDI PONI ANGGARA",
+  "whatsapp": "628123649519",
+  "email": "thudandy046@gmail.com",
+  "password": "12345678",
+  "konfirmasi_password": "12345678"
+}
+Form disubmit. Menunggu 30 detik untuk respon / OTP ...
+✅ OTP detected (reason: found_placeholder_otp) — restart browser session
+
+============================================================
+[30/67] READY: Dinda | 6282121988955 | adindaratti@gmail.com
+Menunggu 10 detik agar halaman load + modal muncul...
+Klik ULTIMATE -> tunggu 10 detik ...
+Akan mengisi data berikut:
+{
+  "nama_lengkap": "Dinda",
+  "whatsapp": "6282121988955",
+  "email": "adindaratti@gmail.com",
+  "password": "12345678",
+  "konfirmasi_password": "12345678"
+}
+Form disubmit. Menunggu 30 detik untuk respon / OTP ...
+✅ OTP detected (reason: found_placeholder_otp) — restart browser session
+
+============================================================
+[31/67] READY: Lenny | 628194115585 | Lian_seven@yahoo.com
+Menunggu 10 detik agar halaman load + modal muncul...
+Warning: gagal klik ULTIMATE: Locator.click: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator("text=ULTIMATE").first
+
+Gagal klik ULTIMATE.
+
+============================================================
+[32/67] READY: Setyawan | 6282125505367 | rejekiku18@gmail.com
+Menunggu 10 detik agar halaman load + modal muncul...
+Klik ULTIMATE -> tunggu 10 detik ...
+Akan mengisi data berikut:
+{
+  "nama_lengkap": "Setyawan",
+  "whatsapp": "6282125505367",
+  "email": "rejekiku18@gmail.com",
+  "password": "12345678",
+  "konfirmasi_password": "12345678"
+}
+Form disubmit. Menunggu 30 detik untuk respon / OTP ...
+✅ OTP detected (reason: found_in_html) — restart browser session
+
+============================================================
+[33/67] READY: wildan | 6285176920908 | wildanpriambodo6@gmail.com
+Menunggu 10 detik agar halaman load + modal muncul...
+Klik ULTIMATE -> tunggu 10 detik ...
+Akan mengisi data berikut:
+{
+  "nama_lengkap": "wildan",
+  "whatsapp": "6285176920908",
+  "email": "wildanpriambodo6@gmail.com",
+  "password": "12345678",
+  "konfirmasi_password": "12345678"
+}
+Form disubmit. Menunggu 30 detik untuk respon / OTP ...
+✅ OTP detected (reason: found_in_html) — restart browser session
+
+============================================================
+[34/67] READY: Denny yendra | 6282165627130 | dennyyendra@gmail.com
+Menunggu 10 detik agar halaman load + modal muncul...
+Klik ULTIMATE -> tunggu 10 detik ...
+Akan mengisi data berikut:
+{
+  "nama_lengkap": "Denny yendra",
+  "whatsapp": "6282165627130",
+  "email": "dennyyendra@gmail.com",
+  "password": "12345678",
+  "konfirmasi_password": "12345678"
+}
+Form disubmit. Menunggu 30 detik untuk respon / OTP ...
+✅ OTP detected (reason: found_placeholder_otp) — restart browser session
+
+============================================================
+[35/67] READY: Sherly widya | 6282284349282 | sheelywidya005@gmail.com
+ERROR: gagal buka URL: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://almai.id/referral/scalpinghack", waiting until "load"
+
+
+============================================================
+[36/67] READY: Andhika Febrianto | 6281220120142 | febriantoandhika@gmail.com
+Menunggu 10 detik agar halaman load + modal muncul...
+Klik ULTIMATE -> tunggu 10 detik ...
+Akan mengisi data berikut:
+{
+  "nama_lengkap": "Andhika Febrianto",
+  "whatsapp": "6281220120142",
+  "email": "febriantoandhika@gmail.com",
+  "password": "12345678",
+  "konfirmasi_password": "12345678"
+}
+Form disubmit. Menunggu 30 detik untuk respon / OTP ...
+✅ OTP detected (reason: found_in_html) — restart browser session
+
+============================================================
+[37/67] READY: Muji | 62811885585 | burrohman@gmail.com
+Menunggu 10 detik agar halaman load + modal muncul...
+Klik ULTIMATE -> tunggu 10 detik ...
+Akan mengisi data berikut:
+{
+  "nama_lengkap": "Muji",
+  "whatsapp": "62811885585",
+  "email": "burrohman@gmail.com",
+  "password": "12345678",
+  "konfirmasi_password": "12345678"
+}
+Form disubmit. Menunggu 30 detik untuk respon / OTP ...
+✅ OTP detected (reason: found_placeholder_otp) — restart browser session
+
+============================================================
+[38/67] READY: Giand Hengki | 6281352501617 | gkaensige@gmail.com
+Menunggu 10 detik agar halaman load + modal muncul...
+Klik ULTIMATE -> tunggu 10 detik ...
+Akan mengisi data berikut:
+{
+  "nama_lengkap": "Giand Hengki",
+  "whatsapp": "6281352501617",
+  "email": "gkaensige@gmail.com",
+  "password": "12345678",
+  "konfirmasi_password": "12345678"
+}
+Form disubmit. Menunggu 30 detik untuk respon / OTP ...
+✅ OTP detected (reason: found_in_html) — restart browser session
+
+============================================================
+[39/67] READY: Yonda Prima | 6281211119824 | primayonda@gmail.com
+Menunggu 10 detik agar halaman load + modal muncul...
+Klik ULTIMATE -> tunggu 10 detik ...
+Akan mengisi data berikut:
+{
+  "nama_lengkap": "Yonda Prima",
+  "whatsapp": "6281211119824",
+  "email": "primayonda@gmail.com",
+  "password": "12345678",
+  "konfirmasi_password": "12345678"
+}
+Form disubmit. Menunggu 30 detik untuk respon / OTP ...
+✅ OTP detected (reason: found_placeholder_otp) — restart browser session
+
+============================================================
+[40/67] READY: Rukmina | 6282171318501 | rukminam13@gmail.com
+ERROR: gagal buka URL: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://almai.id/referral/scalpinghack", waiting until "load"
+
+
+============================================================
+[41/67] READY: Hardinsyah | 628129192259 | hhar6822@gmail.com
+Menunggu 10 detik agar halaman load + modal muncul...
+Klik ULTIMATE -> tunggu 10 detik ...
+Akan mengisi data berikut:
+{
+  "nama_lengkap": "Hardinsyah",
+  "whatsapp": "628129192259",
+  "email": "hhar6822@gmail.com",
+  "password": "12345678",
+  "konfirmasi_password": "12345678"
+}
+Form disubmit. Menunggu 30 detik untuk respon / OTP ...
+✅ OTP detected (reason: found_in_html) — restart browser session
+
+============================================================
+[42/67] READY: Een | 6282284455274 | eenqmail@gmail.com
+Menunggu 10 detik agar halaman load + modal muncul...
+Klik ULTIMATE -> tunggu 10 detik ...
+Akan mengisi data berikut:
+{
+  "nama_lengkap": "Een",
+  "whatsapp": "6282284455274",
+  "email": "eenqmail@gmail.com",
+  "password": "12345678",
+  "konfirmasi_password": "12345678"
+}
+Form disubmit. Menunggu 30 detik untuk respon / OTP ...
+✅ OTP detected (reason: found_in_html) — restart browser session
+
+============================================================
+[43/67] READY: Imam Sunardi | 6285694145488 | imam.sunardi041272@gmail.com
+Menunggu 10 detik agar halaman load + modal muncul...
+Klik ULTIMATE -> tunggu 10 detik ...
+Akan mengisi data berikut:
+{
+  "nama_lengkap": "Imam Sunardi",
+  "whatsapp": "6285694145488",
+  "email": "imam.sunardi041272@gmail.com",
+  "password": "12345678",
+  "konfirmasi_password": "12345678"
+}
+Form disubmit. Menunggu 30 detik untuk respon / OTP ...
+✅ OTP detected (reason: found_placeholder_otp) — restart browser session
+
+============================================================
+[44/67] READY: Prasetyo | 6282131909941 | korintatatagprasetyo198@gmail.com
+Menunggu 10 detik agar halaman load + modal muncul...
+Klik ULTIMATE -> tunggu 10 detik ...
+Akan mengisi data berikut:
+{
+  "nama_lengkap": "Prasetyo",
+  "whatsapp": "6282131909941",
+  "email": "korintatatagprasetyo198@gmail.com",
+  "password": "12345678",
+  "konfirmasi_password": "12345678"
+}
+Form disubmit. Menunggu 30 detik untuk respon / OTP ...
+✅ OTP detected (reason: found_placeholder_otp) — restart browser session
+
+============================================================
+[45/67] READY: Hermawan Imba | 6282346812636 | hermawan.imba@yahoo.com
+Menunggu 10 detik agar halaman load + modal muncul...
+Klik ULTIMATE -> tunggu 10 detik ...
+Akan mengisi data berikut:
+{
+  "nama_lengkap": "Hermawan Imba",
+  "whatsapp": "6282346812636",
+  "email": "hermawan.imba@yahoo.com",
+  "password": "12345678",
+  "konfirmasi_password": "12345678"
+}
+Form disubmit. Menunggu 30 detik untuk respon / OTP ...
+✅ OTP detected (reason: found_in_html) — restart browser session
+
+============================================================
+[46/67] READY: Doni Ardiles | 6281111859186 | doniardiles86@yahoo.com
+Menunggu 10 detik agar halaman load + modal muncul...
+Klik ULTIMATE -> tunggu 10 detik ...
+Akan mengisi data berikut:
+{
+  "nama_lengkap": "Doni Ardiles",
+  "whatsapp": "6281111859186",
+  "email": "doniardiles86@yahoo.com",
+  "password": "12345678",
+  "konfirmasi_password": "12345678"
+}
+Form disubmit. Menunggu 30 detik untuk respon / OTP ...
+✅ OTP detected (reason: found_in_html) — restart browser session
+
+============================================================
+[47/67] READY: SANDRI | 628170071119 | sandrisandri82@gmail.com
+Menunggu 10 detik agar halaman load + modal muncul...
+Klik ULTIMATE -> tunggu 10 detik ...
+Akan mengisi data berikut:
+{
+  "nama_lengkap": "SANDRI",
+  "whatsapp": "628170071119",
+  "email": "sandrisandri82@gmail.com",
+  "password": "12345678",
+  "konfirmasi_password": "12345678"
+}
+Form disubmit. Menunggu 30 detik untuk respon / OTP ...
+✅ OTP detected (reason: found_placeholder_otp) — restart browser session
+
+============================================================
+[48/67] READY: Marendra Febrianas | 6281327157228 | rendraanaz@gmail.com
+Menunggu 10 detik agar halaman load + modal muncul...
+Klik ULTIMATE -> tunggu 10 detik ...
+Akan mengisi data berikut:
+{
+  "nama_lengkap": "Marendra Febrianas",
+  "whatsapp": "6281327157228",
+  "email": "rendraanaz@gmail.com",
+  "password": "12345678",
+  "konfirmasi_password": "12345678"
+}
+Form disubmit. Menunggu 30 detik untuk respon / OTP ...
+✅ OTP detected (reason: found_in_html) — restart browser session
+
+============================================================
+[49/67] READY: Rahadian Ramadhan | 6285810388365 | rahadian.rmdn@gmail.com
+Menunggu 10 detik agar halaman load + modal muncul...
+Klik ULTIMATE -> tunggu 10 detik ...
+Akan mengisi data berikut:
+{
+  "nama_lengkap": "Rahadian Ramadhan",
+  "whatsapp": "6285810388365",
+  "email": "rahadian.rmdn@gmail.com",
+  "password": "12345678",
+  "konfirmasi_password": "12345678"
+}
+Form disubmit. Menunggu 30 detik untuk respon / OTP ...
+✅ OTP detected (reason: found_placeholder_otp) — restart browser session
+
+============================================================
+[50/67] READY: Arrin | 6281325019068 | arrinihidayah@gmail.com
+Menunggu 10 detik agar halaman load + modal muncul...
+Klik ULTIMATE -> tunggu 10 detik ...
+Akan mengisi data berikut:
+{
+  "nama_lengkap": "Arrin",
+  "whatsapp": "6281325019068",
+  "email": "arrinihidayah@gmail.com",
+  "password": "12345678",
+  "konfirmasi_password": "12345678"
+}
+Form disubmit. Menunggu 30 detik untuk respon / OTP ...
+✅ OTP detected (reason: found_placeholder_otp) — restart browser session
+
+============================================================
+[51/67] READY: Oscar | 62816551988 | oscar.hadi.prasetyo@gmail.com
+Menunggu 10 detik agar halaman load + modal muncul...
+Klik ULTIMATE -> tunggu 10 detik ...
+Akan mengisi data berikut:
+{
+  "nama_lengkap": "Oscar",
+  "whatsapp": "62816551988",
+  "email": "oscar.hadi.prasetyo@gmail.com",
+  "password": "12345678",
+  "konfirmasi_password": "12345678"
+}
+Form disubmit. Menunggu 30 detik untuk respon / OTP ...
+✅ OTP detected (reason: found_in_html) — restart browser session
+
+============================================================
+[52/67] READY: jalu ade pamungkas | 6285728340168 | jaludelopes123@gmail.com
+Menunggu 10 detik agar halaman load + modal muncul...
+Klik ULTIMATE -> tunggu 10 detik ...
+Akan mengisi data berikut:
+{
+  "nama_lengkap": "jalu ade pamungkas",
+  "whatsapp": "6285728340168",
+  "email": "jaludelopes123@gmail.com",
+  "password": "12345678",
+  "konfirmasi_password": "12345678"
+}
+Form disubmit. Menunggu 30 detik untuk respon / OTP ...
+✅ OTP detected (reason: found_in_html) — restart browser session
+
+============================================================
+[53/67] READY: Moh Rizal Ubaidilah | 6285706593649 | rizalubaidillah557@gmail.com
+Menunggu 10 detik agar halaman load + modal muncul...
+Klik ULTIMATE -> tunggu 10 detik ...
+Akan mengisi data berikut:
+{
+  "nama_lengkap": "Moh Rizal Ubaidilah",
+  "whatsapp": "6285706593649",
+  "email": "rizalubaidillah557@gmail.com",
+  "password": "12345678",
+  "konfirmasi_password": "12345678"
+}
+Form disubmit. Menunggu 30 detik untuk respon / OTP ...
+✅ OTP detected (reason: found_in_html) — restart browser session
+
+============================================================
+[54/67] READY: flaviana ratnasari | 6287783088836 | flavianaratnasari@gmail.com
+ERROR: gagal buka URL: Page.goto: net::ERR_ABORTED at https://almai.id/referral/scalpinghack
+Call log:
+  - navigating to "https://almai.id/referral/scalpinghack", waiting until "load"
+
+
+============================================================
+[55/67] READY: Yoga satriya tendy | 6281358948380 | yogatendy@gmail.com
+ERROR: gagal buka URL: Page.goto: Navigation to "https://almai.id/referral/scalpinghack" is interrupted by another navigation to "about:blank"
+Call log:
+  - navigating to "https://almai.id/referral/scalpinghack", waiting until "load"
+
+
+============================================================
+[56/67] READY: Deni agung prabowo | 6285210728093 | apdeni094@gmail.com
+ERROR: gagal buka URL: Page.goto: Navigation to "https://almai.id/referral/scalpinghack" is interrupted by another navigation to "https://almai.id/referral/scalpinghack"
+Call log:
+  - navigating to "https://almai.id/referral/scalpinghack", waiting until "load"
+
+
+============================================================
+[57/67] READY: ANDY RAHMAT | 6281312123250 | onetbandung@gmail.com
+ERROR: gagal buka URL: Page.goto: Navigation to "https://almai.id/referral/scalpinghack" is interrupted by another navigation to "https://almai.id/referral/scalpinghack"
+Call log:
+  - navigating to "https://almai.id/referral/scalpinghack", waiting until "load"
+
+
+============================================================
+[58/67] READY: Alvin azhari | 62882003639715 | asyhar72@gmail.com
+ERROR: gagal buka URL: Page.goto: Navigation to "https://almai.id/referral/scalpinghack" is interrupted by another navigation to "https://almai.id/referral/scalpinghack"
+Call log:
+  - navigating to "https://almai.id/referral/scalpinghack", waiting until "load"
+
+
+============================================================
+[59/67] READY: Okgi | 6281930004780 | gieee87@gmail.com
+ERROR: gagal buka URL: Page.goto: Navigation to "https://almai.id/referral/scalpinghack" is interrupted by another navigation to "https://almai.id/referral/scalpinghack"
+Call log:
+  - navigating to "https://almai.id/referral/scalpinghack", waiting until "load"
+
+
+============================================================
+[60/67] READY: Kurniawan | 628119108130 | kurniawan.rifki@gmail.com
+ERROR: gagal buka URL: Page.goto: Navigation to "https://almai.id/referral/scalpinghack" is interrupted by another navigation to "https://almai.id/referral/scalpinghack"
+Call log:
+  - navigating to "https://almai.id/referral/scalpinghack", waiting until "load"
+
+
+============================================================
+[61/67] READY: Rido | 6287871152721 | ridha.trade@gmail.com
+Menunggu 10 detik agar halaman load + modal muncul...
+Klik ULTIMATE -> tunggu 10 detik ...
+Akan mengisi data berikut:
+{
+  "nama_lengkap": "Rido",
+  "whatsapp": "6287871152721",
+  "email": "ridha.trade@gmail.com",
+  "password": "12345678",
+  "konfirmasi_password": "12345678"
+}
+Form disubmit. Menunggu 30 detik untuk respon / OTP ...
+✅ OTP detected (reason: found_placeholder_otp) — restart browser session
+
+============================================================
+[62/67] READY: San San | 6281809149072 | sunsansan77@gmail.com
+Menunggu 10 detik agar halaman load + modal muncul...
+Klik ULTIMATE -> tunggu 10 detik ...
+Akan mengisi data berikut:
+{
+  "nama_lengkap": "San San",
+  "whatsapp": "6281809149072",
+  "email": "sunsansan77@gmail.com",
+  "password": "12345678",
+  "konfirmasi_password": "12345678"
+}
+Form disubmit. Menunggu 30 detik untuk respon / OTP ...
+✅ OTP detected (reason: found_in_html) — restart browser session
+
+============================================================
+[63/67] READY: Novrie A Sondakh | 62811433267 | novrie_07@yahoo.com
+Menunggu 10 detik agar halaman load + modal muncul...
+Klik ULTIMATE -> tunggu 10 detik ...
+Akan mengisi data berikut:
+{
+  "nama_lengkap": "Novrie A Sondakh",
+  "whatsapp": "62811433267",
+  "email": "novrie_07@yahoo.com",
+  "password": "12345678",
+  "konfirmasi_password": "12345678"
+}
+Form disubmit. Menunggu 30 detik untuk respon / OTP ...
+✅ OTP detected (reason: found_placeholder_otp) — restart browser session
+
+============================================================
+[64/67] READY: Jordan Ari Erlambang | 6282111838881 | jordanari.87@gmail.com
+Menunggu 10 detik agar halaman load + modal muncul...
+Klik ULTIMATE -> tunggu 10 detik ...
+Akan mengisi data berikut:
+{
+  "nama_lengkap": "Jordan Ari Erlambang",
+  "whatsapp": "6282111838881",
+  "email": "jordanari.87@gmail.com",
+  "password": "12345678",
+  "konfirmasi_password": "12345678"
+}
+Form disubmit. Menunggu 30 detik untuk respon / OTP ...
+✅ OTP detected (reason: found_in_html) — restart browser session
+
+============================================================
+[65/67] READY: Teddi Fahmiadi | 6287887440512 | fahmiaditeddi77@gmail.com
+Menunggu 10 detik agar halaman load + modal muncul...
+Klik ULTIMATE -> tunggu 10 detik ...
+Akan mengisi data berikut:
+{
+  "nama_lengkap": "Teddi Fahmiadi",
+  "whatsapp": "6287887440512",
+  "email": "fahmiaditeddi77@gmail.com",
+  "password": "12345678",
+  "konfirmasi_password": "12345678"
+}
+Form disubmit. Menunggu 30 detik untuk respon / OTP ...
+✅ OTP detected (reason: found_in_html) — restart browser session
+
+============================================================
+[66/67] READY: Fikri Ferdian Khalid | 6285172404577 | fikriiferdian458@gmail.com
+Menunggu 10 detik agar halaman load + modal muncul...
+Klik ULTIMATE -> tunggu 10 detik ...
+Akan mengisi data berikut:
+{
+  "nama_lengkap": "Fikri Ferdian Khalid",
+  "whatsapp": "6285172404577",
+  "email": "fikriiferdian458@gmail.com",
+  "password": "12345678",
+  "konfirmasi_password": "12345678"
+}
+Form disubmit. Menunggu 30 detik untuk respon / OTP ...
+✅ OTP detected (reason: found_in_html) — restart browser session
+
+============================================================
+[67/67] READY: Jordan | 6281277224498 | jordanbagas12@gmail.com
+Menunggu 10 detik agar halaman load + modal muncul...
+Klik ULTIMATE -> tunggu 10 detik ...
+Akan mengisi data berikut:
+{
+  "nama_lengkap": "Jordan",
+  "whatsapp": "6281277224498",
+  "email": "jordanbagas12@gmail.com",
+  "password": "12345678",
+  "konfirmasi_password": "12345678"
+}
+Form disubmit. Menunggu 30 detik untuk respon / OTP ...
+✅ OTP detected (reason: found_placeholder_otp) — restart browser session
+Semua proses selesai. Menyimpan progress terakhir.
+(venv) linjinfeng@linjinfeng-Thin-15-B12VE:~/Documents/BotSpamMe/AlmaiBot$ 

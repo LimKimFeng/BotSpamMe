@@ -1,0 +1,3981 @@
+{
+  "nanobrin@gmail.com": {
+    "status": "skipped",
+    "error": "fill_error: Page.fill: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"input[name='phone']\")\n    - locator resolved to 4 elements. Proceeding with the first one: <input value=\"\" name=\"phone\" type=\"hidden\"/>\n    - fill(\"6282116983522\")\n  - attempting fill action\n    2 × waiting for element to be visible, enabled and editable\n      - element is not visible\n    - retrying fill action\n    - waiting 20ms\n    2 × waiting for element to be visible, enabled and editable\n      - element is not visible\n    - retrying fill action\n      - waiting 100ms\n    59 × waiting for element to be visible, enabled and editable\n       - element is not visible\n     - retrying fill action\n       - waiting 500ms\n",
+    "screenshot": "screenshots/otp_1.png",
+    "meta": {
+      "nama_lengkap": "Nano",
+      "whatsapp": "6282116983522",
+      "email": "nanobrin@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_text_Verifikasi_OTP",
+    "phone_hidden": "+6282116983522"
+  },
+  "asmeldi@gmail.com": {
+    "status": "otp_required",
+    "error": "click_ultimate_failed",
+    "screenshot": "screenshots/otp_2.png",
+    "meta": {
+      "nama_lengkap": "Asmeldi",
+      "whatsapp": "6281268557142",
+      "email": "asmeldi@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html"
+  },
+  "sadhamcso@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Sadham Davin",
+      "whatsapp": "6288214256728",
+      "email": "sadhamcso@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_3.png"
+  },
+  "romiaziz77@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Romi Aziz",
+      "whatsapp": "628998078650",
+      "email": "romiaziz77@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_text_Verifikasi_OTP",
+    "screenshot": "screenshots/otp_4.png"
+  },
+  "diarekapratiwi@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Diar eka",
+      "whatsapp": "6281289656350",
+      "email": "diarekapratiwi@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_text_Verifikasi_OTP",
+    "screenshot": "screenshots/otp_5.png"
+  },
+  "ferdian.kamdani@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Ferdian",
+      "whatsapp": "628179989910",
+      "email": "ferdian.kamdani@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_6.png"
+  },
+  "dealex6789@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Denny",
+      "whatsapp": "6281331215941",
+      "email": "dealex6789@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_7.png"
+  },
+  "donpablopratama@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Donpablo",
+      "whatsapp": "6281703687272",
+      "email": "donpablopratama@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_8.png"
+  },
+  "indra.sulaeman471@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Indra Sulaeman",
+      "whatsapp": "6285720002655",
+      "email": "indra.sulaeman471@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_9.png"
+  },
+  "erna.febriyanti82@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Erna",
+      "whatsapp": "62811411044",
+      "email": "erna.febriyanti82@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_10.png"
+  },
+  "rhinyv@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Rhiny Violet",
+      "whatsapp": "6285299446090",
+      "email": "rhinyv@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_11.png"
+  },
+  "santoso.leonardi@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Santoso Leonardi",
+      "whatsapp": "6285218502828",
+      "email": "santoso.leonardi@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_12.png"
+  },
+  "fitrizulfani6@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Fitri Zulfani",
+      "whatsapp": "6287772067500",
+      "email": "fitrizulfani6@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_1.png"
+  },
+  "mario.ddf@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Mario Domingo",
+      "whatsapp": "6283853113619",
+      "email": "mario.ddf@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_2.png"
+  },
+  "nang.indolakto@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Nanang Setionugroho",
+      "whatsapp": "62811250281",
+      "email": "nang.indolakto@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_3.png"
+  },
+  "coel983r@gmail.com": {
+    "status": "otp_required",
+    "error": "nav_error: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://almai.id/referral/scalpinghack\", waiting until \"load\"\n",
+    "meta": {
+      "nama_lengkap": "Josh",
+      "whatsapp": "6281286898948",
+      "email": "coel983r@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_1.png"
+  },
+  "umarnoegroho@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Umar Noegroho Budhiawan",
+      "whatsapp": "62817183486",
+      "email": "umarnoegroho@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_5.png"
+  },
+  "wishnu_176@yahoo.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "wisnu",
+      "whatsapp": "6281287727730",
+      "email": "wishnu_176@yahoo.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_6.png"
+  },
+  "mamunr129@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Ma'mun Romansyah",
+      "whatsapp": "6281906263611",
+      "email": "mamunr129@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_7.png"
+  },
+  "irawanmade187@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "M Ade Irawan",
+      "whatsapp": "6285691247084",
+      "email": "irawanmade187@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_8.png"
+  },
+  "arsyanaufall410@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Tubagus arsya",
+      "whatsapp": "6288220346688",
+      "email": "arsyanaufall410@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_9.png"
+  },
+  "dunia_td@yahoo.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Dini",
+      "whatsapp": "628158014015",
+      "email": "dunia_td@yahoo.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_10.png"
+  },
+  "gfr.rozaq@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Ghifari Rozaq",
+      "whatsapp": "6281389996747",
+      "email": "gfr.rozaq@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_11.png"
+  },
+  "ivanhartono1@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Ivan",
+      "whatsapp": "6285759872123",
+      "email": "ivanhartono1@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_12.png"
+  },
+  "iskandar99nm@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Iskandar nur misuari",
+      "whatsapp": "6285967153185",
+      "email": "iskandar99nm@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_13.png"
+  },
+  "ega17arie@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Ega",
+      "whatsapp": "6281312032527",
+      "email": "ega17arie@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_14.png"
+  },
+  "nursalimsiman@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Nursalim",
+      "whatsapp": "6281212315169",
+      "email": "nursalimsiman@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_15.png"
+  },
+  "rahayutrie1308@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Tri rahayu",
+      "whatsapp": "6281377580054",
+      "email": "rahayutrie1308@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_16.png"
+  },
+  "selametminanto75@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Selamet Minanto",
+      "whatsapp": "6283871930595",
+      "email": "selametminanto75@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_text_Verifikasi_OTP",
+    "screenshot": "screenshots/otp_17.png"
+  },
+  "imelda.marlin20@gmail.com": {
+    "status": "otp_required",
+    "error": "nav_error: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://almai.id/referral/scalpinghack\", waiting until \"load\"\n",
+    "meta": {
+      "nama_lengkap": "Imelda",
+      "whatsapp": "6281256633123",
+      "email": "imelda.marlin20@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_2.png"
+  },
+  "budisantoso.kudus@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Budi Santoso",
+      "whatsapp": "6285697883136",
+      "email": "budisantoso.kudus@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_19.png"
+  },
+  "roni_sulriendi@yahoo.co.id": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Roni Sulriendi",
+      "whatsapp": "6281266334422",
+      "email": "roni_sulriendi@yahoo.co.id",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_20.png"
+  },
+  "somaanand02@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Soma Anand",
+      "whatsapp": "628566363456",
+      "email": "somaanand02@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_21.png"
+  },
+  "riswannoerdihardjo@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Riswan Nurdiharjo",
+      "whatsapp": "6281388558449",
+      "email": "riswannoerdihardjo@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_22.png"
+  },
+  "mifftahmubarook@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "miftah mubarok",
+      "whatsapp": "6289671418057",
+      "email": "mifftahmubarook@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_23.png"
+  },
+  "sat.forwork25@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Satria",
+      "whatsapp": "6282116371448",
+      "email": "sat.forwork25@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_24.png"
+  },
+  "nimalmaulidaa@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Nimal Maulida",
+      "whatsapp": "6282223109991",
+      "email": "nimalmaulidaa@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_25.png"
+  },
+  "widyawahyuningsih3@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Widya Wahyuningsih",
+      "whatsapp": "6285299256569",
+      "email": "widyawahyuningsih3@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_26.png"
+  },
+  "lilis.holisoh83@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Lilis holisoh",
+      "whatsapp": "628112110383",
+      "email": "lilis.holisoh83@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_27.png"
+  },
+  "tjindjoe2000@yahoo.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Andre Setiawan",
+      "whatsapp": "62816669680",
+      "email": "tjindjoe2000@yahoo.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_28.png"
+  },
+  "thudandy046@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "PUTU DANDI PONI ANGGARA",
+      "whatsapp": "628123649519",
+      "email": "thudandy046@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_29.png"
+  },
+  "adindaratti@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Dinda",
+      "whatsapp": "6282121988955",
+      "email": "adindaratti@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_30.png"
+  },
+  "lian_seven@yahoo.com": {
+    "status": "error",
+    "error": "click_ultimate_failed",
+    "screenshot": "screenshots/error_ult_31.png"
+  },
+  "rejekiku18@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Setyawan",
+      "whatsapp": "6282125505367",
+      "email": "rejekiku18@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_32.png"
+  },
+  "wildanpriambodo6@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "wildan",
+      "whatsapp": "6285176920908",
+      "email": "wildanpriambodo6@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_33.png"
+  },
+  "dennyyendra@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Denny yendra",
+      "whatsapp": "6282165627130",
+      "email": "dennyyendra@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_34.png"
+  },
+  "sheelywidya005@gmail.com": {
+    "status": "otp_required",
+    "error": "nav_error: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://almai.id/referral/scalpinghack\", waiting until \"load\"\n",
+    "meta": {
+      "nama_lengkap": "Sherly widya",
+      "whatsapp": "6282284349282",
+      "email": "sheelywidya005@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_3.png"
+  },
+  "febriantoandhika@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Andhika Febrianto",
+      "whatsapp": "6281220120142",
+      "email": "febriantoandhika@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_36.png"
+  },
+  "burrohman@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Muji",
+      "whatsapp": "62811885585",
+      "email": "burrohman@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_37.png"
+  },
+  "gkaensige@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Giand Hengki",
+      "whatsapp": "6281352501617",
+      "email": "gkaensige@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_38.png"
+  },
+  "primayonda@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Yonda Prima",
+      "whatsapp": "6281211119824",
+      "email": "primayonda@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_39.png"
+  },
+  "rukminam13@gmail.com": {
+    "status": "otp_required",
+    "error": "nav_error: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://almai.id/referral/scalpinghack\", waiting until \"load\"\n",
+    "meta": {
+      "nama_lengkap": "Rukmina",
+      "whatsapp": "6282171318501",
+      "email": "rukminam13@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_4.png"
+  },
+  "hhar6822@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Hardinsyah",
+      "whatsapp": "628129192259",
+      "email": "hhar6822@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_41.png"
+  },
+  "eenqmail@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Een",
+      "whatsapp": "6282284455274",
+      "email": "eenqmail@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_42.png"
+  },
+  "imam.sunardi041272@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Imam Sunardi",
+      "whatsapp": "6285694145488",
+      "email": "imam.sunardi041272@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_43.png"
+  },
+  "korintatatagprasetyo198@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Prasetyo",
+      "whatsapp": "6282131909941",
+      "email": "korintatatagprasetyo198@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_44.png"
+  },
+  "hermawan.imba@yahoo.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Hermawan Imba",
+      "whatsapp": "6282346812636",
+      "email": "hermawan.imba@yahoo.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_45.png"
+  },
+  "doniardiles86@yahoo.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Doni Ardiles",
+      "whatsapp": "6281111859186",
+      "email": "doniardiles86@yahoo.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_46.png"
+  },
+  "sandrisandri82@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "SANDRI",
+      "whatsapp": "628170071119",
+      "email": "sandrisandri82@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_47.png"
+  },
+  "rendraanaz@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Marendra Febrianas",
+      "whatsapp": "6281327157228",
+      "email": "rendraanaz@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_48.png"
+  },
+  "rahadian.rmdn@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Rahadian Ramadhan",
+      "whatsapp": "6285810388365",
+      "email": "rahadian.rmdn@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_49.png"
+  },
+  "arrinihidayah@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Arrin",
+      "whatsapp": "6281325019068",
+      "email": "arrinihidayah@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_50.png"
+  },
+  "oscar.hadi.prasetyo@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Oscar",
+      "whatsapp": "62816551988",
+      "email": "oscar.hadi.prasetyo@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_51.png"
+  },
+  "jaludelopes123@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "jalu ade pamungkas",
+      "whatsapp": "6285728340168",
+      "email": "jaludelopes123@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_52.png"
+  },
+  "rizalubaidillah557@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Moh Rizal Ubaidilah",
+      "whatsapp": "6285706593649",
+      "email": "rizalubaidillah557@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_53.png"
+  },
+  "flavianaratnasari@gmail.com": {
+    "status": "otp_required",
+    "error": "nav_error: Page.goto: net::ERR_ABORTED at https://almai.id/referral/scalpinghack\nCall log:\n  - navigating to \"https://almai.id/referral/scalpinghack\", waiting until \"load\"\n",
+    "meta": {
+      "nama_lengkap": "flaviana ratnasari",
+      "whatsapp": "6287783088836",
+      "email": "flavianaratnasari@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_5.png"
+  },
+  "yogatendy@gmail.com": {
+    "status": "otp_required",
+    "error": "nav_error: Page.goto: Navigation to \"https://almai.id/referral/scalpinghack\" is interrupted by another navigation to \"about:blank\"\nCall log:\n  - navigating to \"https://almai.id/referral/scalpinghack\", waiting until \"load\"\n",
+    "meta": {
+      "nama_lengkap": "Yoga satriya tendy",
+      "whatsapp": "6281358948380",
+      "email": "yogatendy@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_6.png"
+  },
+  "apdeni094@gmail.com": {
+    "status": "otp_required",
+    "error": "nav_error: Page.goto: Navigation to \"https://almai.id/referral/scalpinghack\" is interrupted by another navigation to \"https://almai.id/referral/scalpinghack\"\nCall log:\n  - navigating to \"https://almai.id/referral/scalpinghack\", waiting until \"load\"\n",
+    "meta": {
+      "nama_lengkap": "Deni agung prabowo",
+      "whatsapp": "6285210728093",
+      "email": "apdeni094@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_7.png"
+  },
+  "onetbandung@gmail.com": {
+    "status": "otp_required",
+    "error": "nav_error: Page.goto: Navigation to \"https://almai.id/referral/scalpinghack\" is interrupted by another navigation to \"https://almai.id/referral/scalpinghack\"\nCall log:\n  - navigating to \"https://almai.id/referral/scalpinghack\", waiting until \"load\"\n",
+    "meta": {
+      "nama_lengkap": "ANDY RAHMAT",
+      "whatsapp": "6281312123250",
+      "email": "onetbandung@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_8.png"
+  },
+  "asyhar72@gmail.com": {
+    "status": "otp_required",
+    "error": "nav_error: Page.goto: Navigation to \"https://almai.id/referral/scalpinghack\" is interrupted by another navigation to \"https://almai.id/referral/scalpinghack\"\nCall log:\n  - navigating to \"https://almai.id/referral/scalpinghack\", waiting until \"load\"\n",
+    "meta": {
+      "nama_lengkap": "Alvin azhari",
+      "whatsapp": "62882003639715",
+      "email": "asyhar72@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_9.png"
+  },
+  "gieee87@gmail.com": {
+    "status": "otp_required",
+    "error": "nav_error: Page.goto: Navigation to \"https://almai.id/referral/scalpinghack\" is interrupted by another navigation to \"https://almai.id/referral/scalpinghack\"\nCall log:\n  - navigating to \"https://almai.id/referral/scalpinghack\", waiting until \"load\"\n",
+    "meta": {
+      "nama_lengkap": "Okgi",
+      "whatsapp": "6281930004780",
+      "email": "gieee87@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_10.png"
+  },
+  "kurniawan.rifki@gmail.com": {
+    "status": "otp_required",
+    "error": "nav_error: Page.goto: Navigation to \"https://almai.id/referral/scalpinghack\" is interrupted by another navigation to \"https://almai.id/referral/scalpinghack\"\nCall log:\n  - navigating to \"https://almai.id/referral/scalpinghack\", waiting until \"load\"\n",
+    "meta": {
+      "nama_lengkap": "Kurniawan",
+      "whatsapp": "628119108130",
+      "email": "kurniawan.rifki@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_11.png"
+  },
+  "ridha.trade@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Rido",
+      "whatsapp": "6287871152721",
+      "email": "ridha.trade@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_61.png"
+  },
+  "sunsansan77@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "San San",
+      "whatsapp": "6281809149072",
+      "email": "sunsansan77@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_62.png"
+  },
+  "novrie_07@yahoo.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Novrie A Sondakh",
+      "whatsapp": "62811433267",
+      "email": "novrie_07@yahoo.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_63.png"
+  },
+  "jordanari.87@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Jordan Ari Erlambang",
+      "whatsapp": "6282111838881",
+      "email": "jordanari.87@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_64.png"
+  },
+  "fahmiaditeddi77@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Teddi Fahmiadi",
+      "whatsapp": "6287887440512",
+      "email": "fahmiaditeddi77@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_65.png"
+  },
+  "fikriiferdian458@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Fikri Ferdian Khalid",
+      "whatsapp": "6285172404577",
+      "email": "fikriiferdian458@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_66.png"
+  },
+  "jordanbagas12@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Jordan",
+      "whatsapp": "6281277224498",
+      "email": "jordanbagas12@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_67.png"
+  },
+  "yohanesteja57@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Sujono T",
+      "whatsapp": "62816610408",
+      "email": "yohanesteja57@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_1.png"
+  },
+  "jjutamulia@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Joan",
+      "whatsapp": "6282227529759",
+      "email": "jjutamulia@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_2.png"
+  },
+  "manroe90210@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Hariyanto",
+      "whatsapp": "6281275915613",
+      "email": "manroe90210@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_text_Verifikasi_OTP",
+    "screenshot": "screenshots/otp_3.png"
+  },
+  "rte.iicchhaa@ymail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Icha",
+      "whatsapp": "6285697549282",
+      "email": "rte.iicchhaa@ymail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_4.png"
+  },
+  "ernautamiroesdiono@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Erna Utami",
+      "whatsapp": "628819323384",
+      "email": "ernautamiroesdiono@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_7.png",
+    "error": "click_ultimate_failed"
+  },
+  "dickysoemanto@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Dicky A S",
+      "whatsapp": "628976264000",
+      "email": "dickysoemanto@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_6.png"
+  },
+  "fathuzzikri.1@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "zikri",
+      "whatsapp": "62895801582162",
+      "email": "fathuzzikri.1@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_7.png"
+  },
+  "phillips8204@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Phillips",
+      "whatsapp": "6281336118882",
+      "email": "phillips8204@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_input_name_token",
+    "screenshot": "screenshots/otp_8.png"
+  },
+  "purwanto82@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Purwanto",
+      "whatsapp": "628123636967",
+      "email": "purwanto82@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_9.png"
+  },
+  "hasbullahblog@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "hasbullah",
+      "whatsapp": "62895620635888",
+      "email": "hasbullahblog@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_10.png"
+  },
+  "rudifiyatno@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Rudi fiyatno",
+      "whatsapp": "6281260963696",
+      "email": "rudifiyatno@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_11.png"
+  },
+  "joseph.erafiesta@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Joseph",
+      "whatsapp": "628998853303",
+      "email": "joseph.erafiesta@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_12.png"
+  },
+  "nurkholifah356@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Nur",
+      "whatsapp": "6283871268027",
+      "email": "nurkholifah356@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_13.png"
+  },
+  "imelda.pusposari@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Imelda Maria",
+      "whatsapp": "62811103917",
+      "email": "imelda.pusposari@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_14.png"
+  },
+  "jaluleodaeng@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Wawan",
+      "whatsapp": "6281333640231",
+      "email": "jaluleodaeng@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_text_Verifikasi_OTP",
+    "screenshot": "screenshots/otp_15.png"
+  },
+  "bayusaputra.pttwel@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Bayu Saputra",
+      "whatsapp": "6281342808013",
+      "email": "bayusaputra.pttwel@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_16.png"
+  },
+  "sowyopihyohanes@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "dr. Sow Yopih Yohanes",
+      "whatsapp": "6285157085711",
+      "email": "sowyopihyohanes@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_17.png"
+  },
+  "adritashter1922@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Adrit",
+      "whatsapp": "6289637161922",
+      "email": "adritashter1922@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_18.png"
+  },
+  "fslysf@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Faisal",
+      "whatsapp": "6281269516851",
+      "email": "fslysf@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_19.png"
+  },
+  "emeraldgold68@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Jenny Sakti",
+      "whatsapp": "6287785000169",
+      "email": "emeraldgold68@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_20.png"
+  },
+  "salimbasir24@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Salim Basir",
+      "whatsapp": "62811510011",
+      "email": "salimbasir24@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_21.png"
+  },
+  "gamedulu02@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Helmi",
+      "whatsapp": "6282148133422",
+      "email": "gamedulu02@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_22.png"
+  },
+  "jeannetselanno@yahoo.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "astrid Selanno",
+      "whatsapp": "6281355969641",
+      "email": "jeannetselanno@yahoo.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_23.png"
+  },
+  "hansck95@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Hans christian",
+      "whatsapp": "6287809074045",
+      "email": "hansck95@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_24.png"
+  },
+  "dosendeso@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Fajar",
+      "whatsapp": "6285735198646",
+      "email": "dosendeso@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_25.png"
+  },
+  "rexsad5@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Rexsa Dehastian Firdaus",
+      "whatsapp": "6281882869053",
+      "email": "rexsad5@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_26.png"
+  },
+  "musman.62905@gmaul.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Latif Ridho",
+      "whatsapp": "6282278878692",
+      "email": "musman.62905@gmaul.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_27.png"
+  },
+  "arfanazmi2310@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Ricca",
+      "whatsapp": "6282117333585",
+      "email": "arfanazmi2310@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_28.png"
+  },
+  "nindiaastrid@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Astrid",
+      "whatsapp": "6281289501523",
+      "email": "nindiaastrid@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_29.png"
+  },
+  "pramudyaf19@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Fajar",
+      "whatsapp": "62895620424638",
+      "email": "pramudyaf19@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_text_Verifikasi_OTP",
+    "screenshot": "screenshots/otp_30.png"
+  },
+  "lestari.retna@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Lestari retna",
+      "whatsapp": "6282232456693",
+      "email": "lestari.retna@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_31.png"
+  },
+  "gededarmajaya1@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Darma",
+      "whatsapp": "6281330351698",
+      "email": "gededarmajaya1@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_32.png"
+  },
+  "sukma12ariga@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Sukma Rizki ariga",
+      "whatsapp": "6281264418767",
+      "email": "sukma12ariga@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_33.png"
+  },
+  "honeyjasmine8888@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Heni",
+      "whatsapp": "6282123179651",
+      "email": "honeyjasmine8888@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_34.png"
+  },
+  "wi.isnanto@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "WAHID ILHAM ISNANTO",
+      "whatsapp": "628970584007",
+      "email": "wi.isnanto@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_35.png"
+  },
+  "sukamtotamrin142@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Sukamto",
+      "whatsapp": "6282114216110",
+      "email": "sukamtotamrin142@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_36.png"
+  },
+  "ekakulana@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Eka",
+      "whatsapp": "6288990458459",
+      "email": "ekakulana@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_37.png"
+  },
+  "carakanusa.bongy@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Bongy",
+      "whatsapp": "62859106618806",
+      "email": "carakanusa.bongy@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_38.png"
+  },
+  "isagunawarman@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Isa",
+      "whatsapp": "628174785521",
+      "email": "isagunawarman@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_input_name_token",
+    "screenshot": "screenshots/otp_39.png"
+  },
+  "hauhua_2003@yahoo.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Felix Tio",
+      "whatsapp": "62819868988",
+      "email": "hauhua_2003@yahoo.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_40.png"
+  },
+  "imamardi123456789@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "IMAM ARDIANSYAH PUTRA",
+      "whatsapp": "6281232032087",
+      "email": "imamardi123456789@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_41.png"
+  },
+  "komanganandinieva@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "NI KOMANG ANANDINI EVA",
+      "whatsapp": "6282147014878",
+      "email": "komanganandinieva@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_42.png"
+  },
+  "alvinsalim01@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Alvin Pratama Salim",
+      "whatsapp": "628113338088",
+      "email": "alvinsalim01@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_43.png"
+  },
+  "hermanta.tarigan77@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Herman",
+      "whatsapp": "6285225325552",
+      "email": "hermanta.tarigan77@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_input_name_token",
+    "screenshot": "screenshots/otp_44.png"
+  },
+  "ayatullahherlangga@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Ayattullah Herlangga",
+      "whatsapp": "6285275720959",
+      "email": "ayatullahherlangga@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_45.png"
+  },
+  "haryonotayo@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Taufan Haryono",
+      "whatsapp": "6285733675012",
+      "email": "haryonotayo@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_46.png"
+  },
+  "kainunaaneira@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Rama sari",
+      "whatsapp": "6285121347787",
+      "email": "kainunaaneira@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_47.png"
+  },
+  "taslimforbid@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Boy",
+      "whatsapp": "6281617363667",
+      "email": "taslimforbid@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_48.png"
+  },
+  "angga_aditya_wicaksana@yahoo.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Angga aditya wicaksana",
+      "whatsapp": "6281310119884",
+      "email": "angga_aditya_wicaksana@yahoo.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_49.png"
+  },
+  "rightfauzi33@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Rifki Fauzi",
+      "whatsapp": "6289625531817",
+      "email": "rightfauzi33@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_50.png"
+  },
+  "andriantofsf@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Andrianto",
+      "whatsapp": "6281232565171",
+      "email": "andriantofsf@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_text_Verifikasi_OTP",
+    "screenshot": "screenshots/otp_51.png"
+  },
+  "rsramadhan@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Rachmat",
+      "whatsapp": "6285283132413",
+      "email": "rsramadhan@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_52.png"
+  },
+  "aksimandiri76@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Toni Hendrawan",
+      "whatsapp": "628112116562",
+      "email": "aksimandiri76@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_53.png"
+  },
+  "y4nti2009@yahoo.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Yanti",
+      "whatsapp": "6281384878277",
+      "email": "y4nti2009@yahoo.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_54.png"
+  },
+  "yulistyawr@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Yulie",
+      "whatsapp": "6281398303089",
+      "email": "yulistyawr@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_input_name_token",
+    "screenshot": "screenshots/otp_55.png"
+  },
+  "ramandagi@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Ronny Arnold Mandagi",
+      "whatsapp": "62818882609",
+      "email": "ramandagi@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_56.png"
+  },
+  "coykuy233@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "ADIT TIYA PUTRA PRTAMA",
+      "whatsapp": "6282115133650",
+      "email": "coykuy233@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_57.png"
+  },
+  "aninzona@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Asep zodi",
+      "whatsapp": "6287714571323",
+      "email": "aninzona@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_58.png"
+  },
+  "i77onk@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Hendra Wahyu A",
+      "whatsapp": "6282316950503",
+      "email": "i77onk@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_59.png"
+  },
+  "praditha.207@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Yulia Praditha",
+      "whatsapp": "628119420791",
+      "email": "praditha.207@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_60.png"
+  },
+  "ririnydoni.1978@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "nofridha",
+      "whatsapp": "6282172320772",
+      "email": "ririnydoni.1978@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_61.png"
+  },
+  "harimhrm7@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Harimuharram Harimuharram",
+      "whatsapp": "6281354626317",
+      "email": "harimhrm7@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_62.png"
+  },
+  "amiawmiong@yahoo.co.id": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Amie",
+      "whatsapp": "6289505058600",
+      "email": "amiawmiong@yahoo.co.id",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_63.png"
+  },
+  "agungismail62@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Agung ismail",
+      "whatsapp": "6285719672575",
+      "email": "agungismail62@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_64.png"
+  },
+  "david_godson@rocketmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Carlos",
+      "whatsapp": "6281344587217",
+      "email": "david_godson@rocketmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_input_name_token",
+    "screenshot": "screenshots/otp_65.png"
+  },
+  "ryansatria2308@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "achmad ryan satria",
+      "whatsapp": "6281118895298",
+      "email": "ryansatria2308@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_66.png"
+  },
+  "danierfan04@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "dani erfansyah",
+      "whatsapp": "6281387888628",
+      "email": "danierfan04@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_67.png"
+  },
+  "okkykurniawanromadhoni@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Oky kurniawan",
+      "whatsapp": "628112516949",
+      "email": "okkykurniawanromadhoni@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_68.png"
+  },
+  "hady.amrullah@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Hady Amrullah",
+      "whatsapp": "6281908102828",
+      "email": "hady.amrullah@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_69.png"
+  },
+  "aldianmiftah@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Miftah",
+      "whatsapp": "6285326033451",
+      "email": "aldianmiftah@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_70.png"
+  },
+  "bobbybmp95@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Bobby Mandala",
+      "whatsapp": "6287771851608",
+      "email": "bobbybmp95@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_71.png"
+  },
+  "giel310704@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Danny widjaja",
+      "whatsapp": "6285264888899",
+      "email": "giel310704@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_72.png"
+  },
+  "rahmania.abdullah31@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Rahmania",
+      "whatsapp": "62818155657",
+      "email": "rahmania.abdullah31@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_73.png"
+  },
+  "dokter.skincare11@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Ira",
+      "whatsapp": "628121567370",
+      "email": "dokter.skincare11@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_74.png"
+  },
+  "niyyasarah@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Sarah",
+      "whatsapp": "628123456542",
+      "email": "niyyasarah@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_75.png"
+  },
+  "bayegairlangga81@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Bay",
+      "whatsapp": "62811522116",
+      "email": "bayegairlangga81@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_text_Verifikasi_OTP",
+    "screenshot": "screenshots/otp_76.png"
+  },
+  "adinzahra12@gmail.com": {
+    "status": "error",
+    "error": "nav_error: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://almai.id/referral/scalpinghack\", waiting until \"load\"\n"
+  },
+  "wisnusamueluns@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Wisnu Samuel Atmaja Triwarsita",
+      "whatsapp": "6281904139425",
+      "email": "wisnusamueluns@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_text_Verifikasi_OTP",
+    "screenshot": "screenshots/otp_78.png"
+  },
+  "ujangkr@icloud.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Ujang Rohanda",
+      "whatsapp": "628122064602",
+      "email": "ujangkr@icloud.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_79.png"
+  },
+  "beducode@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "bedu",
+      "whatsapp": "6281281791300",
+      "email": "beducode@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_80.png"
+  },
+  "watiefajar@yahoo.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Fajarwati",
+      "whatsapp": "62816734569",
+      "email": "watiefajar@yahoo.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_81.png"
+  },
+  "arga1726@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Muhamad Arya Rangga Yuda",
+      "whatsapp": "6285881578328",
+      "email": "arga1726@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_82.png"
+  },
+  "nusair.cai@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Nusair",
+      "whatsapp": "628152518017",
+      "email": "nusair.cai@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_83.png"
+  },
+  "analita86@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Ana Fiolita",
+      "whatsapp": "628980333132",
+      "email": "analita86@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_84.png"
+  },
+  "sarahnabilla76@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Sarah nabilla",
+      "whatsapp": "6285213159662",
+      "email": "sarahnabilla76@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_input_name_token",
+    "screenshot": "screenshots/otp_85.png"
+  },
+  "miagunawan09@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Mia Gunawan",
+      "whatsapp": "6281359022330",
+      "email": "miagunawan09@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_text_Verifikasi_OTP",
+    "screenshot": "screenshots/otp_86.png"
+  },
+  "ambikbonus@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Makrup",
+      "whatsapp": "6282288262945",
+      "email": "ambikbonus@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_87.png"
+  },
+  "junapakondo@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Juna",
+      "whatsapp": "6281288884221",
+      "email": "junapakondo@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_text_Verifikasi_OTP",
+    "screenshot": "screenshots/otp_88.png"
+  },
+  "mahariramadhan@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "ardi",
+      "whatsapp": "6281295485199",
+      "email": "mahariramadhan@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_89.png"
+  },
+  "ruski0684@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Ruski",
+      "whatsapp": "6285218882824",
+      "email": "ruski0684@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_1.png"
+  },
+  "shinxgami@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "sonny",
+      "whatsapp": "6281534445006",
+      "email": "shinxgami@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_2.png"
+  },
+  "vconxkrt@gmail.com": {
+    "status": "error",
+    "error": "nav_error: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://almai.id/referral/scalpinghack\", waiting until \"load\"\n"
+  },
+  "armintrias@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Armin",
+      "whatsapp": "6281222534053",
+      "email": "armintrias@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_input_name_token",
+    "screenshot": "screenshots/otp_4.png"
+  },
+  "yudhyantho@gmail.cim": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Nirma Iswahyudin",
+      "whatsapp": "6281240577718",
+      "email": "yudhyantho@gmail.cim",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_1.png"
+  },
+  "futrinanta04@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Futri Nanta",
+      "whatsapp": "6282297491165",
+      "email": "futrinanta04@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_input_name_token",
+    "screenshot": "screenshots/otp_2.png"
+  },
+  "rizkyzaelanialmansur99@gmail.com": {
+    "status": "error",
+    "error": "nav_error: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://almai.id/referral/scalpinghack\", waiting until \"load\"\n"
+  },
+  "chelvinzhost@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Ariya",
+      "whatsapp": "628117777187",
+      "email": "chelvinzhost@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_4.png"
+  },
+  "igitsuparja.is@gmail.com": {
+    "status": "error",
+    "error": "nav_error: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://almai.id/referral/scalpinghack\", waiting until \"load\"\n"
+  },
+  "ramdhani.as@gmail.com": {
+    "status": "error",
+    "error": "nav_error: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://almai.id/referral/scalpinghack\", waiting until \"load\"\n"
+  },
+  "lea.putra@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Lea Widyana",
+      "whatsapp": "6281905893456",
+      "email": "lea.putra@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_7.png"
+  },
+  "erry_hep@yahoo.com": {
+    "status": "error",
+    "error": "nav_error: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://almai.id/referral/scalpinghack\", waiting until \"load\"\n"
+  },
+  "vidiasari1775@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Vidia Sari",
+      "whatsapp": "6281392152922",
+      "email": "vidiasari1775@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_text_Verifikasi_OTP",
+    "screenshot": "screenshots/otp_9.png"
+  },
+  "agung.pramudya1945@gmail.com": {
+    "status": "error",
+    "error": "nav_error: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://almai.id/referral/scalpinghack\", waiting until \"load\"\n"
+  },
+  "habil.reihan@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Habil Reihan",
+      "whatsapp": "6281210720432",
+      "email": "habil.reihan@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_input_name_token",
+    "screenshot": "screenshots/otp_11.png"
+  },
+  "ayu.w2504@gmail.com": {
+    "status": "error",
+    "error": "nav_error: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://almai.id/referral/scalpinghack\", waiting until \"load\"\n"
+  },
+  "hrdgangroup@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Tomy",
+      "whatsapp": "6287898129019",
+      "email": "hrdgangroup@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_13.png"
+  },
+  "iqbalsadamcs@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Iqbal Ahmad",
+      "whatsapp": "6287741751173",
+      "email": "iqbalsadamcs@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_14.png"
+  },
+  "ivanclacon007@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Ivan Sugiarto",
+      "whatsapp": "6282117171747",
+      "email": "ivanclacon007@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_15.png"
+  },
+  "ilhamyusrifan0@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Yusrifan Ilham",
+      "whatsapp": "6285731127910",
+      "email": "ilhamyusrifan0@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_16.png"
+  },
+  "nesya.9@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Hari ng",
+      "whatsapp": "6282240335300",
+      "email": "nesya.9@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_17.png"
+  },
+  "firmasetiakawan@gmail.com": {
+    "status": "error",
+    "error": "nav_error: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://almai.id/referral/scalpinghack\", waiting until \"load\"\n"
+  },
+  "andisultankaya@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Andi sultan",
+      "whatsapp": "6281355001450",
+      "email": "andisultankaya@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_1.png"
+  },
+  "magdalena.wardiyanti@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Magdalena",
+      "whatsapp": "6285659943188",
+      "email": "magdalena.wardiyanti@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_2.png"
+  },
+  "arjunarahmatd@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Arjuna Rahmat Dion",
+      "whatsapp": "6282384407789",
+      "email": "arjunarahmatd@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_3.png"
+  },
+  "teddysetiawan22132@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Tedy setiawan",
+      "whatsapp": "62895342606200",
+      "email": "Teddysetiawan22132@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_4.png"
+  },
+  "febriani.gadas@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Febri",
+      "whatsapp": "6281290700037",
+      "email": "febriani.gadas@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_5.png"
+  },
+  "ynmscofficial@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Yosua Natanael",
+      "whatsapp": "62818237720",
+      "email": "ynmscofficial@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_6.png"
+  },
+  "ronny.chandra.rianto@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Ronny Chandra",
+      "whatsapp": "6281346505099",
+      "email": "ronny.chandra.rianto@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_7.png"
+  },
+  "nurcahni270499@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Muhammad dwi",
+      "whatsapp": "6285732172353",
+      "email": "nurcahni270499@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_8.png"
+  },
+  "elsyeeli2210@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Elsye",
+      "whatsapp": "6281320120530",
+      "email": "elsyeeli2210@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_9.png"
+  },
+  "jacky1903w@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Jacky",
+      "whatsapp": "6281398777786",
+      "email": "jacky1903w@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_10.png"
+  },
+  "dhaniiihh@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Muhammad Ardhani",
+      "whatsapp": "6287808032499",
+      "email": "dhaniiihh@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_11.png"
+  },
+  "jkaryanto10@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Juli Karyanto",
+      "whatsapp": "628118608094",
+      "email": "jkaryanto10@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_12.png"
+  },
+  "amdomikado@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Mukti",
+      "whatsapp": "6285641449533",
+      "email": "amdomikado@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_input_name_token",
+    "screenshot": "screenshots/otp_13.png"
+  },
+  "abdullahsunarno06@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Sunarno",
+      "whatsapp": "6285271191260",
+      "email": "abdullahsunarno06@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_14.png"
+  },
+  "mjsupranata@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Maria Yustina",
+      "whatsapp": "6281286685850",
+      "email": "mjsupranata@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_text_Verifikasi_OTP",
+    "screenshot": "screenshots/otp_15.png"
+  },
+  "ferrikristian88@gmail.com": {
+    "status": "otp_required",
+    "error": "nav_error: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://almai.id/referral/scalpinghack\", waiting until \"load\"\n",
+    "meta": {
+      "nama_lengkap": "Ferri",
+      "whatsapp": "628192051288",
+      "email": "ferrikristian88@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_input_name_token",
+    "screenshot": "screenshots/otp_1.png"
+  },
+  "manches0880@gmail.com": {
+    "status": "otp_required",
+    "error": "nav_error: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://almai.id/referral/scalpinghack\", waiting until \"load\"\n",
+    "screenshot": "screenshots/otp_1.png",
+    "meta": {
+      "nama_lengkap": "Herman",
+      "whatsapp": "6285317384555",
+      "email": "manches0880@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp"
+  },
+  "bejoedukasi@gmail.com": {
+    "status": "otp_required",
+    "error": "click_ultimate_failed",
+    "screenshot": "screenshots/otp_2.png",
+    "meta": {
+      "nama_lengkap": "Ryo",
+      "whatsapp": "62816661672",
+      "email": "bejoedukasi@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_text_Verifikasi_OTP"
+  },
+  "sandisungid@gmail.com": {
+    "status": "otp_required",
+    "error": "click_ultimate_failed",
+    "screenshot": "screenshots/otp_3.png",
+    "meta": {
+      "nama_lengkap": "Sungkono",
+      "whatsapp": "6287885363162",
+      "email": "sandisungid@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp"
+  },
+  "yulius.arianto23@gmail.com": {
+    "status": "otp_required",
+    "error": "click_ultimate_failed",
+    "screenshot": "screenshots/otp_4.png",
+    "meta": {
+      "nama_lengkap": "Yulius Arianto",
+      "whatsapp": "628128074873",
+      "email": "Yulius.arianto23@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp"
+  },
+  "jinghoo7@gmail.com": {
+    "status": "otp_required",
+    "error": "click_ultimate_failed",
+    "screenshot": "screenshots/otp_5.png",
+    "meta": {
+      "nama_lengkap": "Jing Jing",
+      "whatsapp": "62811912100",
+      "email": "jinghoo7@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp"
+  },
+  "miko.ynwa@gmail.com": {
+    "status": "otp_required",
+    "error": "click_ultimate_failed",
+    "screenshot": "screenshots/otp_6.png",
+    "meta": {
+      "nama_lengkap": "Arif Jatmiko",
+      "whatsapp": "6285110376208",
+      "email": "miko.ynwa@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_input_name_token"
+  },
+  "aditnf24@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Aditya Nurfatah",
+      "whatsapp": "6285715552355",
+      "email": "aditnf24@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_1.png"
+  },
+  "dhiya1242@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Naufal",
+      "whatsapp": "6281952680947",
+      "email": "dhiya1242@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_2.png"
+  },
+  "azharlogeru82@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Azhar Bani",
+      "whatsapp": "62811699268",
+      "email": "azharlogeru82@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_input_name_token",
+    "screenshot": "screenshots/otp_3.png"
+  },
+  "dokterjono@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "soedjono indra",
+      "whatsapp": "6281314466270",
+      "email": "dokterjono@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_4.png"
+  },
+  "intan.paraswati7@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Intan Paraswati",
+      "whatsapp": "6281649587672",
+      "email": "intan.paraswati7@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_5.png"
+  },
+  "rochmat.ktng@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Rochmat w",
+      "whatsapp": "62818999315",
+      "email": "rochmat.ktng@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_6.png"
+  },
+  "kentjanaandreas2021@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Kentjana",
+      "whatsapp": "628161959466",
+      "email": "kentjanaandreas2021@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_7.png"
+  },
+  "heru.slamus@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Heru Slana Muslim",
+      "whatsapp": "6282114460573",
+      "email": "heru.slamus@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_8.png"
+  },
+  "juriyantose07@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Juriyanto",
+      "whatsapp": "6285943115150",
+      "email": "juriyantose07@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_text_Verifikasi_OTP",
+    "screenshot": "screenshots/otp_9.png"
+  },
+  "muhprasetyobu22@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "muhammad prasetyo budi utomo",
+      "whatsapp": "6285765324441",
+      "email": "muhprasetyobu22@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_text_Verifikasi_OTP",
+    "screenshot": "screenshots/otp_10.png"
+  },
+  "yeremia.ong@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Yeremia Irawan",
+      "whatsapp": "628123133033",
+      "email": "yeremia.ong@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_11.png"
+  },
+  "deaannisayanti@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Dea",
+      "whatsapp": "6282331497669",
+      "email": "deaannisayanti@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_12.png"
+  },
+  "sujani.nurhajaty@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Sujani",
+      "whatsapp": "628121293031",
+      "email": "sujani.nurhajaty@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_input_name_token",
+    "screenshot": "screenshots/otp_13.png"
+  },
+  "febianap857@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Febiana putri",
+      "whatsapp": "6281222573731",
+      "email": "febianap857@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_text_Verifikasi_OTP",
+    "screenshot": "screenshots/otp_14.png"
+  },
+  "teuku.ramu86@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Ramu",
+      "whatsapp": "6281919050986",
+      "email": "teuku.ramu86@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_15.png"
+  },
+  "setiawan.n@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Setiawan Nugroho",
+      "whatsapp": "62811498115",
+      "email": "setiawan.n@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_16.png"
+  },
+  "chandramahardika@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Chandra Mahardika",
+      "whatsapp": "6285239075526",
+      "email": "chandramahardika@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_17.png"
+  },
+  "planetsoccer.id@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Farid Juliansyah",
+      "whatsapp": "628115993999",
+      "email": "planetsoccer.id@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_text_Verifikasi_OTP",
+    "screenshot": "screenshots/otp_18.png"
+  },
+  "dheddy.bunyu@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Deddy",
+      "whatsapp": "6282329999928",
+      "email": "dheddy.bunyu@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_19.png"
+  },
+  "frendiaimar@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Frendi Aimar",
+      "whatsapp": "6288294470637",
+      "email": "frendiaimar@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_input_name_token",
+    "screenshot": "screenshots/otp_20.png"
+  },
+  "kuducuan505@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Agus Suratno",
+      "whatsapp": "6285117558455",
+      "email": "kuducuan505@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_21.png"
+  },
+  "mfiras040807@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "firas khairullah",
+      "whatsapp": "6281315242328",
+      "email": "mfiras040807@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_input_name_token",
+    "screenshot": "screenshots/otp_22.png"
+  },
+  "elvinsoe21@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Elvin Soepranoto",
+      "whatsapp": "6281336419454",
+      "email": "elvinsoe21@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_23.png"
+  },
+  "iway16@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Riswan Handoko",
+      "whatsapp": "6287713969677",
+      "email": "iway16@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_input_name_token",
+    "screenshot": "screenshots/otp_24.png"
+  },
+  "baredwan@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Humam",
+      "whatsapp": "628121148626",
+      "email": "baredwan@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_text_Verifikasi_OTP",
+    "screenshot": "screenshots/otp_25.png"
+  },
+  "kusumaaji118@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Yandi",
+      "whatsapp": "6281215592472",
+      "email": "kusumaaji118@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_input_name_token",
+    "screenshot": "screenshots/otp_26.png"
+  },
+  "niamfeel@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Moch Ahsanun niam",
+      "whatsapp": "6285860500771",
+      "email": "niamfeel@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_text_Verifikasi_OTP",
+    "screenshot": "screenshots/otp_27.png"
+  },
+  "irmarizkiyani@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Irma Rizkiyani",
+      "whatsapp": "6282227044001",
+      "email": "irmarizkiyani@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_28.png"
+  },
+  "adesfernanda5@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Ades Fernanda",
+      "whatsapp": "6282247165967",
+      "email": "adesfernanda5@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_29.png"
+  },
+  "yehezkielpm@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Kiel Sianipar",
+      "whatsapp": "6281297900604",
+      "email": "yehezkielpm@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_30.png"
+  },
+  "pundiemas651@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Sasti Dewi",
+      "whatsapp": "6281390542711",
+      "email": "pundiemas651@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_31.png"
+  },
+  "muhajirmuhammad1997@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Muhajir muhammad",
+      "whatsapp": "6282287042689",
+      "email": "muhajirmuhammad1997@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_32.png"
+  },
+  "dickyseputra@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "dicky",
+      "whatsapp": "6281330490242",
+      "email": "dickyseputra@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_input_name_token",
+    "screenshot": "screenshots/otp_33.png"
+  },
+  "jibrilzakee@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Zakee Jibril",
+      "whatsapp": "6281212250454",
+      "email": "jibrilzakee@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_34.png"
+  },
+  "wahyupurnama77@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Wahyu purnama",
+      "whatsapp": "6285386028370",
+      "email": "wahyupurnama77@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_35.png"
+  },
+  "triwidyaharisusi001@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Susi",
+      "whatsapp": "6282298103132",
+      "email": "triwidyaharisusi001@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_36.png"
+  },
+  "cecepsadewo30@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Cecep Sadewo",
+      "whatsapp": "6285161670362",
+      "email": "cecepsadewo30@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_37.png"
+  },
+  "setiawanagung16@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Agung Setiawan",
+      "whatsapp": "6281285897007",
+      "email": "setiawanagung16@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_38.png"
+  },
+  "joshuayordana8@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Joshua Yordana",
+      "whatsapp": "6282229505030",
+      "email": "joshuayordana8@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_39.png"
+  },
+  "mphrahayu1211@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Yayuk",
+      "whatsapp": "628126087467",
+      "email": "mphrahayu1211@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_40.png"
+  },
+  "arifws90@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Arif",
+      "whatsapp": "628128288888",
+      "email": "arifws90@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_41.png"
+  },
+  "irfan.abuaiman@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Irfan",
+      "whatsapp": "628156082994",
+      "email": "irfan.abuaiman@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_input_name_token",
+    "screenshot": "screenshots/otp_42.png"
+  },
+  "zerosubhan14@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Subhan",
+      "whatsapp": "6282219961414",
+      "email": "zerosubhan14@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_43.png"
+  },
+  "allcuan.online@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Ronald",
+      "whatsapp": "6281359686668",
+      "email": "allcuan.online@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_44.png"
+  },
+  "anangwidigdyo@akb.ac.id": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Anang Widigdyo",
+      "whatsapp": "6285784083172",
+      "email": "anangwidigdyo@akb.ac.id",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_45.png"
+  },
+  "g.iphigenia@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Genny",
+      "whatsapp": "6285781130057",
+      "email": "g.iphigenia@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_46.png"
+  },
+  "djackz666@yahoo.co.id": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Zek",
+      "whatsapp": "6282383636363",
+      "email": "djackz666@yahoo.co.id",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_47.png"
+  },
+  "ully_n3ch@yahoo.co.id": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Ully",
+      "whatsapp": "6285271768844",
+      "email": "ully_n3ch@yahoo.co.id",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_48.png"
+  },
+  "gehatp0178@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Gabriel",
+      "whatsapp": "6281513023243",
+      "email": "gehatp0178@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_49.png"
+  },
+  "andriangamer270@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "andrian edward",
+      "whatsapp": "6281536196400",
+      "email": "andriangamer270@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_50.png"
+  },
+  "duckheng3b@yahoo.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Suryadi",
+      "whatsapp": "6285888777758",
+      "email": "duckheng3b@yahoo.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_51.png"
+  },
+  "erna.pgri@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Erna Juita, S.Pd, M.Si",
+      "whatsapp": "628116618277",
+      "email": "erna.pgri@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_52.png"
+  },
+  "theowinne@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "erwin",
+      "whatsapp": "628971797008",
+      "email": "theowinne@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_53.png"
+  },
+  "rkykumbara@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Rizky",
+      "whatsapp": "6281224737624",
+      "email": "rkykumbara@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_54.png"
+  },
+  "mutazwalfatan@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Ayub",
+      "whatsapp": "6283159013517",
+      "email": "mutazwalfatan@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_55.png"
+  },
+  "djayahanung@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Hanung Wijaya",
+      "whatsapp": "6281392535051",
+      "email": "djayahanung@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_56.png"
+  },
+  "sovi_hidayanti@yahoo.co.id": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Sovi hidayanti",
+      "whatsapp": "6285248028402",
+      "email": "sovi_hidayanti@yahoo.co.id",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_57.png"
+  },
+  "runnirachmawati@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Runi rahmawati",
+      "whatsapp": "6289663596914",
+      "email": "runnirachmawati@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_58.png"
+  },
+  "soulmatelab@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Ramadhita",
+      "whatsapp": "62818618751",
+      "email": "soulmatelab@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_59.png"
+  },
+  "bambangpoerwanto2000@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Bambang poerwanto",
+      "whatsapp": "6287832280168",
+      "email": "bambangpoerwanto2000@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_60.png"
+  },
+  "vindiwijaya@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Vindi Trisna Wijaya",
+      "whatsapp": "6289652520093",
+      "email": "vindiwijaya@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_61.png"
+  },
+  "nurdinutina18@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Nurdin Utina",
+      "whatsapp": "6285256109999",
+      "email": "nurdinutina18@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_input_name_token",
+    "screenshot": "screenshots/otp_62.png"
+  },
+  "n11m.akuntansi@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Aditya pradana",
+      "whatsapp": "6281334866979",
+      "email": "n11m.akuntansi@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_63.png"
+  },
+  "queenruthless@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Mulyani",
+      "whatsapp": "6282344030548",
+      "email": "queenruthless@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_64.png"
+  },
+  "indras1477@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Indra",
+      "whatsapp": "6285700041299",
+      "email": "indras1477@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_65.png"
+  },
+  "agistinusandisantoso@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "AGUSTINUS ANDI SANTOSO",
+      "whatsapp": "628170253299",
+      "email": "Agistinusandisantoso@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_66.png"
+  },
+  "genoveva.ep@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Geno",
+      "whatsapp": "628176568070",
+      "email": "genoveva.ep@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_67.png"
+  },
+  "ridwankarim31@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Adam",
+      "whatsapp": "6285282555531",
+      "email": "ridwankarim31@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_input_name_token",
+    "screenshot": "screenshots/otp_68.png"
+  },
+  "megalia.kurniawan@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Mega",
+      "whatsapp": "6281807347883",
+      "email": "megalia.kurniawan@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_input_name_token",
+    "screenshot": "screenshots/otp_69.png"
+  },
+  "745shop@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Rianto Prasojo Wibowo",
+      "whatsapp": "6282254790772",
+      "email": "745shop@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_70.png"
+  },
+  "kusworininunun@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Nunun Kusworini",
+      "whatsapp": "6281214123867",
+      "email": "kusworininunun@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_71.png"
+  },
+  "khrismayanti@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Khrismayanti dewi",
+      "whatsapp": "6281211655030",
+      "email": "khrismayanti@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_72.png"
+  },
+  "epakpahan68@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Ester Pakpahan",
+      "whatsapp": "628116072006",
+      "email": "epakpahan68@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_73.png"
+  },
+  "firtarfy@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Resky firta yanti",
+      "whatsapp": "628114101290",
+      "email": "firtarfy@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_74.png"
+  },
+  "wunbudianto@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Dedy Budiyento",
+      "whatsapp": "6281282822238",
+      "email": "wunbudianto@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_text_Verifikasi_OTP",
+    "screenshot": "screenshots/otp_75.png"
+  },
+  "anggriafitri.as@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Anggria Fitri",
+      "whatsapp": "6281221750613",
+      "email": "anggriafitri.as@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_text_Verifikasi_OTP",
+    "screenshot": "screenshots/otp_76.png"
+  },
+  "abdillahriyandhi@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Abdillah Riyandhi Sa'dun",
+      "whatsapp": "6281275530605",
+      "email": "abdillahriyandhi@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_input_name_token",
+    "screenshot": "screenshots/otp_77.png"
+  },
+  "cnatalietrading@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Christine",
+      "whatsapp": "6281901904331",
+      "email": "cnatalietrading@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_input_name_token",
+    "screenshot": "screenshots/otp_78.png"
+  },
+  "jimsproject@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "jimmy carter",
+      "whatsapp": "6287880527790",
+      "email": "jimsproject@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_79.png"
+  },
+  "desandra@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Dewi",
+      "whatsapp": "62818186446",
+      "email": "desandra@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_80.png"
+  },
+  "parlanamin@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Parlan Amin",
+      "whatsapp": "6285754574921",
+      "email": "parlanamin@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_81.png"
+  },
+  "aliqfila@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "ilham",
+      "whatsapp": "6289611111080",
+      "email": "aliqfila@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_input_name_token",
+    "screenshot": "screenshots/otp_82.png"
+  },
+  "trishula004@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Tri",
+      "whatsapp": "6281329727440",
+      "email": "trishula004@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_83.png"
+  },
+  "billyhudson17@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Billy Sambuaga",
+      "whatsapp": "6282153111763",
+      "email": "billyhudson17@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_84.png"
+  },
+  "candrajupi@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Christine",
+      "whatsapp": "6281364088744",
+      "email": "candrajupi@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_text_Verifikasi_OTP",
+    "screenshot": "screenshots/otp_85.png"
+  },
+  "nyomanjuliana90@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Juliana",
+      "whatsapp": "6281999722627",
+      "email": "nyomanjuliana90@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_86.png"
+  },
+  "ayueno956@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Eno ayu",
+      "whatsapp": "6281315610739",
+      "email": "ayueno956@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_87.png"
+  },
+  "erwingideontrading@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Erwin Gideon",
+      "whatsapp": "628551117118",
+      "email": "erwingideontrading@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_88.png"
+  },
+  "teguh.indra1302@gmaul.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Teguh",
+      "whatsapp": "628119001677",
+      "email": "teguh.indra1302@gmaul.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_text_Verifikasi_OTP",
+    "screenshot": "screenshots/otp_89.png"
+  },
+  "ielmiradewi@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "irestrina elmiradewi",
+      "whatsapp": "62817551525",
+      "email": "ielmiradewi@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_90.png"
+  },
+  "vw_ibe@yahoo.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Wicaksana",
+      "whatsapp": "6287883883868",
+      "email": "vw_ibe@yahoo.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_text_Verifikasi_OTP",
+    "screenshot": "screenshots/otp_91.png"
+  },
+  "dauriebintang@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Daurie",
+      "whatsapp": "6281315245040",
+      "email": "dauriebintang@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_92.png"
+  },
+  "ronitagana@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Roni Nasution",
+      "whatsapp": "6281278052713",
+      "email": "ronitagana@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_text_Verifikasi_OTP",
+    "screenshot": "screenshots/otp_93.png"
+  },
+  "nisfulfauzi24@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Nisfulfauzi",
+      "whatsapp": "6281260206010",
+      "email": "nisfulfauzi24@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_94.png"
+  },
+  "nanatmika@yahoo.co.id": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Nana Atmika",
+      "whatsapp": "6281318887959",
+      "email": "nanatmika@yahoo.co.id",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_95.png"
+  },
+  "ameldosa@yahoo.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Ella",
+      "whatsapp": "6282238104498",
+      "email": "ameldosa@yahoo.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_96.png"
+  },
+  "marthenyosephus@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "marthen yosephus adhitri Anggara",
+      "whatsapp": "6281295192286",
+      "email": "marthenyosephus@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_97.png"
+  },
+  "dhiel.ariffad@icloud.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "DHIEL ARIFFAD",
+      "whatsapp": "6281284329232",
+      "email": "dhiel.ariffad@icloud.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_98.png"
+  },
+  "mariasimanjuntak2008@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Maria Simanjuntak",
+      "whatsapp": "6287846655075",
+      "email": "mariasimanjuntak2008@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_99.png"
+  },
+  "erwin.sauza@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Erwin Burhanuddin Abdillah",
+      "whatsapp": "6285342286767",
+      "email": "erwin.sauza@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_100.png"
+  },
+  "alfatihpanji1@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Panji S",
+      "whatsapp": "6285700802631",
+      "email": "alfatihpanji1@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_101.png"
+  },
+  "ikrasaelmighty@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Ikrasa",
+      "whatsapp": "6285218194693",
+      "email": "ikrasaelmighty@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_102.png"
+  },
+  "arysaputra@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Ary wido saputro",
+      "whatsapp": "6287706600009",
+      "email": "arysaputra@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_103.png"
+  },
+  "annewaluyo@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Anne",
+      "whatsapp": "62818929495",
+      "email": "annewaluyo@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_input_name_token",
+    "screenshot": "screenshots/otp_104.png"
+  },
+  "milda9191@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Milda",
+      "whatsapp": "6285257085896",
+      "email": "milda9191@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_105.png"
+  },
+  "dickypwg@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Dicky",
+      "whatsapp": "6282276672898",
+      "email": "dickypwg@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_text_Verifikasi_OTP",
+    "screenshot": "screenshots/otp_106.png"
+  },
+  "ikshansasuke@gmail.com": {
+    "status": "error",
+    "error": "nav_error: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://almai.id/referral/scalpinghack\", waiting until \"load\"\n"
+  },
+  "felicia.chrysant@gmail.com": {
+    "status": "error",
+    "error": "nav_error: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://almai.id/referral/scalpinghack\", waiting until \"load\"\n"
+  },
+  "akseldisa@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Aksel Disa",
+      "whatsapp": "6281253428277",
+      "email": "akseldisa@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_109.png"
+  },
+  "huntailawan@gmail.com": {
+    "status": "error",
+    "error": "nav_error: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://almai.id/referral/scalpinghack\", waiting until \"load\"\n"
+  },
+  "jpfblessed@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "John Fanggidae",
+      "whatsapp": "6281339229891",
+      "email": "jpfblessed@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_111.png"
+  },
+  "achmadfaizal1402@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Achmad Faizal Amri",
+      "whatsapp": "6281275135204",
+      "email": "achmadfaizal1402@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_112.png"
+  },
+  "andrejulie2000@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Andre",
+      "whatsapp": "6282330046789",
+      "email": "andrejulie2000@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_113.png"
+  },
+  "bembie23111971@gmail.com": {
+    "status": "error",
+    "error": "nav_error: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://almai.id/referral/scalpinghack\", waiting until \"load\"\n"
+  },
+  "fahmibusiness7@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Fahmi Nur Alim",
+      "whatsapp": "62895606074157",
+      "email": "fahmibusiness7@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_115.png"
+  },
+  "herfisetiawan94@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Herfi Setiawan",
+      "whatsapp": "6282113590967",
+      "email": "herfisetiawan94@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_input_name_token",
+    "screenshot": "screenshots/otp_116.png"
+  },
+  "kokcuytv@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Dian Hermawan",
+      "whatsapp": "62895392725307",
+      "email": "kokcuytv@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_117.png"
+  },
+  "kennedyharyo@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Haryo",
+      "whatsapp": "6281293001397",
+      "email": "kennedyharyo@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_118.png"
+  },
+  "gagassamodra@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Gagas Samodra",
+      "whatsapp": "6285655495448",
+      "email": "gagassamodra@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_input_name_token",
+    "screenshot": "screenshots/otp_119.png"
+  },
+  "mellisazh4n@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Mellisa",
+      "whatsapp": "62895614468224",
+      "email": "mellisazh4n@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_120.png"
+  },
+  "ulfahmiftahiyati2229@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Ulfah",
+      "whatsapp": "6282323131477",
+      "email": "ulfahmiftahiyati2229@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_121.png"
+  },
+  "agus4best.id@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Agus Sunandar",
+      "whatsapp": "6287855518357",
+      "email": "agus4best.id@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_input_name_token",
+    "screenshot": "screenshots/otp_122.png"
+  },
+  "str.kt4@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Satria kurniatedja",
+      "whatsapp": "6287771122221",
+      "email": "str.kt4@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_123.png"
+  },
+  "mpbanding@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Mappa",
+      "whatsapp": "628115921976",
+      "email": "mpbanding@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_124.png"
+  },
+  "oppa.alul1984@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Nasrul",
+      "whatsapp": "6282280075556",
+      "email": "oppa.alul1984@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_1.png"
+  },
+  "razkarazka007@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "razkA",
+      "whatsapp": "628973302049",
+      "email": "razkarazka007@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_placeholder_otp",
+    "screenshot": "screenshots/otp_2.png"
+  },
+  "wahuy2caferacer@gmail.com": {
+    "status": "otp_required",
+    "meta": {
+      "nama_lengkap": "Wahyudin",
+      "whatsapp": "6285222146076",
+      "email": "wahuy2caferacer@gmail.com",
+      "password": "12345678",
+      "konfirmasi_password": "12345678"
+    },
+    "otp_detected_reason": "found_in_html",
+    "screenshot": "screenshots/otp_3.png"
+  }
+}
