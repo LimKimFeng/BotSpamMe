@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <title>Halaman Tes Lokal</title>
+</head>
+<body>
+    <h1>Tes Otomatisasi Kantin</h1>
+
+    <button type="button" data-value="1">😊 Puas</button>
+    <button type="button" data-value="0">😞 Tidak Puas</button>
+
+    <div id="feedbackSection" style="display: none;">
+        <textarea id="feedback"></textarea>
+    </div>
+
+    <div>
+        <p>Apakah porsi cukup?</p>
+        <input type="radio" name="question_5" value="1"> Ya
+        <input type="radio" name="question_5" value="0"> Tidak
+    </div>
+    <div>
+        <p>Apakah rasa enak?</p>
+        <input type="radio" name="question_6" value="1"> Ya
+        <input type="radio" name="question_6" value="0"> Tidak
+    </div>
+
+    <button type="submit">Kirim Penilaian</button>
+
+    <div id="successMessage" style="display: none;">
+        <h3>Terima Kasih!</h3>
+        <button onclick="closeModal()">Tutup Browser</button>
+    </div>
+
+    <script>
+        // Tampilkan feedback jika tidak puas
+        document.querySelector('button[data-value="0"]').onclick = () => {
+            document.getElementById('feedbackSection').style.display = 'block';
+        };
+        document.querySelector('button[data-value="1"]').onclick = () => {
+            document.getElementById('feedbackSection').style.display = 'none';
+        };
+
+        // Tampilkan modal sukses saat submit
+        document.querySelector('button[type="submit"]').onclick = (e) => {
+            e.preventDefault(); // Hentikan submit form
+            document.getElementById('successMessage').style.display = 'block';
+        };
+
+        // Logika "Tutup Browser"
+        function closeModal() {
+            // Dalam tes lokal, kita reset halaman
+            console.log("Modal ditutup, me-reload halaman...");
+            location.reload(); 
+        }
+    </script>
+</body>
+</html>

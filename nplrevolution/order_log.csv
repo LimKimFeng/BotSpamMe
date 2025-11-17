@@ -1,0 +1,5 @@
+timestamp,status,name,phone,email,error_message
+2025-11-08 13:52:03,Failed,Deni Saputra,8913765566,denisaputra4720@example.com,"Page.goto: Target page, context or browser has been closed
+Call log:
+  - navigating to ""https://bisnispropertinpl.myscalev.com/checkout-npl-1"", waiting until ""load""
+"

@@ -1,0 +1,1418 @@
+timestamp,status,name,phone,email,error_message
+2025-11-06 08:14:37,Failed,Anjing,8903804776,anjing1632@example.com,Timeout 20s menunggu halaman sukses
+2025-11-06 08:14:43,Failed,Deni Saputra,8450081631,denisaputra1639@example.com,Timeout 20s menunggu halaman sukses
+2025-11-06 08:14:58,Failed,Deni Saputra,8681852679,denisaputra1653@example.com,Timeout 20s menunggu halaman sukses
+2025-11-06 08:15:05,Failed,Joko Susilo,8205829846,jokosusilo1661@example.com,Timeout 20s menunggu halaman sukses
+2025-11-06 08:15:12,Failed,Fajar Ramadhan,8306101494,fajarramadhan1667@example.com,Timeout 20s menunggu halaman sukses
+2025-11-06 08:15:18,Failed,Irfan Maulana,8244049214,irfanmaulana1674@example.com,Timeout 20s menunggu halaman sukses
+2025-11-06 08:15:22,Failed,Hendra Kurniawan,8788376046,hendrakurniawan1680@example.com,Timeout 20s menunggu halaman sukses
+2025-11-06 08:15:28,Failed,Budi Santoso,8504215113,budisantoso1685@example.com,Timeout 20s menunggu halaman sukses
+2025-11-06 08:19:54,Success,Deni Saputra,8281077527,denisaputra1963@example.com,
+2025-11-06 08:20:25,Success,Anjing,8384096706,anjing1996@example.com,
+2025-11-06 08:20:33,Success,Eko Wibowo,8709654004,ekowibowo2004@example.com,
+2025-11-06 08:20:50,Success,Prabowo,8404016947,prabowo2021@example.com,
+2025-11-06 08:20:56,Success,Nugroho,8954504117,nugroho2027@example.com,
+2025-11-06 08:21:04,Success,Hai hai,8915152971,haihai2036@example.com,
+2025-11-06 08:21:20,Success,Cahyo Nugroho,8380495952,cahyonugroho2052@example.com,
+2025-11-06 08:21:27,Success,Andi Pratama,8760422447,andipratama2059@example.com,
+2025-11-06 08:21:33,Success,Joko Susilo,8534751368,jokosusilo2063@example.com,
+2025-11-06 08:21:35,Success,Anies,8667797414,anies2067@example.com,
+2025-11-06 08:22:15,Failed,Joko,8161596603,joko2082@example.com,Timeout 30s menunggu halaman sukses
+2025-11-06 08:22:18,Failed,Eko Wibowo,8802612378,ekowibowo2084@example.com,Timeout 30s menunggu halaman sukses
+2025-11-06 08:22:23,Failed,Cahyo Nugroho,8191300878,cahyonugroho2089@example.com,Timeout 30s menunggu halaman sukses
+2025-11-06 08:22:27,Failed,Fajar Ramadhan,8660200101,fajarramadhan2094@example.com,Timeout 30s menunggu halaman sukses
+2025-11-06 08:22:31,Failed,Irfan Maulana,8600753895,irfanmaulana2098@example.com,Timeout 30s menunggu halaman sukses
+2025-11-06 08:22:40,Failed,Hendra Kurniawan,8461151708,hendrakurniawan2048@example.com,"Timeout: Gagal load form awal. (Page.wait_for_selector: Timeout 90000ms exceeded.
+Call log:
+  - waiting for locator(""#name"") to be visible
+)"
+2025-11-06 08:23:10,Failed,Anjing,8406273670,anjing2137@example.com,Timeout 30s menunggu halaman sukses
+2025-11-06 08:23:13,Failed,Joko,8768267020,joko2140@example.com,Timeout 30s menunggu halaman sukses
+2025-11-06 08:23:19,Failed,Irfan Maulana,8784333587,irfanmaulana2145@example.com,Timeout 30s menunggu halaman sukses
+2025-11-06 08:23:27,Failed,Joko,8888894975,joko2154@example.com,Timeout 30s menunggu halaman sukses
+2025-11-06 08:24:08,Failed,Cahyo Nugroho,8676735873,cahyonugroho2195@example.com,Timeout 30s menunggu halaman sukses
+2025-11-06 08:25:14,Failed,Budi,8965021358,budi2259@example.com,Timeout 30s menunggu halaman sukses
+2025-11-06 08:26:11,Failed,Anjing,8737359941,anjing2317@example.com,Timeout 30s menunggu halaman sukses
+2025-11-06 08:54:53,Success,Budi,8665266705,budi4061@example.com,
+2025-11-06 08:55:23,Success,Shibal,8938052977,shibal4094@example.com,
+2025-11-06 08:55:55,Success,Deni Saputra,8809652138,denisaputra4125@example.com,
+2025-11-06 08:56:26,Success,Joko Susilo,8991482973,jokosusilo4157@example.com,
+2025-11-06 08:56:57,Success,Irfan Maulana,8834137969,irfanmaulana4187@example.com,
+2025-11-06 08:57:30,Success,Gilang Saputra,8652545224,gilangsaputra4219@example.com,
+2025-11-06 08:58:03,Success,Anjing,8227611776,anjing4252@example.com,
+2025-11-06 08:58:37,Success,Deni Saputra,8632084158,denisaputra4285@example.com,
+2025-11-06 08:59:13,Success,Deni Saputra,8393494556,denisaputra4320@example.com,
+2025-11-06 08:59:47,Success,Fajar Ramadhan,8952664251,fajarramadhan4354@example.com,
+2025-11-06 09:00:24,Success,Shibal,8324577386,shibal4389@example.com,
+2025-11-06 09:00:56,Success,Prabowo,8414883860,prabowo4425@example.com,
+2025-11-06 09:01:30,Success,Anies,8305705114,anies4458@example.com,
+2025-11-06 09:02:04,Success,Irfan Maulana,8185215460,irfanmaulana4492@example.com,
+2025-11-06 09:02:39,Success,Hai hai,8454631059,haihai4527@example.com,
+2025-11-06 09:03:12,Success,Anjing,8112109654,anjing4560@example.com,
+2025-11-06 09:03:46,Success,Joko,8709803289,joko4595@example.com,
+2025-11-06 09:04:19,Success,Hendra Kurniawan,8675196868,hendrakurniawan4628@example.com,
+2025-11-06 09:05:00,Success,Budi,8876807877,budi4661@example.com,
+2025-11-06 09:05:31,Success,Nugroho,8716859366,nugroho4701@example.com,
+2025-11-06 09:06:03,Success,Fajar Ramadhan,8964882056,fajarramadhan4733@example.com,
+2025-11-06 09:06:35,Success,Irfan Maulana,8889262466,irfanmaulana4764@example.com,
+2025-11-06 09:07:07,Success,Andi Pratama,8189425576,andipratama4796@example.com,
+2025-11-06 09:07:41,Success,Hendra Kurniawan,8359681880,hendrakurniawan4829@example.com,
+2025-11-06 09:08:15,Success,Gilang Saputra,8618141406,gilangsaputra4864@example.com,
+2025-11-06 09:08:47,Success,Joko,8511612198,joko4897@example.com,
+2025-11-06 09:09:20,Success,Irfan Maulana,8751126233,irfanmaulana4929@example.com,
+2025-11-06 09:09:55,Success,Hendra Kurniawan,8987199274,hendrakurniawan4962@example.com,
+2025-11-06 09:10:29,Success,Anies,8201910398,anies4996@example.com,
+2025-11-06 09:11:03,Success,Nugroho,8312637620,nugroho5031@example.com,
+2025-11-06 09:11:40,Success,Andi Pratama,8158585922,andipratama5066@example.com,
+2025-11-06 09:12:11,Success,Deni Saputra,8878562059,denisaputra5101@example.com,
+2025-11-06 09:12:46,Success,Budi,8246781263,budi5133@example.com,
+2025-11-06 09:13:17,Success,Budi,8603665249,budi5168@example.com,
+2025-11-06 09:13:49,Success,Gilang Saputra,8893585422,gilangsaputra5199@example.com,
+2025-11-06 09:14:22,Success,Shibal,8367362514,shibal5232@example.com,
+2025-11-06 09:14:53,Success,Anies,8514840333,anies5264@example.com,
+2025-11-06 09:15:27,Success,Shibal,8508774906,shibal5296@example.com,
+2025-11-06 09:15:57,Success,Cahyo Nugroho,8452156385,cahyonugroho5328@example.com,
+2025-11-06 09:16:27,Success,Eko Wibowo,8634807244,ekowibowo5359@example.com,
+2025-11-06 09:16:59,Success,Nugroho,8163163724,nugroho5389@example.com,
+2025-11-06 09:17:31,Success,Gilang Saputra,8980930852,gilangsaputra5421@example.com,
+2025-11-06 09:18:04,Success,Joko,8132667244,joko5454@example.com,
+2025-11-06 09:18:36,Success,Deni Saputra,8798950640,denisaputra5487@example.com,
+2025-11-06 09:20:07,Failed,Anies,8671664211,anies5517@example.com,"Timeout: Gagal load form awal. (Page.goto: Timeout 90000ms exceeded.
+Call log:
+  - navigating to ""https://bisnispropertinpl.myscalev.com/checkout-npl-1"", waiting until ""load""
+)"
+2025-11-06 09:21:04,Failed,Andi Pratama,8153196002,andipratama5609@example.com,Timeout 30s menunggu halaman sukses
+2025-11-06 09:21:59,Failed,Eko Wibowo,8262236117,ekowibowo5665@example.com,Timeout 30s menunggu halaman sukses
+2025-11-06 09:22:56,Failed,Nugroho,8113143161,nugroho5722@example.com,Timeout 30s menunggu halaman sukses
+2025-11-06 09:23:50,Failed,Prabowo,8175880492,prabowo5777@example.com,Timeout 30s menunggu halaman sukses
+2025-11-06 09:24:46,Failed,Hendra Kurniawan,8956458849,hendrakurniawan5832@example.com,Timeout 30s menunggu halaman sukses
+2025-11-06 09:25:43,Failed,Joko Susilo,8386468103,jokosusilo5889@example.com,Timeout 30s menunggu halaman sukses
+2025-11-06 09:26:38,Failed,Eko Wibowo,8193204322,ekowibowo5944@example.com,Timeout 30s menunggu halaman sukses
+2025-11-06 09:27:32,Failed,Hendra Kurniawan,8863902716,hendrakurniawan5999@example.com,Timeout 30s menunggu halaman sukses
+2025-11-06 09:28:26,Failed,Budi,8181910484,budi6053@example.com,Timeout 30s menunggu halaman sukses
+2025-11-06 09:29:21,Failed,Joko Susilo,8451309117,jokosusilo6108@example.com,Timeout 30s menunggu halaman sukses
+2025-11-06 09:30:17,Failed,Anjing,8323102251,anjing6163@example.com,Timeout 30s menunggu halaman sukses
+2025-11-06 09:31:11,Failed,Gilang Saputra,8111923042,gilangsaputra6218@example.com,Timeout 30s menunggu halaman sukses
+2025-11-06 09:32:07,Failed,Andi Pratama,8545687814,andipratama6274@example.com,Timeout 30s menunggu halaman sukses
+2025-11-06 09:33:04,Failed,Shibal,8781891617,shibal6330@example.com,Timeout 30s menunggu halaman sukses
+2025-11-06 09:34:00,Failed,Irfan Maulana,8694332320,irfanmaulana6386@example.com,Timeout 30s menunggu halaman sukses
+2025-11-06 09:34:55,Failed,Eko Wibowo,8288502316,ekowibowo6442@example.com,Timeout 30s menunggu halaman sukses
+2025-11-06 09:35:49,Failed,Budi,8143730484,budi6496@example.com,Timeout 30s menunggu halaman sukses
+2025-11-06 09:36:44,Failed,Irfan Maulana,8715133466,irfanmaulana6551@example.com,Timeout 30s menunggu halaman sukses
+2025-11-06 09:37:56,Failed,Deni Saputra,8759099655,denisaputra6621@example.com,Timeout 30s menunggu halaman sukses
+2025-11-06 09:38:52,Failed,Prabowo,8514703003,prabowo6678@example.com,Timeout 30s menunggu halaman sukses
+2025-11-06 09:39:48,Failed,Budi,8910502023,budi6734@example.com,Timeout 30s menunggu halaman sukses
+2025-11-06 09:40:45,Failed,Irfan Maulana,8764213463,irfanmaulana6791@example.com,Timeout 30s menunggu halaman sukses
+2025-11-06 10:02:42,Failed,Eko Wibowo,8574275259,ekowibowo8105@example.com,Timeout 30s menunggu halaman sukses
+2025-11-06 10:03:38,Failed,Anjing,8289179358,anjing8164@example.com,Timeout 30s menunggu halaman sukses
+2025-11-06 10:04:34,Failed,Shibal,8358935921,shibal8220@example.com,Timeout 30s menunggu halaman sukses
+2025-11-06 10:27:44,Success,Fajar Ramadhan,8850883676,fajarramadhan9631@example.com,
+2025-11-06 10:28:15,Success,Nugroho,8659716921,nugroho9666@example.com,
+2025-11-06 10:28:47,Success,Shibal,8671767459,shibal9697@example.com,
+2025-11-06 10:29:18,Success,Irfan Maulana,8332994936,irfanmaulana9729@example.com,
+2025-11-06 10:29:49,Success,Prabowo,8829316787,prabowo9759@example.com,
+2025-11-06 10:30:22,Success,Irfan Maulana,8162170067,irfanmaulana9792@example.com,
+2025-11-06 10:30:53,Success,Andi Pratama,8983461176,andipratama9824@example.com,
+2025-11-06 10:31:25,Success,Deni Saputra,8275961189,denisaputra9856@example.com,
+2025-11-06 10:31:58,Success,Fajar Ramadhan,8706904785,fajarramadhan9888@example.com,
+2025-11-06 10:32:29,Success,Andi Pratama,8211769895,andipratama9920@example.com,
+2025-11-06 10:33:01,Success,Budi Santoso,8937059637,budisantoso9951@example.com,
+2025-11-06 10:33:52,Success,Eko Wibowo,8830836872,ekowibowo2@example.com,
+2025-11-06 10:34:26,Success,Cahyo Nugroho,8127525624,cahyonugroho34@example.com,
+2025-11-06 10:34:57,Success,Fajar Ramadhan,8197580022,fajarramadhan68@example.com,
+2025-11-06 10:35:27,Success,Hendra Kurniawan,8363913841,hendrakurniawan98@example.com,
+2025-11-06 10:35:57,Success,Anjing,8983118961,anjing128@example.com,
+2025-11-06 10:36:29,Success,Budi Santoso,8954542305,budisantoso160@example.com,
+2025-11-06 10:37:00,Success,Anies,8228969479,anies191@example.com,
+2025-11-06 10:37:57,Failed,Prabowo,8530658418,prabowo223@example.com,Timeout 30s menunggu halaman sukses
+2025-11-06 10:38:27,Success,Prabowo,8990072654,prabowo279@example.com,
+2025-11-06 10:38:59,Success,Prabowo,8294707544,prabowo309@example.com,
+2025-11-06 10:40:32,Failed,Irfan Maulana,8710525094,irfanmaulana342@example.com,"Timeout: Gagal load form awal. (Page.goto: Timeout 90000ms exceeded.
+Call log:
+  - navigating to ""https://bisnispropertinpl.myscalev.com/checkout-npl-1"", waiting until ""load""
+)"
+2025-11-06 10:41:03,Success,Hai hai,8692092221,haihai434@example.com,
+2025-11-06 10:41:33,Success,Prabowo,8675162340,prabowo464@example.com,
+2025-11-06 10:42:03,Success,Joko,8494630764,joko494@example.com,
+2025-11-06 10:42:33,Success,Anjing,8586081145,anjing525@example.com,
+2025-11-06 10:43:05,Success,Hai hai,8194689472,haihai556@example.com,
+2025-11-06 10:43:35,Success,Cahyo Nugroho,8403939393,cahyonugroho586@example.com,
+2025-11-06 10:44:05,Success,Shibal,8848038935,shibal617@example.com,
+2025-11-06 10:44:36,Success,Nugroho,8186293799,nugroho647@example.com,
+2025-11-06 10:45:08,Success,Prabowo,8871692849,prabowo678@example.com,
+2025-11-06 10:45:38,Success,Joko Susilo,8152873508,jokosusilo710@example.com,
+2025-11-06 10:46:09,Success,Cahyo Nugroho,8700741989,cahyonugroho740@example.com,
+2025-11-06 10:46:38,Success,Shibal,8850767482,shibal770@example.com,
+2025-11-06 10:47:08,Success,Joko Susilo,8782109036,jokosusilo799@example.com,
+2025-11-06 10:47:37,Success,Hendra Kurniawan,8539031229,hendrakurniawan829@example.com,
+2025-11-06 10:48:08,Success,Gilang Saputra,8499833738,gilangsaputra859@example.com,
+2025-11-06 10:48:40,Success,Hai hai,8346629096,haihai891@example.com,
+2025-11-06 10:49:11,Success,Anies,8726120677,anies922@example.com,
+2025-11-06 10:49:42,Success,Prabowo,8633880626,prabowo953@example.com,
+2025-11-06 10:50:11,Success,Hai hai,8308413292,haihai983@example.com,
+2025-11-06 10:50:42,Success,Joko,8710876852,joko1013@example.com,
+2025-11-06 10:51:13,Success,Andi Pratama,8401051027,andipratama1044@example.com,
+2025-11-06 10:51:45,Success,Budi,8127969915,budi1076@example.com,
+2025-11-06 10:52:16,Success,Fajar Ramadhan,8709691934,fajarramadhan1107@example.com,
+2025-11-06 10:52:48,Success,Cahyo Nugroho,8181762465,cahyonugroho1139@example.com,
+2025-11-06 10:53:20,Success,Hendra Kurniawan,8931495666,hendrakurniawan1171@example.com,
+2025-11-06 10:53:50,Success,Gilang Saputra,8721509290,gilangsaputra1202@example.com,
+2025-11-06 10:54:21,Success,Anies,8447239765,anies1232@example.com,
+2025-11-06 10:54:55,Success,Hendra Kurniawan,8165561586,hendrakurniawan1264@example.com,
+2025-11-06 10:55:31,Success,Cahyo Nugroho,8794185417,cahyonugroho1298@example.com,
+2025-11-06 10:56:01,Success,Prabowo,8416443703,prabowo1333@example.com,
+2025-11-06 10:56:32,Success,Anies,8574577102,anies1363@example.com,
+2025-11-06 10:57:03,Success,Fajar Ramadhan,8998930284,fajarramadhan1395@example.com,
+2025-11-06 10:57:33,Success,Anies,8657760295,anies1424@example.com,
+2025-11-06 10:58:04,Success,Hendra Kurniawan,8497330082,hendrakurniawan1455@example.com,
+2025-11-06 10:58:34,Success,Budi,8798391582,budi1485@example.com,
+2025-11-06 10:59:06,Success,Cahyo Nugroho,8859757823,cahyonugroho1517@example.com,
+2025-11-06 10:59:38,Success,Deni Saputra,8448951563,denisaputra1549@example.com,
+2025-11-06 11:00:08,Success,Eko Wibowo,8578290554,ekowibowo1579@example.com,
+2025-11-06 11:00:40,Success,Deni Saputra,8317836795,denisaputra1611@example.com,
+2025-11-06 11:01:10,Success,Cahyo Nugroho,8368726100,cahyonugroho1641@example.com,
+2025-11-06 11:01:39,Success,Cahyo Nugroho,8252660511,cahyonugroho1671@example.com,
+2025-11-06 11:02:11,Success,Eko Wibowo,8683743514,ekowibowo1702@example.com,
+2025-11-06 11:02:43,Success,Shibal,8441334912,shibal1734@example.com,
+2025-11-06 11:03:14,Success,Hai hai,8482144738,haihai1765@example.com,
+2025-11-06 11:03:45,Success,Hendra Kurniawan,8777781217,hendrakurniawan1795@example.com,
+2025-11-06 11:04:16,Success,Fajar Ramadhan,8228894474,fajarramadhan1827@example.com,
+2025-11-06 11:04:46,Success,Prabowo,8960309752,prabowo1857@example.com,
+2025-11-06 11:05:17,Success,Budi Santoso,8184892442,budisantoso1888@example.com,
+2025-11-06 11:05:46,Success,Eko Wibowo,8848884246,ekowibowo1919@example.com,
+2025-11-06 11:06:17,Success,Eko Wibowo,8717291428,ekowibowo1947@example.com,
+2025-11-06 11:06:48,Success,Joko,8938897140,joko1980@example.com,
+2025-11-06 11:07:18,Success,Shibal,8542413193,shibal2010@example.com,
+2025-11-06 11:07:50,Success,Anjing,8410096076,anjing2041@example.com,
+2025-11-06 11:08:22,Success,Hendra Kurniawan,8279893694,hendrakurniawan2073@example.com,
+2025-11-06 11:08:52,Success,Irfan Maulana,8351078603,irfanmaulana2103@example.com,
+2025-11-06 11:09:23,Success,Hai hai,8603157638,haihai2134@example.com,
+2025-11-06 11:26:04,Failed,Gilang Saputra,8934009647,gilangsaputra2165@example.com,Timeout 30s menunggu halaman sukses
+2025-11-06 11:27:26,Failed,Budi Santoso,8809175191,budisantoso3165@example.com,Timeout 30s menunggu halaman sukses
+2025-11-06 12:24:32,Success,Anies,8607872499,anies6639@example.com,
+2025-11-06 12:25:05,Success,Nugroho,8877008925,nugroho6675@example.com,
+2025-11-06 12:25:36,Success,Cahyo Nugroho,8862400014,cahyonugroho6706@example.com,
+2025-11-06 12:26:06,Success,Budi,8504844333,budi6737@example.com,
+2025-11-06 12:26:37,Success,Shibal,8276645131,shibal6767@example.com,
+2025-11-06 12:27:09,Success,Irfan Maulana,8567712785,irfanmaulana6799@example.com,
+2025-11-06 12:27:42,Success,Gilang Saputra,8654398188,gilangsaputra6832@example.com,
+2025-11-06 12:28:14,Success,Anies,8970649897,anies6864@example.com,
+2025-11-06 12:28:46,Success,Nugroho,8292645996,nugroho6897@example.com,
+2025-11-06 12:29:18,Success,Nugroho,8529837630,nugroho6929@example.com,
+2025-11-06 12:29:51,Success,Budi Santoso,8300590011,budisantoso6961@example.com,
+2025-11-06 12:31:24,Failed,Gilang Saputra,8917920622,gilangsaputra6993@example.com,"Timeout: Gagal load form awal. (Page.goto: Timeout 90000ms exceeded.
+Call log:
+  - navigating to ""https://bisnispropertinpl.myscalev.com/checkout-npl-1"", waiting until ""load""
+)"
+2025-11-06 12:31:56,Success,Gilang Saputra,8227034264,gilangsaputra7086@example.com,
+2025-11-06 12:32:27,Success,Fajar Ramadhan,8392413877,fajarramadhan7117@example.com,
+2025-11-06 12:32:57,Success,Cahyo Nugroho,8340269471,cahyonugroho7148@example.com,
+2025-11-06 12:33:28,Success,Eko Wibowo,8867854419,ekowibowo7179@example.com,
+2025-11-06 12:34:01,Success,Prabowo,8311709134,prabowo7211@example.com,
+2025-11-06 12:34:32,Success,Fajar Ramadhan,8589443318,fajarramadhan7243@example.com,
+2025-11-06 12:35:04,Success,Joko Susilo,8654304469,jokosusilo7274@example.com,
+2025-11-06 12:35:34,Success,Hendra Kurniawan,8962750490,hendrakurniawan7305@example.com,
+2025-11-06 12:36:05,Success,Anjing,8467343432,anjing7336@example.com,
+2025-11-06 12:36:36,Success,Irfan Maulana,8642276648,irfanmaulana7366@example.com,
+2025-11-06 12:37:06,Success,Prabowo,8932543722,prabowo7397@example.com,
+2025-11-06 12:37:38,Success,Nugroho,8899141431,nugroho7428@example.com,
+2025-11-06 12:38:09,Success,Nugroho,8479494068,nugroho7459@example.com,
+2025-11-06 12:38:40,Success,Irfan Maulana,8609153206,irfanmaulana7490@example.com,
+2025-11-06 12:39:13,Success,Budi Santoso,8835083088,budisantoso7523@example.com,
+2025-11-06 12:39:44,Success,Anies,8718146528,anies7555@example.com,
+2025-11-06 12:40:17,Success,Gilang Saputra,8140086431,gilangsaputra7587@example.com,
+2025-11-06 12:40:52,Success,Fajar Ramadhan,8703601274,fajarramadhan7619@example.com,
+2025-11-06 12:41:24,Success,Fajar Ramadhan,8844695498,fajarramadhan7654@example.com,
+2025-11-06 12:41:56,Success,Irfan Maulana,8907582188,irfanmaulana7686@example.com,
+2025-11-06 12:42:26,Success,Shibal,8458225951,shibal7717@example.com,
+2025-11-06 12:42:58,Success,Irfan Maulana,8454875377,irfanmaulana7748@example.com,
+2025-11-06 12:43:29,Success,Anjing,8254116523,anjing7781@example.com,
+2025-11-06 12:44:00,Success,Fajar Ramadhan,8564817307,fajarramadhan7811@example.com,
+2025-11-06 12:44:30,Success,Shibal,8185984385,shibal7841@example.com,
+2025-11-06 12:45:01,Success,Deni Saputra,8214941387,denisaputra7872@example.com,
+2025-11-06 12:45:34,Success,Anjing,8768176201,anjing7904@example.com,
+2025-11-06 12:46:05,Success,Fajar Ramadhan,8343052775,fajarramadhan7936@example.com,
+2025-11-06 12:46:37,Success,Anjing,8225313967,anjing7968@example.com,
+2025-11-06 12:47:09,Success,Fajar Ramadhan,8176311558,fajarramadhan8000@example.com,
+2025-11-06 12:47:41,Success,Andi Pratama,8546692035,andipratama8032@example.com,
+2025-11-06 12:48:36,Failed,Anies,8881195362,anies8062@example.com,Timeout 30s menunggu halaman sukses
+2025-11-06 12:49:08,Success,Budi,8118873663,budi8118@example.com,
+2025-11-06 12:49:41,Success,Fajar Ramadhan,8919556773,fajarramadhan8151@example.com,
+2025-11-06 12:50:11,Success,Gilang Saputra,8621886411,gilangsaputra8183@example.com,
+2025-11-06 12:50:43,Success,Budi,8250275169,budi8214@example.com,
+2025-11-06 12:51:15,Success,Budi Santoso,8760392074,budisantoso8246@example.com,
+2025-11-06 12:51:44,Success,Joko Susilo,8890486927,jokosusilo8276@example.com,
+2025-11-06 12:52:15,Success,Anies,8180609717,anies8305@example.com,
+2025-11-06 12:52:48,Success,Budi Santoso,8214643151,budisantoso8337@example.com,
+2025-11-06 12:53:21,Success,Budi,8436202981,budi8371@example.com,
+2025-11-06 12:53:52,Success,Joko Susilo,8471534364,jokosusilo8403@example.com,
+2025-11-06 12:54:24,Success,Anies,8451481138,anies8434@example.com,
+2025-11-06 12:54:55,Success,Fajar Ramadhan,8567790831,fajarramadhan8466@example.com,
+2025-11-06 12:55:26,Success,Anjing,8826582776,anjing8498@example.com,
+2025-11-06 12:55:59,Success,Deni Saputra,8185516951,denisaputra8529@example.com,
+2025-11-06 12:56:30,Success,Andi Pratama,8661159108,andipratama8561@example.com,
+2025-11-06 12:57:02,Success,Prabowo,8835530498,prabowo8592@example.com,
+2025-11-06 12:57:34,Success,Anies,8157362657,anies8624@example.com,
+2025-11-06 12:58:06,Success,Nugroho,8354696388,nugroho8656@example.com,
+2025-11-06 12:58:38,Success,Shibal,8310315558,shibal8689@example.com,
+2025-11-06 12:59:10,Success,Joko Susilo,8791750663,jokosusilo8720@example.com,
+2025-11-06 12:59:42,Success,Andi Pratama,8191628257,andipratama8752@example.com,
+2025-11-06 13:00:14,Success,Andi Pratama,8799422411,andipratama8784@example.com,
+2025-11-06 13:00:46,Success,Deni Saputra,8453083565,denisaputra8816@example.com,
+2025-11-06 13:01:19,Success,Andi Pratama,8561707239,andipratama8849@example.com,
+2025-11-06 13:01:51,Success,Andi Pratama,8934114553,andipratama8881@example.com,
+2025-11-06 13:02:22,Success,Joko,8600959542,joko8913@example.com,
+2025-11-06 13:02:54,Success,Prabowo,8474110781,prabowo8945@example.com,
+2025-11-06 13:03:50,Failed,Irfan Maulana,8204418233,irfanmaulana8976@example.com,Timeout 30s menunggu halaman sukses
+2025-11-06 13:04:46,Failed,Hendra Kurniawan,8739939913,hendrakurniawan9032@example.com,Timeout 30s menunggu halaman sukses
+2025-11-06 19:44:42,Failed,Shibal,8625227702,shibal3026@example.com,Timeout 30s menunggu halaman sukses
+2025-11-06 19:53:01,Failed,Budi Santoso,8218063513,budisantoso3579@example.com,"Page.goto: Protocol error (Page.navigate): Invalid url: ""https://import sys, re, time, random, csv, datetime, os""
+Call log:
+  - navigating to ""https://import sys, re, time, random, csv, datetime, os"", waiting until ""load""
+"
+2025-11-06 19:53:03,Failed,Andi Pratama,8922073960,andipratama3582@example.com,"Page.goto: Protocol error (Page.navigate): Invalid url: ""https://import sys, re, time, random, csv, datetime, os""
+Call log:
+  - navigating to ""https://import sys, re, time, random, csv, datetime, os"", waiting until ""load""
+"
+2025-11-06 19:53:06,Failed,Anjing,8451058337,anjing3585@example.com,"Page.goto: Protocol error (Page.navigate): Invalid url: ""https://import sys, re, time, random, csv, datetime, os""
+Call log:
+  - navigating to ""https://import sys, re, time, random, csv, datetime, os"", waiting until ""load""
+"
+2025-11-06 19:53:09,Failed,Budi,8708804185,budi3589@example.com,"Page.goto: Protocol error (Page.navigate): Invalid url: ""https://import sys, re, time, random, csv, datetime, os""
+Call log:
+  - navigating to ""https://import sys, re, time, random, csv, datetime, os"", waiting until ""load""
+"
+2025-11-06 19:54:12,Failed,Deni Saputra,8469269398,denisaputra3617@example.com,"Page.wait_for_function: can't access property ""innerText"", document.body is null
+@debugger eval code line 291 > eval line 4 > eval:3:34
+predicate@debugger eval code line 291 > eval:13:25
+next@debugger eval code line 291 > eval:29:29
+@debugger eval code line 291 > eval:42:9
+evaluate@debugger eval code:293:16
+@debugger eval code:1:44
+"
+2025-11-06 19:54:55,Failed,Andi Pratama,8388425659,andipratama3655@example.com,"Page.wait_for_function: can't access property ""innerText"", document.body is null
+@debugger eval code line 291 > eval line 4 > eval:3:34
+predicate@debugger eval code line 291 > eval:13:25
+next@debugger eval code line 291 > eval:29:29
+@debugger eval code line 291 > eval:42:9
+evaluate@debugger eval code:293:16
+@debugger eval code:1:44
+"
+2025-11-06 19:55:28,Failed,Cahyo Nugroho,8195618769,cahyonugroho3697@example.com,"Page.wait_for_function: can't access property ""innerText"", document.body is null
+@debugger eval code line 291 > eval line 4 > eval:3:34
+predicate@debugger eval code line 291 > eval:13:25
+next@debugger eval code line 291 > eval:29:29
+@debugger eval code line 291 > eval:42:9
+evaluate@debugger eval code:293:16
+@debugger eval code:1:44
+"
+2025-11-06 19:58:16,Success,Joko,8755435279,joko3858@example.com,
+2025-11-06 19:58:50,Success,Andi Pratama,8897647310,andipratama3899@example.com,
+2025-11-06 20:00:23,Failed,Shibal,8116004131,shibal3933@example.com,"Timeout 90s: Gagal load form awal atau halaman. (Page.goto: Timeout 90000ms exceeded.
+Call log:
+  - navigating to ""https://bisnispropertinpl.myscalev.com/checkout-npl-1"", waiting until ""load""
+)"
+2025-11-06 20:00:59,Success,Anjing,8256751705,anjing4026@example.com,
+2025-11-06 20:01:33,Success,Andi Pratama,8713302888,andipratama4060@example.com,
+2025-11-06 20:02:07,Success,Cahyo Nugroho,8583788448,cahyonugroho4095@example.com,
+2025-11-06 20:02:40,Success,Eko Wibowo,8765032058,ekowibowo4129@example.com,
+2025-11-06 20:03:13,Success,Budi,8406698474,budi4162@example.com,
+2025-11-06 20:03:48,Success,Fajar Ramadhan,8548118163,fajarramadhan4195@example.com,
+2025-11-06 20:04:32,Success,Prabowo,8526441350,prabowo4230@example.com,
+2025-11-06 20:05:06,Success,Anies,8322029067,anies4273@example.com,
+2025-11-06 20:05:49,Success,Joko Susilo,8950770294,jokosusilo4308@example.com,
+2025-11-06 20:06:21,Success,Deni Saputra,8228532997,denisaputra4350@example.com,
+2025-11-06 20:06:54,Success,Gilang Saputra,8874711181,gilangsaputra4384@example.com,
+2025-11-06 20:07:26,Success,Hendra Kurniawan,8907527867,hendrakurniawan4416@example.com,
+2025-11-06 20:07:59,Success,Fajar Ramadhan,8135605353,fajarramadhan4448@example.com,
+2025-11-06 20:08:34,Success,Budi Santoso,8368308000,budisantoso4481@example.com,
+2025-11-06 20:09:05,Success,Deni Saputra,8659863761,denisaputra4515@example.com,
+2025-11-06 20:09:39,Success,Andi Pratama,8585407752,andipratama4548@example.com,
+2025-11-06 20:10:11,Success,Andi Pratama,8915979796,andipratama4580@example.com,
+2025-11-06 20:10:42,Success,Hendra Kurniawan,8561064923,hendrakurniawan4612@example.com,
+2025-11-06 20:11:15,Success,Budi,8779659935,budi4645@example.com,
+2025-11-06 20:11:48,Success,Irfan Maulana,8979991291,irfanmaulana4677@example.com,
+2025-11-06 20:12:20,Success,Anies,8515449780,anies4710@example.com,
+2025-11-06 20:12:54,Success,Joko Susilo,8463058150,jokosusilo4743@example.com,
+2025-11-06 20:13:26,Success,Cahyo Nugroho,8951699629,cahyonugroho4776@example.com,
+2025-11-06 20:13:58,Success,Cahyo Nugroho,8886637133,cahyonugroho4807@example.com,
+2025-11-06 20:14:30,Success,Shibal,8900993431,shibal4839@example.com,
+2025-11-06 20:15:02,Success,Nugroho,8642522057,nugroho4872@example.com,
+2025-11-06 20:15:33,Success,Nugroho,8994951131,nugroho4903@example.com,
+2025-11-06 20:16:07,Success,Anies,8467726976,anies4935@example.com,
+2025-11-06 20:16:38,Success,Joko Susilo,8793963307,jokosusilo4968@example.com,
+2025-11-06 20:17:11,Success,Shibal,8944467853,shibal5001@example.com,
+2025-11-06 20:17:43,Success,Joko Susilo,8769560151,jokosusilo5032@example.com,
+2025-11-06 20:18:16,Success,Prabowo,8481870540,prabowo5065@example.com,
+2025-11-06 20:18:48,Success,Shibal,8824328304,shibal5097@example.com,
+2025-11-06 20:19:21,Success,Joko,8649216680,joko5129@example.com,
+2025-11-06 20:19:52,Success,Cahyo Nugroho,8332901050,cahyonugroho5162@example.com,
+2025-11-06 20:20:25,Success,Shibal,8478840591,shibal5194@example.com,
+2025-11-06 20:20:59,Success,Andi Pratama,8392581319,andipratama5227@example.com,
+2025-11-06 20:21:32,Success,Irfan Maulana,8948308742,irfanmaulana5262@example.com,
+2025-11-06 20:22:06,Success,Budi,8725682699,budi5294@example.com,
+2025-11-06 20:22:53,Success,Andi Pratama,8225246620,andipratama5329@example.com,
+2025-11-06 20:23:29,Success,Eko Wibowo,8232002899,ekowibowo5375@example.com,
+2025-11-06 20:24:03,Success,Fajar Ramadhan,8427414936,fajarramadhan5410@example.com,
+2025-11-06 20:24:36,Success,Hai hai,8216113185,haihai5445@example.com,
+2025-11-06 20:25:12,Success,Anies,8227490593,anies5479@example.com,
+2025-11-06 20:25:48,Success,Deni Saputra,8683915105,denisaputra5514@example.com,
+2025-11-06 20:26:23,Success,Joko,8281560483,joko5551@example.com,
+2025-11-06 20:26:56,Success,Fajar Ramadhan,8462741709,fajarramadhan5584@example.com,
+2025-11-06 20:27:39,Success,Gilang Saputra,8145619393,gilangsaputra5617@example.com,
+2025-11-06 20:28:13,Success,Cahyo Nugroho,8130005926,cahyonugroho5661@example.com,
+2025-11-06 20:28:47,Success,Budi Santoso,8550155300,budisantoso5695@example.com,
+2025-11-06 20:29:21,Success,Gilang Saputra,8450565727,gilangsaputra5729@example.com,
+2025-11-06 20:29:54,Success,Budi Santoso,8288317385,budisantoso5763@example.com,
+2025-11-06 20:30:28,Success,Joko Susilo,8681107072,jokosusilo5796@example.com,
+2025-11-06 20:31:02,Success,Eko Wibowo,8165315335,ekowibowo5829@example.com,
+2025-11-06 20:31:42,Success,Eko Wibowo,8372214172,ekowibowo5863@example.com,
+2025-11-06 20:32:18,Success,Eko Wibowo,8121304376,ekowibowo5905@example.com,
+2025-11-06 20:33:04,Success,Irfan Maulana,8406102681,irfanmaulana5941@example.com,
+2025-11-06 20:33:49,Success,Gilang Saputra,8120681846,gilangsaputra5987@example.com,
+2025-11-06 20:34:24,Success,Cahyo Nugroho,8286696592,cahyonugroho6031@example.com,
+2025-11-06 20:34:57,Success,Nugroho,8735021353,nugroho6066@example.com,
+2025-11-06 20:35:31,Success,Anjing,8562608006,anjing6100@example.com,
+2025-11-06 20:36:04,Success,Nugroho,8206140534,nugroho6133@example.com,
+2025-11-06 20:36:37,Success,Irfan Maulana,8130199009,irfanmaulana6166@example.com,
+2025-11-06 20:37:16,Success,Gilang Saputra,8995455337,gilangsaputra6200@example.com,
+2025-11-06 20:37:50,Success,Anies,8887385916,anies6238@example.com,
+2025-11-06 20:38:25,Success,Andi Pratama,8131603146,andipratama6272@example.com,
+2025-11-06 20:39:17,Success,Nugroho,8800113813,nugroho6307@example.com,
+2025-11-06 20:40:04,Success,Hai hai,8350738152,haihai6358@example.com,
+2025-11-06 20:40:43,Success,Cahyo Nugroho,8463703682,cahyonugroho6406@example.com,
+2025-11-06 20:41:16,Success,Eko Wibowo,8210856904,ekowibowo6445@example.com,
+2025-11-06 20:41:50,Success,Anies,8261026491,anies6478@example.com,
+2025-11-06 20:42:24,Success,Hendra Kurniawan,8622471703,hendrakurniawan6511@example.com,
+2025-11-06 20:42:57,Success,Anjing,8940697393,anjing6545@example.com,
+2025-11-06 20:43:32,Success,Shibal,8901015470,shibal6579@example.com,
+2025-11-06 20:44:07,Success,Deni Saputra,8321431928,denisaputra6614@example.com,
+2025-11-06 20:44:40,Success,Prabowo,8286249317,prabowo6650@example.com,
+2025-11-06 20:45:14,Success,Nugroho,8975866837,nugroho6682@example.com,
+2025-11-06 20:45:49,Success,Joko Susilo,8567225936,jokosusilo6715@example.com,
+2025-11-06 20:46:22,Success,Cahyo Nugroho,8197850408,cahyonugroho6750@example.com,
+2025-11-06 20:46:58,Success,Anies,8862010228,anies6784@example.com,
+2025-11-06 20:47:33,Success,Eko Wibowo,8167055960,ekowibowo6819@example.com,
+2025-11-06 20:48:10,Success,Anies,8457857936,anies6855@example.com,
+2025-11-06 20:48:55,Success,Nugroho,8547364838,nugroho6893@example.com,
+2025-11-06 20:49:32,Success,Nugroho,8849545839,nugroho6938@example.com,
+2025-11-06 20:50:07,Success,Shibal,8372490951,shibal6975@example.com,
+2025-11-06 20:50:49,Success,Budi Santoso,8583651770,budisantoso7009@example.com,
+2025-11-06 20:51:23,Success,Budi Santoso,8797357886,budisantoso7050@example.com,
+2025-11-06 20:51:58,Success,Prabowo,8670464110,prabowo7084@example.com,
+2025-11-06 20:52:33,Success,Anjing,8886718768,anjing7119@example.com,
+2025-11-06 20:53:08,Success,Prabowo,8551357785,prabowo7155@example.com,
+2025-11-06 20:53:43,Success,Gilang Saputra,8965538916,gilangsaputra7190@example.com,
+2025-11-06 20:54:16,Success,Anies,8701382675,anies7225@example.com,
+2025-11-06 20:54:52,Success,Prabowo,8606454380,prabowo7259@example.com,
+2025-11-06 20:55:27,Success,Gilang Saputra,8377148714,gilangsaputra7295@example.com,
+2025-11-06 20:56:01,Success,Irfan Maulana,8127324350,irfanmaulana7329@example.com,
+2025-11-06 20:56:34,Success,Prabowo,8758543920,prabowo7363@example.com,
+2025-11-06 20:57:05,Success,Joko,8961991338,joko7395@example.com,
+2025-11-06 20:57:37,Success,Irfan Maulana,8909095396,irfanmaulana7426@example.com,
+2025-11-06 20:58:08,Success,Anies,8137611261,anies7458@example.com,
+2025-11-06 20:58:41,Success,Anies,8980860792,anies7491@example.com,
+2025-11-06 20:59:14,Success,Joko Susilo,8696523367,jokosusilo7523@example.com,
+2025-11-06 20:59:46,Success,Budi,8373380883,budi7555@example.com,
+2025-11-06 21:00:19,Success,Budi,8181821516,budi7589@example.com,
+2025-11-06 21:00:51,Success,Deni Saputra,8382651674,denisaputra7621@example.com,
+2025-11-06 21:01:23,Success,Cahyo Nugroho,8485719982,cahyonugroho7653@example.com,
+2025-11-06 21:01:57,Success,Gilang Saputra,8880716804,gilangsaputra7686@example.com,
+2025-11-06 21:02:31,Success,Hai hai,8707923866,haihai7720@example.com,
+2025-11-06 21:03:03,Success,Hai hai,8526051400,haihai7753@example.com,
+2025-11-06 21:03:37,Success,Andi Pratama,8412592554,andipratama7785@example.com,
+2025-11-06 21:04:09,Success,Hai hai,8890657472,haihai7819@example.com,
+2025-11-06 21:04:42,Success,Anies,8539640547,anies7852@example.com,
+2025-11-06 21:05:16,Success,Andi Pratama,8450148812,andipratama7885@example.com,
+2025-11-06 21:05:48,Success,Budi Santoso,8916555950,budisantoso7917@example.com,
+2025-11-06 21:06:20,Success,Nugroho,8563888248,nugroho7951@example.com,
+2025-11-06 21:06:53,Success,Irfan Maulana,8707542011,irfanmaulana7982@example.com,
+2025-11-06 21:07:24,Success,Andi Pratama,8778356483,andipratama8014@example.com,
+2025-11-06 21:07:57,Success,Gilang Saputra,8820368088,gilangsaputra8046@example.com,
+2025-11-06 21:08:28,Success,Anies,8203808506,anies8078@example.com,
+2025-11-06 21:09:00,Success,Shibal,8706133254,shibal8109@example.com,
+2025-11-06 21:09:32,Success,Budi Santoso,8884350375,budisantoso8141@example.com,
+2025-11-06 21:10:06,Success,Eko Wibowo,8478179755,ekowibowo8175@example.com,
+2025-11-06 21:10:38,Success,Nugroho,8194062832,nugroho8207@example.com,
+2025-11-06 21:11:10,Success,Andi Pratama,8938084071,andipratama8240@example.com,
+2025-11-06 21:11:45,Success,Shibal,8972953191,shibal8272@example.com,
+2025-11-06 21:12:18,Success,Joko,8550125386,joko8307@example.com,
+2025-11-06 21:12:50,Success,Nugroho,8875265388,nugroho8340@example.com,
+2025-11-06 21:13:22,Success,Gilang Saputra,8343923728,gilangsaputra8372@example.com,
+2025-11-06 21:13:55,Success,Nugroho,8630668728,nugroho8405@example.com,
+2025-11-06 21:14:27,Success,Andi Pratama,8813062716,andipratama8437@example.com,
+2025-11-06 21:14:59,Success,Hai hai,8595175766,haihai8469@example.com,
+2025-11-06 21:15:32,Success,Prabowo,8527474610,prabowo8501@example.com,
+2025-11-06 21:16:06,Success,Eko Wibowo,8963362982,ekowibowo8534@example.com,
+2025-11-06 21:16:40,Success,Gilang Saputra,8808482608,gilangsaputra8568@example.com,
+2025-11-06 21:17:12,Success,Cahyo Nugroho,8846786700,cahyonugroho8602@example.com,
+2025-11-06 21:17:46,Success,Cahyo Nugroho,8284599120,cahyonugroho8634@example.com,
+2025-11-06 21:18:20,Success,Hai hai,8616923549,haihai8669@example.com,
+2025-11-06 21:18:53,Success,Anjing,8293089423,anjing8701@example.com,
+2025-11-06 21:19:26,Success,Budi Santoso,8381078742,budisantoso8735@example.com,
+2025-11-06 21:19:59,Success,Eko Wibowo,8389096961,ekowibowo8769@example.com,
+2025-11-06 21:20:33,Success,Anies,8837228461,anies8801@example.com,
+2025-11-06 21:21:06,Success,Budi Santoso,8177275831,budisantoso8835@example.com,
+2025-11-06 21:21:39,Success,Budi,8140795876,budi8868@example.com,
+2025-11-06 21:22:11,Success,Anies,8266733059,anies8901@example.com,
+2025-11-06 21:22:44,Success,Deni Saputra,8252682384,denisaputra8934@example.com,
+2025-11-06 21:23:18,Success,Deni Saputra,8344917677,denisaputra8967@example.com,
+2025-11-06 21:23:53,Success,Hendra Kurniawan,8744933534,hendrakurniawan9001@example.com,
+2025-11-07 07:46:45,Failed,Andi Pratama,8683665321,andipratama6378@example.com,"Page.goto: NS_ERROR_UNKNOWN_HOST
+Call log:
+  - navigating to ""https://bisnispropertinpl.myscalev.com/checkout-npl-1"", waiting until ""load""
+"
+2025-11-07 08:02:23,Success,Irfan Maulana,8592784620,irfanmaulana7310@example.com,
+2025-11-07 08:02:56,Success,Hendra Kurniawan,8587524593,hendrakurniawan7345@example.com,
+2025-11-07 08:03:29,Success,Joko,8849222472,joko7378@example.com,
+2025-11-07 08:04:02,Success,Anies,8526134309,anies7411@example.com,
+2025-11-07 08:04:34,Success,Hendra Kurniawan,8553427878,hendrakurniawan7443@example.com,
+2025-11-07 08:05:07,Success,Cahyo Nugroho,8928498472,cahyonugroho7476@example.com,
+2025-11-07 08:05:40,Success,Gilang Saputra,8170232506,gilangsaputra7509@example.com,
+2025-11-07 08:06:12,Success,Eko Wibowo,8825217071,ekowibowo7542@example.com,
+2025-11-07 08:06:45,Success,Budi,8941787834,budi7574@example.com,
+2025-11-07 08:07:17,Success,Anjing,8555393483,anjing7607@example.com,
+2025-11-07 08:07:48,Success,Hai hai,8362455270,haihai7638@example.com,
+2025-11-07 08:08:19,Success,Andi Pratama,8374448965,andipratama7669@example.com,
+2025-11-07 08:08:50,Success,Budi Santoso,8280584584,budisantoso7701@example.com,
+2025-11-07 08:09:21,Success,Budi,8911460608,budi7732@example.com,
+2025-11-07 08:09:54,Success,Fajar Ramadhan,8285597234,fajarramadhan7764@example.com,
+2025-11-07 08:10:25,Success,Anjing,8359189019,anjing7796@example.com,
+2025-11-07 08:10:58,Success,Andi Pratama,8963266808,andipratama7828@example.com,
+2025-11-07 08:11:30,Success,Irfan Maulana,8856924071,irfanmaulana7860@example.com,
+2025-11-07 08:12:03,Success,Joko Susilo,8866322119,jokosusilo7892@example.com,
+2025-11-07 08:12:35,Success,Fajar Ramadhan,8123147485,fajarramadhan7924@example.com,
+2025-11-07 08:13:06,Success,Fajar Ramadhan,8774229351,fajarramadhan7956@example.com,
+2025-11-07 08:13:39,Success,Gilang Saputra,8531251769,gilangsaputra7989@example.com,
+2025-11-07 08:14:10,Success,Anjing,8458984917,anjing8021@example.com,
+2025-11-07 08:14:43,Success,Irfan Maulana,8246267923,irfanmaulana8052@example.com,
+2025-11-07 08:15:15,Success,Irfan Maulana,8509531802,irfanmaulana8085@example.com,
+2025-11-07 08:15:47,Success,Shibal,8154145493,shibal8116@example.com,
+2025-11-07 08:16:19,Success,Joko Susilo,8425052529,jokosusilo8149@example.com,
+2025-11-07 08:16:50,Success,Budi,8997543403,budi8180@example.com,
+2025-11-07 08:17:22,Success,Cahyo Nugroho,8885726648,cahyonugroho8212@example.com,
+2025-11-07 08:17:54,Success,Joko,8866732857,joko8244@example.com,
+2025-11-07 08:18:27,Success,Budi,8565311588,budi8277@example.com,
+2025-11-07 08:18:59,Success,Cahyo Nugroho,8756495004,cahyonugroho8309@example.com,
+2025-11-07 08:19:30,Success,Hai hai,8984382617,haihai8341@example.com,
+2025-11-07 08:20:01,Success,Prabowo,8928778400,prabowo8372@example.com,
+2025-11-07 08:20:32,Success,Anies,8633994323,anies8403@example.com,
+2025-11-07 08:21:01,Success,Hai hai,8264091226,haihai8433@example.com,
+2025-11-07 08:21:33,Success,Cahyo Nugroho,8564754785,cahyonugroho8464@example.com,
+2025-11-07 08:22:05,Success,Andi Pratama,8198351842,andipratama8494@example.com,
+2025-11-07 08:22:36,Success,Prabowo,8183953462,prabowo8526@example.com,
+2025-11-07 08:23:07,Success,Cahyo Nugroho,8716443961,cahyonugroho8557@example.com,
+2025-11-07 08:23:39,Success,Deni Saputra,8136034477,denisaputra8589@example.com,
+2025-11-07 08:24:11,Success,Anjing,8965280780,anjing8621@example.com,
+2025-11-07 08:24:42,Success,Gilang Saputra,8461144296,gilangsaputra8652@example.com,
+2025-11-07 08:25:14,Success,Joko,8888767234,joko8684@example.com,
+2025-11-07 08:25:47,Success,Budi,8170716916,budi8717@example.com,
+2025-11-07 08:26:18,Success,Gilang Saputra,8625015811,gilangsaputra8748@example.com,
+2025-11-07 08:26:50,Success,Andi Pratama,8802876031,andipratama8780@example.com,
+2025-11-07 08:27:21,Success,Nugroho,8182031635,nugroho8811@example.com,
+2025-11-07 08:27:54,Success,Anies,8117383677,anies8844@example.com,
+2025-11-07 08:28:27,Success,Hendra Kurniawan,8774593271,hendrakurniawan8877@example.com,
+2025-11-07 08:28:59,Success,Joko,8228551734,joko8909@example.com,
+2025-11-07 08:29:31,Success,Fajar Ramadhan,8483531933,fajarramadhan8941@example.com,
+2025-11-07 08:30:03,Success,Joko,8796406995,joko8973@example.com,
+2025-11-07 08:30:34,Success,Anjing,8740282222,anjing9004@example.com,
+2025-11-07 08:31:06,Success,Hendra Kurniawan,8834868277,hendrakurniawan9036@example.com,
+2025-11-07 08:31:37,Success,Gilang Saputra,8722076926,gilangsaputra9067@example.com,
+2025-11-07 08:33:11,Failed,Budi,8240953780,budi9100@example.com,"Timeout 90s: Gagal load form awal atau halaman. (Page.goto: Timeout 90000ms exceeded.
+Call log:
+  - navigating to ""https://bisnispropertinpl.myscalev.com/checkout-npl-1"", waiting until ""load""
+)"
+2025-11-07 08:33:42,Success,Irfan Maulana,8921858464,irfanmaulana9192@example.com,
+2025-11-07 08:34:16,Success,Hai hai,8707275390,haihai9225@example.com,
+2025-11-07 08:34:48,Success,Nugroho,8528406504,nugroho9258@example.com,
+2025-11-07 08:35:20,Success,Hendra Kurniawan,8545251465,hendrakurniawan9291@example.com,
+2025-11-07 08:35:53,Success,Anjing,8847074406,anjing9323@example.com,
+2025-11-07 08:36:25,Success,Deni Saputra,8286842966,denisaputra9355@example.com,
+2025-11-07 08:36:57,Success,Deni Saputra,8718744871,denisaputra9387@example.com,
+2025-11-07 08:37:29,Success,Cahyo Nugroho,8927856026,cahyonugroho9418@example.com,
+2025-11-07 08:38:02,Success,Irfan Maulana,8366275229,irfanmaulana9451@example.com,
+2025-11-07 08:38:34,Success,Nugroho,8657052874,nugroho9484@example.com,
+2025-11-07 08:39:06,Success,Budi Santoso,8468776283,budisantoso9516@example.com,
+2025-11-07 08:39:38,Success,Anjing,8122651693,anjing9548@example.com,
+2025-11-07 08:40:10,Success,Budi Santoso,8333141272,budisantoso9579@example.com,
+2025-11-07 08:40:42,Success,Hai hai,8422564878,haihai9612@example.com,
+2025-11-07 08:41:15,Success,Shibal,8951503980,shibal9645@example.com,
+2025-11-07 08:41:47,Success,Gilang Saputra,8445093394,gilangsaputra9677@example.com,
+2025-11-07 08:42:20,Success,Fajar Ramadhan,8512109680,fajarramadhan9709@example.com,
+2025-11-07 08:42:53,Success,Hai hai,8842159186,haihai9742@example.com,
+2025-11-07 08:43:24,Success,Deni Saputra,8545394577,denisaputra9774@example.com,
+2025-11-07 08:43:57,Success,Joko,8571035802,joko9807@example.com,
+2025-11-07 08:44:29,Success,Eko Wibowo,8415702332,ekowibowo9838@example.com,
+2025-11-07 08:45:01,Success,Anies,8388045866,anies9871@example.com,
+2025-11-07 08:45:34,Success,Fajar Ramadhan,8698019212,fajarramadhan9904@example.com,
+2025-11-07 08:46:06,Success,Shibal,8683581835,shibal9936@example.com,
+2025-11-07 08:46:39,Success,Budi Santoso,8685766030,budisantoso9968@example.com,
+2025-11-07 08:47:10,Success,Shibal,8704254522,shibal0@example.com,
+2025-11-07 08:47:43,Success,Anjing,8997325280,anjing33@example.com,
+2025-11-07 08:48:15,Success,Eko Wibowo,8167764272,ekowibowo65@example.com,
+2025-11-07 08:48:46,Success,Budi,8986178300,budi96@example.com,
+2025-11-07 08:49:18,Success,Hai hai,8984835315,haihai128@example.com,
+2025-11-07 08:49:50,Success,Eko Wibowo,8522575837,ekowibowo160@example.com,
+2025-11-07 08:50:23,Success,Hai hai,8525963253,haihai193@example.com,
+2025-11-07 08:50:54,Success,Deni Saputra,8519621090,denisaputra224@example.com,
+2025-11-07 08:51:27,Success,Fajar Ramadhan,8774280415,fajarramadhan257@example.com,
+2025-11-07 08:51:59,Success,Joko Susilo,8258495798,jokosusilo288@example.com,
+2025-11-07 08:52:31,Success,Cahyo Nugroho,8565698270,cahyonugroho320@example.com,
+2025-11-07 08:53:05,Success,Joko,8392808837,joko354@example.com,
+2025-11-07 08:53:36,Success,Anjing,8395145696,anjing386@example.com,
+2025-11-07 08:54:10,Success,Gilang Saputra,8711935197,gilangsaputra419@example.com,
+2025-11-07 08:54:41,Success,Nugroho,8640429196,nugroho451@example.com,
+2025-11-07 08:55:12,Success,Cahyo Nugroho,8858584361,cahyonugroho482@example.com,
+2025-11-07 08:55:45,Success,Hai hai,8965061724,haihai515@example.com,
+2025-11-07 08:56:17,Success,Anies,8631931179,anies547@example.com,
+2025-11-07 08:56:49,Success,Joko Susilo,8988645058,jokosusilo579@example.com,
+2025-11-07 08:57:21,Success,Nugroho,8747396068,nugroho611@example.com,
+2025-11-07 08:57:53,Success,Hai hai,8185941961,haihai643@example.com,
+2025-11-07 08:58:25,Success,Budi,8715636977,budi675@example.com,
+2025-11-07 08:59:00,Success,Joko,8434119297,joko707@example.com,
+2025-11-07 08:59:32,Success,Joko,8290243521,joko742@example.com,
+2025-11-07 09:00:03,Success,Prabowo,8943030841,prabowo774@example.com,
+2025-11-07 09:00:35,Success,Budi Santoso,8160077586,budisantoso805@example.com,
+2025-11-07 09:01:06,Success,Fajar Ramadhan,8243347076,fajarramadhan836@example.com,
+2025-11-07 09:01:38,Success,Deni Saputra,8525184651,denisaputra868@example.com,
+2025-11-07 09:02:11,Success,Budi Santoso,8620712266,budisantoso901@example.com,
+2025-11-07 09:02:43,Success,Anjing,8388149911,anjing933@example.com,
+2025-11-07 09:03:14,Success,Nugroho,8378449375,nugroho964@example.com,
+2025-11-07 09:03:46,Success,Prabowo,8799654691,prabowo996@example.com,
+2025-11-07 09:04:18,Success,Joko Susilo,8235561312,jokosusilo1028@example.com,
+2025-11-07 09:04:49,Success,Anjing,8425353029,anjing1060@example.com,
+2025-11-07 09:05:21,Success,Anjing,8912872962,anjing1091@example.com,
+2025-11-07 09:05:53,Success,Eko Wibowo,8270875923,ekowibowo1123@example.com,
+2025-11-07 09:06:24,Success,Budi Santoso,8141107966,budisantoso1154@example.com,
+2025-11-07 09:06:57,Success,Prabowo,8618804255,prabowo1186@example.com,
+2025-11-07 09:07:29,Success,Gilang Saputra,8281477236,gilangsaputra1219@example.com,
+2025-11-07 09:08:00,Success,Hai hai,8966677031,haihai1250@example.com,
+2025-11-07 09:08:33,Success,Deni Saputra,8641333344,denisaputra1282@example.com,
+2025-11-07 09:09:06,Success,Cahyo Nugroho,8670124740,cahyonugroho1315@example.com,
+2025-11-07 09:09:37,Success,Andi Pratama,8785622503,andipratama1347@example.com,
+2025-11-07 09:10:09,Success,Prabowo,8863107854,prabowo1379@example.com,
+2025-11-07 09:10:40,Success,Nugroho,8853394255,nugroho1410@example.com,
+2025-11-07 09:11:11,Success,Anjing,8651287650,anjing1441@example.com,
+2025-11-07 09:11:45,Success,Budi Santoso,8355187404,budisantoso1474@example.com,
+2025-11-07 09:12:17,Success,Gilang Saputra,8708015974,gilangsaputra1506@example.com,
+2025-11-07 09:12:48,Success,Budi Santoso,8638826463,budisantoso1538@example.com,
+2025-11-07 09:13:20,Success,Hai hai,8456129655,haihai1570@example.com,
+2025-11-07 09:13:51,Success,Joko Susilo,8740686862,jokosusilo1601@example.com,
+2025-11-07 09:14:24,Success,Deni Saputra,8706813683,denisaputra1633@example.com,
+2025-11-07 09:14:56,Success,Andi Pratama,8425748243,andipratama1666@example.com,
+2025-11-07 09:15:28,Success,Budi,8186243687,budi1698@example.com,
+2025-11-07 09:16:00,Success,Andi Pratama,8267916370,andipratama1729@example.com,
+2025-11-07 09:16:34,Success,Budi Santoso,8876652682,budisantoso1763@example.com,
+2025-11-07 09:17:07,Success,Anies,8251621384,anies1796@example.com,
+2025-11-07 09:17:40,Success,Joko,8475275804,joko1829@example.com,
+2025-11-07 09:18:12,Success,Joko,8777808779,joko1861@example.com,
+2025-11-07 09:18:45,Success,Nugroho,8619948165,nugroho1894@example.com,
+2025-11-07 09:19:17,Success,Deni Saputra,8631805296,denisaputra1927@example.com,
+2025-11-07 09:19:51,Success,Irfan Maulana,8873246698,irfanmaulana1960@example.com,
+2025-11-07 09:20:24,Success,Budi Santoso,8559923036,budisantoso1993@example.com,
+2025-11-07 09:20:58,Success,Shibal,8951543165,shibal2027@example.com,
+2025-11-07 09:21:30,Success,Andi Pratama,8165355983,andipratama2060@example.com,
+2025-11-07 09:22:03,Success,Anies,8513644401,anies2092@example.com,
+2025-11-07 09:22:34,Success,Fajar Ramadhan,8816878442,fajarramadhan2125@example.com,
+2025-11-07 09:23:07,Success,Fajar Ramadhan,8307602814,fajarramadhan2156@example.com,
+2025-11-07 09:23:39,Success,Gilang Saputra,8408452822,gilangsaputra2188@example.com,
+2025-11-07 09:24:10,Success,Cahyo Nugroho,8947375001,cahyonugroho2221@example.com,
+2025-11-07 09:24:44,Success,Anies,8530893988,anies2253@example.com,
+2025-11-07 09:25:17,Success,Deni Saputra,8919875849,denisaputra2285@example.com,
+2025-11-07 09:25:49,Success,Prabowo,8409668220,prabowo2318@example.com,
+2025-11-07 09:26:21,Success,Eko Wibowo,8550699405,ekowibowo2350@example.com,
+2025-11-07 09:26:52,Success,Hai hai,8793505735,haihai2382@example.com,
+2025-11-07 09:27:24,Success,Hendra Kurniawan,8919638669,hendrakurniawan2414@example.com,
+2025-11-07 09:27:57,Success,Hai hai,8505500398,haihai2446@example.com,
+2025-11-07 09:28:30,Success,Cahyo Nugroho,8201202415,cahyonugroho2480@example.com,
+2025-11-07 09:29:03,Success,Fajar Ramadhan,8797307150,fajarramadhan2512@example.com,
+2025-11-07 09:29:34,Success,Joko,8239812135,joko2544@example.com,
+2025-11-07 09:30:06,Success,Budi Santoso,8968846719,budisantoso2576@example.com,
+2025-11-07 09:30:38,Success,Cahyo Nugroho,8132875864,cahyonugroho2609@example.com,
+2025-11-07 09:31:09,Success,Eko Wibowo,8440778042,ekowibowo2639@example.com,
+2025-11-07 09:31:41,Success,Anies,8812162575,anies2671@example.com,
+2025-11-07 09:32:14,Success,Prabowo,8279009434,prabowo2703@example.com,
+2025-11-07 09:32:48,Success,Anies,8992489212,anies2737@example.com,
+2025-11-07 09:33:19,Success,Fajar Ramadhan,8524302713,fajarramadhan2770@example.com,
+2025-11-07 09:33:50,Success,Prabowo,8358680545,prabowo2801@example.com,
+2025-11-07 09:34:22,Success,Prabowo,8842043920,prabowo2832@example.com,
+2025-11-07 09:34:52,Success,Budi Santoso,8503454489,budisantoso2863@example.com,
+2025-11-07 09:35:24,Success,Anies,8766317658,anies2894@example.com,
+2025-11-07 09:35:57,Success,Deni Saputra,8921882241,denisaputra2926@example.com,
+2025-11-07 09:36:28,Success,Shibal,8186668708,shibal2959@example.com,
+2025-11-07 09:37:00,Success,Nugroho,8395700904,nugroho2991@example.com,
+2025-11-07 09:37:32,Success,Deni Saputra,8427761425,denisaputra3022@example.com,
+2025-11-07 09:38:05,Success,Shibal,8303927404,shibal3054@example.com,
+2025-11-07 09:38:37,Success,Deni Saputra,8509787441,denisaputra3087@example.com,
+2025-11-07 09:39:09,Success,Joko,8688821192,joko3119@example.com,
+2025-11-07 09:39:41,Success,Budi,8965833486,budi3151@example.com,
+2025-11-07 09:40:17,Success,Andi Pratama,8958782997,andipratama3184@example.com,
+2025-11-07 09:40:51,Success,Budi,8481195542,budi3220@example.com,
+2025-11-07 09:41:25,Success,Budi Santoso,8885164517,budisantoso3254@example.com,
+2025-11-07 09:41:56,Success,Joko Susilo,8365346186,jokosusilo3286@example.com,
+2025-11-07 09:42:28,Success,Deni Saputra,8916446991,denisaputra3318@example.com,
+2025-11-07 09:43:02,Success,Eko Wibowo,8960581259,ekowibowo3351@example.com,
+2025-11-07 09:43:34,Success,Hendra Kurniawan,8627691437,hendrakurniawan3384@example.com,
+2025-11-07 09:44:07,Success,Irfan Maulana,8334192377,irfanmaulana3417@example.com,
+2025-11-07 09:44:43,Success,Deni Saputra,8847424644,denisaputra3450@example.com,
+2025-11-07 09:45:16,Success,Hai hai,8765355855,haihai3485@example.com,
+2025-11-07 09:45:49,Success,Eko Wibowo,8995469204,ekowibowo3519@example.com,
+2025-11-07 09:46:22,Success,Irfan Maulana,8216204930,irfanmaulana3551@example.com,
+2025-11-07 09:46:55,Success,Eko Wibowo,8931661844,ekowibowo3584@example.com,
+2025-11-07 09:47:28,Success,Fajar Ramadhan,8989827969,fajarramadhan3618@example.com,
+2025-11-07 09:48:01,Success,Budi,8935527597,budi3650@example.com,
+2025-11-07 09:48:32,Success,Hai hai,8911671076,haihai3682@example.com,
+2025-11-07 09:49:04,Success,Anies,8921512031,anies3714@example.com,
+2025-11-07 09:49:35,Success,Joko Susilo,8695319285,jokosusilo3745@example.com,
+2025-11-07 09:50:09,Success,Prabowo,8818066589,prabowo3778@example.com,
+2025-11-07 09:50:43,Success,Deni Saputra,8669529635,denisaputra3812@example.com,
+2025-11-07 09:51:16,Success,Hai hai,8373914936,haihai3845@example.com,
+2025-11-07 09:51:48,Success,Hai hai,8132713175,haihai3877@example.com,
+2025-11-07 09:52:20,Success,Anies,8740173912,anies3910@example.com,
+2025-11-07 09:52:52,Success,Hai hai,8326460889,haihai3941@example.com,
+2025-11-07 09:53:24,Success,Joko Susilo,8272199664,jokosusilo3973@example.com,
+2025-11-07 23:19:59,Success,Nugroho,8465556185,nugroho2370@example.com,
+2025-11-07 23:20:28,Success,Anies,8116506031,anies2402@example.com,
+2025-11-07 23:21:01,Success,Fajar Ramadhan,8578275127,fajarramadhan2431@example.com,
+2025-11-07 23:21:37,Success,Budi,8802397688,budi2464@example.com,
+2025-11-07 23:22:08,Success,Budi,8865011738,budi2499@example.com,
+2025-11-07 23:22:38,Success,Budi Santoso,8691273048,budisantoso2530@example.com,
+2025-11-07 23:23:15,Success,Anies,8588738580,anies2561@example.com,
+2025-11-07 23:23:48,Success,Fajar Ramadhan,8866101980,fajarramadhan2597@example.com,
+2025-11-07 23:24:20,Success,Joko Susilo,8441609064,jokosusilo2631@example.com,
+2025-11-07 23:24:51,Success,Prabowo,8557911609,prabowo2662@example.com,
+2025-11-07 23:25:28,Success,Deni Saputra,8820316441,denisaputra2693@example.com,
+2025-11-07 23:25:55,Success,Joko Susilo,8569270992,jokosusilo2729@example.com,
+2025-11-07 23:26:24,Success,Irfan Maulana,8751707543,irfanmaulana2757@example.com,
+2025-11-07 23:26:54,Success,Anjing,8761831388,anjing2786@example.com,
+2025-11-07 23:27:23,Success,Shibal,8454952970,shibal2817@example.com,
+2025-11-07 23:27:51,Success,Hendra Kurniawan,8647839112,hendrakurniawan2845@example.com,
+2025-11-07 23:28:20,Success,Gilang Saputra,8836174283,gilangsaputra2872@example.com,
+2025-11-07 23:28:50,Success,Joko Susilo,8670553008,jokosusilo2902@example.com,
+2025-11-07 23:29:20,Success,Deni Saputra,8551229111,denisaputra2932@example.com,
+2025-11-07 23:30:04,Success,Nugroho,8765727133,nugroho2962@example.com,
+2025-11-07 23:30:40,Success,Andi Pratama,8808833939,andipratama3007@example.com,
+2025-11-07 23:31:18,Success,Irfan Maulana,8361837506,irfanmaulana3043@example.com,
+2025-11-07 23:31:58,Success,Budi Santoso,8553224648,budisantoso3080@example.com,
+2025-11-07 23:40:06,Success,Andi Pratama,8212759207,andipratama3532@example.com,
+2025-11-07 23:41:10,Success,Andi Pratama,8540347230,andipratama3608@example.com,
+2025-11-07 23:41:44,Success,Joko,8974272135,joko3672@example.com,
+2025-11-07 23:42:15,Success,Joko Susilo,8450841262,jokosusilo3706@example.com,
+2025-11-07 23:42:59,Success,Budi,8573248873,budi3736@example.com,
+2025-11-07 23:43:37,Success,Gilang Saputra,8427397931,gilangsaputra3780@example.com,
+2025-11-07 23:44:11,Success,Gilang Saputra,8486302721,gilangsaputra3820@example.com,
+2025-11-07 23:44:44,Success,Eko Wibowo,8143231090,ekowibowo3853@example.com,
+2025-11-07 23:45:17,Success,Budi,8636316875,budi3886@example.com,
+2025-11-07 23:45:48,Success,Cahyo Nugroho,8569417485,cahyonugroho3918@example.com,
+2025-11-07 23:47:20,Success,Hendra Kurniawan,8936704091,hendrakurniawan3949@example.com,
+2025-11-07 23:47:58,Success,Deni Saputra,8495113919,denisaputra4041@example.com,
+2025-11-07 23:48:36,Success,Hendra Kurniawan,8139907841,hendrakurniawan4080@example.com,
+2025-11-07 23:49:13,Success,Cahyo Nugroho,8780866214,cahyonugroho4117@example.com,
+2025-11-07 23:49:57,Success,Andi Pratama,8183813562,andipratama4156@example.com,
+2025-11-07 23:50:34,Success,Irfan Maulana,8472364895,irfanmaulana4199@example.com,
+2025-11-07 23:51:05,Success,Anjing,8491125645,anjing4237@example.com,
+2025-11-07 23:51:32,Success,Anies,8740280440,anies4268@example.com,
+2025-11-07 23:52:02,Success,Hendra Kurniawan,8131800190,hendrakurniawan4295@example.com,
+2025-11-07 23:52:31,Success,Shibal,8486214167,shibal4323@example.com,
+2025-11-07 23:52:56,Success,Budi Santoso,8717988823,budisantoso4352@example.com,
+2025-11-07 23:53:21,Success,Hendra Kurniawan,8328934535,hendrakurniawan4377@example.com,
+2025-11-07 23:53:49,Success,Deni Saputra,8468514914,denisaputra4404@example.com,
+2025-11-07 23:54:18,Success,Joko,8972077517,joko4432@example.com,
+2025-11-07 23:54:47,Success,Deni Saputra,8495607745,denisaputra4461@example.com,
+2025-11-07 23:55:17,Success,Joko,8632963905,joko4490@example.com,
+2025-11-07 23:55:51,Success,Andi Pratama,8309593045,andipratama4519@example.com,
+2025-11-07 23:56:18,Success,Hai hai,8558647176,haihai4552@example.com,
+2025-11-07 23:56:46,Success,Budi Santoso,8784758492,budisantoso4579@example.com,
+2025-11-07 23:57:12,Success,Anies,8339248787,anies4607@example.com,
+2025-11-07 23:57:40,Success,Fajar Ramadhan,8502560149,fajarramadhan4634@example.com,
+2025-11-07 23:58:08,Success,Andi Pratama,8817520423,andipratama4662@example.com,
+2025-11-07 23:58:38,Success,Fajar Ramadhan,8871781393,fajarramadhan4691@example.com,
+2025-11-07 23:59:12,Success,Joko Susilo,8487959712,jokosusilo4720@example.com,
+2025-11-07 23:59:44,Success,Fajar Ramadhan,8727610045,fajarramadhan4754@example.com,
+2025-11-08 00:00:17,Success,Cahyo Nugroho,8395932524,cahyonugroho4786@example.com,
+2025-11-08 00:00:49,Success,Shibal,8306808303,shibal4819@example.com,
+2025-11-08 00:01:21,Success,Anjing,8605561013,anjing4851@example.com,
+2025-11-08 00:02:00,Success,Joko Susilo,8289011728,jokosusilo4883@example.com,
+2025-11-08 00:02:35,Success,Joko Susilo,8383943220,jokosusilo4923@example.com,
+2025-11-08 00:03:03,Success,Andi Pratama,8299791147,andipratama4957@example.com,
+2025-11-08 00:03:34,Success,Budi,8442333820,budi4985@example.com,
+2025-11-08 00:04:06,Success,Prabowo,8465431663,prabowo5017@example.com,
+2025-11-08 00:04:39,Success,Hai hai,8301885673,haihai5049@example.com,
+2025-11-08 00:05:07,Success,Hai hai,8417223127,haihai5080@example.com,
+2025-11-08 00:05:36,Success,Anies,8674321168,anies5109@example.com,
+2025-11-08 00:06:08,Success,Andi Pratama,8360603934,andipratama5138@example.com,
+2025-11-08 00:06:36,Success,Eko Wibowo,8173886497,ekowibowo5169@example.com,
+2025-11-08 00:07:06,Success,Eko Wibowo,8509035497,ekowibowo5198@example.com,
+2025-11-08 00:07:35,Success,Deni Saputra,8191736091,denisaputra5229@example.com,
+2025-11-08 00:08:04,Success,Joko,8750024798,joko5257@example.com,
+2025-11-08 00:08:35,Success,Joko Susilo,8763224491,jokosusilo5286@example.com,
+2025-11-08 00:09:04,Success,Irfan Maulana,8908942889,irfanmaulana5316@example.com,
+2025-11-08 00:09:32,Success,Deni Saputra,8854156079,denisaputra5346@example.com,
+2025-11-08 00:10:00,Success,Joko,8707327326,joko5374@example.com,
+2025-11-08 00:10:41,Success,Gilang Saputra,8852017705,gilangsaputra5402@example.com,
+2025-11-08 00:11:09,Success,Anjing,8411208299,anjing5444@example.com,
+2025-11-08 00:11:39,Success,Hendra Kurniawan,8263821843,hendrakurniawan5472@example.com,
+2025-11-08 00:12:08,Success,Prabowo,8461085455,prabowo5501@example.com,
+2025-11-08 00:12:36,Success,Joko,8878159808,joko5530@example.com,
+2025-11-08 00:13:05,Success,Budi,8455146973,budi5558@example.com,
+2025-11-08 00:13:37,Success,Cahyo Nugroho,8379905083,cahyonugroho5588@example.com,
+2025-11-08 00:14:11,Success,Eko Wibowo,8682931401,ekowibowo5619@example.com,
+2025-11-08 00:14:43,Success,Budi,8634752512,budi5653@example.com,
+2025-11-08 00:15:12,Success,Cahyo Nugroho,8203590637,cahyonugroho5684@example.com,
+2025-11-08 00:15:39,Success,Joko Susilo,8929902687,jokosusilo5714@example.com,
+2025-11-08 00:16:12,Success,Hendra Kurniawan,8653223600,hendrakurniawan5741@example.com,
+2025-11-08 00:16:44,Success,Budi,8774507995,budi5775@example.com,
+2025-11-08 00:17:13,Success,Joko Susilo,8520791094,jokosusilo5807@example.com,
+2025-11-08 00:17:41,Success,Nugroho,8463938770,nugroho5834@example.com,
+2025-11-08 00:18:20,Success,Prabowo,8698756513,prabowo5862@example.com,
+2025-11-08 00:18:48,Success,Nugroho,8797332519,nugroho5902@example.com,
+2025-11-08 00:19:16,Success,Eko Wibowo,8158508603,ekowibowo5930@example.com,
+2025-11-08 00:19:44,Success,Shibal,8465517386,shibal5957@example.com,
+2025-11-08 00:20:13,Success,Fajar Ramadhan,8931998225,fajarramadhan5986@example.com,
+2025-11-08 00:20:42,Success,Fajar Ramadhan,8808715962,fajarramadhan6015@example.com,
+2025-11-08 00:21:10,Success,Fajar Ramadhan,8293063626,fajarramadhan6043@example.com,
+2025-11-08 00:21:41,Success,Eko Wibowo,8759791663,ekowibowo6072@example.com,
+2025-11-08 00:22:08,Success,Joko,8515523060,joko6102@example.com,
+2025-11-08 00:22:41,Success,Gilang Saputra,8662069159,gilangsaputra6129@example.com,
+2025-11-08 00:23:10,Success,Deni Saputra,8994179579,denisaputra6163@example.com,
+2025-11-08 00:23:39,Success,Hendra Kurniawan,8815435288,hendrakurniawan6192@example.com,
+2025-11-08 00:24:09,Success,Eko Wibowo,8444847481,ekowibowo6220@example.com,
+2025-11-08 00:24:41,Success,Deni Saputra,8677398367,denisaputra6250@example.com,
+2025-11-08 00:25:14,Success,Nugroho,8278942210,nugroho6283@example.com,
+2025-11-08 00:25:43,Success,Anjing,8673097293,anjing6317@example.com,
+2025-11-08 00:26:11,Success,Hai hai,8685932373,haihai6345@example.com,
+2025-11-08 00:26:45,Success,Shibal,8595249193,shibal6373@example.com,
+2025-11-08 00:27:14,Success,Hendra Kurniawan,8798630459,hendrakurniawan6407@example.com,
+2025-11-08 00:27:44,Success,Eko Wibowo,8987284172,ekowibowo6437@example.com,
+2025-11-08 00:28:19,Success,Irfan Maulana,8442165196,irfanmaulana6467@example.com,
+2025-11-08 00:28:50,Success,Shibal,8316639447,shibal6502@example.com,
+2025-11-08 00:29:20,Success,Fajar Ramadhan,8361857600,fajarramadhan6532@example.com,
+2025-11-08 00:29:51,Success,Deni Saputra,8687077270,denisaputra6563@example.com,
+2025-11-08 00:30:21,Success,Joko,8119541295,joko6593@example.com,
+2025-11-08 00:30:52,Success,Irfan Maulana,8566263016,irfanmaulana6624@example.com,
+2025-11-08 00:31:21,Success,Hendra Kurniawan,8408994646,hendrakurniawan6653@example.com,
+2025-11-08 00:31:52,Success,Anies,8147587313,anies6684@example.com,
+2025-11-08 00:32:21,Success,Shibal,8399640186,shibal6713@example.com,
+2025-11-08 00:32:52,Success,Anies,8656389116,anies6743@example.com,
+2025-11-08 00:33:20,Success,Budi Santoso,8131413965,budisantoso6773@example.com,
+2025-11-08 00:33:51,Success,Fajar Ramadhan,8808562187,fajarramadhan6803@example.com,
+2025-11-08 00:34:22,Success,Hendra Kurniawan,8278881490,hendrakurniawan6833@example.com,
+2025-11-08 00:34:58,Success,Andi Pratama,8683785327,andipratama6863@example.com,
+2025-11-08 00:35:26,Success,Anies,8848901228,anies6900@example.com,
+2025-11-08 00:35:55,Success,Shibal,8396631339,shibal6929@example.com,
+2025-11-08 00:36:23,Success,Hendra Kurniawan,8916898840,hendrakurniawan6957@example.com,
+2025-11-08 00:37:56,Failed,Anies,8388309916,anies6986@example.com,"Timeout 90s: Gagal load form awal atau halaman. (Page.goto: Timeout 90000ms exceeded.
+Call log:
+  - navigating to ""https://bisnispropertinpl.myscalev.com/checkout-npl-1"", waiting until ""load""
+)"
+2025-11-08 00:38:25,Success,Gilang Saputra,8911904004,gilangsaputra7078@example.com,
+2025-11-08 00:38:53,Success,Gilang Saputra,8698686483,gilangsaputra7107@example.com,
+2025-11-08 00:39:22,Success,Shibal,8385915667,shibal7136@example.com,
+2025-11-08 00:39:52,Success,Anies,8823863614,anies7164@example.com,
+2025-11-08 00:40:21,Success,Fajar Ramadhan,8854840228,fajarramadhan7194@example.com,
+2025-11-08 00:40:50,Success,Budi Santoso,8598490059,budisantoso7223@example.com,
+2025-11-08 00:41:18,Success,Nugroho,8834101309,nugroho7251@example.com,
+2025-11-08 00:41:47,Success,Irfan Maulana,8431246607,irfanmaulana7280@example.com,
+2025-11-08 00:42:16,Success,Budi Santoso,8658835525,budisantoso7309@example.com,
+2025-11-08 00:42:45,Success,Anies,8401014676,anies7338@example.com,
+2025-11-08 00:43:13,Success,Hai hai,8846590719,haihai7367@example.com,
+2025-11-08 00:43:43,Success,Hai hai,8306083279,haihai7396@example.com,
+2025-11-08 00:44:12,Success,Joko Susilo,8532049153,jokosusilo7426@example.com,
+2025-11-08 00:44:39,Success,Budi Santoso,8330649872,budisantoso7453@example.com,
+2025-11-08 00:45:09,Success,Eko Wibowo,8412652303,ekowibowo7481@example.com,
+2025-11-08 00:45:36,Success,Eko Wibowo,8206715944,ekowibowo7510@example.com,
+2025-11-08 00:46:05,Success,Irfan Maulana,8874143614,irfanmaulana7538@example.com,
+2025-11-08 00:46:33,Success,Fajar Ramadhan,8740967849,fajarramadhan7566@example.com,
+2025-11-08 00:47:02,Success,Prabowo,8836860523,prabowo7595@example.com,
+2025-11-08 00:47:33,Success,Eko Wibowo,8705893713,ekowibowo7624@example.com,
+2025-11-08 00:48:08,Success,Andi Pratama,8468992850,andipratama7656@example.com,
+2025-11-08 00:48:41,Success,Irfan Maulana,8711465254,irfanmaulana7689@example.com,
+2025-11-08 00:49:17,Success,Fajar Ramadhan,8945153481,fajarramadhan7724@example.com,
+2025-11-08 00:49:53,Success,Fajar Ramadhan,8644865113,fajarramadhan7760@example.com,
+2025-11-08 00:50:21,Success,Anjing,8547505973,anjing7794@example.com,
+2025-11-08 00:50:51,Success,Prabowo,8903156340,prabowo7824@example.com,
+2025-11-08 00:51:19,Success,Eko Wibowo,8708052952,ekowibowo7852@example.com,
+2025-11-08 00:51:48,Success,Anies,8397043028,anies7881@example.com,
+2025-11-08 00:52:18,Success,Deni Saputra,8603653446,denisaputra7911@example.com,
+2025-11-08 00:52:46,Success,Irfan Maulana,8250114986,irfanmaulana7940@example.com,
+2025-11-08 00:53:15,Success,Hendra Kurniawan,8194031253,hendrakurniawan7969@example.com,
+2025-11-08 00:53:45,Success,Budi Santoso,8810012210,budisantoso7998@example.com,
+2025-11-08 00:54:13,Success,Hai hai,8722647434,haihai8026@example.com,
+2025-11-08 00:54:43,Success,Anjing,8876664367,anjing8056@example.com,
+2025-11-08 00:55:12,Success,Hai hai,8381838779,haihai8085@example.com,
+2025-11-08 00:55:41,Success,Irfan Maulana,8879597449,irfanmaulana8114@example.com,
+2025-11-08 00:56:09,Success,Hai hai,8157853073,haihai8143@example.com,
+2025-11-08 00:56:39,Success,Eko Wibowo,8559333233,ekowibowo8171@example.com,
+2025-11-08 00:57:08,Success,Cahyo Nugroho,8209642112,cahyonugroho8201@example.com,
+2025-11-08 00:57:36,Success,Budi,8926771933,budi8229@example.com,
+2025-11-08 00:58:04,Success,Andi Pratama,8395879506,andipratama8258@example.com,
+2025-11-08 00:58:37,Success,Eko Wibowo,8288456104,ekowibowo8286@example.com,
+2025-11-08 00:59:11,Success,Fajar Ramadhan,8885111862,fajarramadhan8320@example.com,
+2025-11-08 00:59:46,Success,Prabowo,8202125147,prabowo8354@example.com,
+2025-11-08 01:00:18,Success,Cahyo Nugroho,8713645282,cahyonugroho8387@example.com,
+2025-11-08 01:00:52,Success,Irfan Maulana,8811076864,irfanmaulana8420@example.com,
+2025-11-08 01:01:21,Success,Deni Saputra,8861572462,denisaputra8454@example.com,
+2025-11-08 01:01:49,Success,Shibal,8281430718,shibal8483@example.com,
+2025-11-08 01:02:22,Success,Anies,8586279446,anies8510@example.com,
+2025-11-08 01:02:50,Success,Budi,8446650935,budi8544@example.com,
+2025-11-08 01:03:19,Success,Shibal,8158423264,shibal8572@example.com,
+2025-11-08 01:03:47,Success,Cahyo Nugroho,8507203490,cahyonugroho8601@example.com,
+2025-11-08 01:04:16,Success,Anjing,8925507603,anjing8630@example.com,
+2025-11-08 01:04:57,Success,Budi,8871475029,budi8657@example.com,
+2025-11-08 01:05:39,Success,Deni Saputra,8610022461,denisaputra8699@example.com,
+2025-11-08 01:06:08,Success,Deni Saputra,8216996418,denisaputra8742@example.com,
+2025-11-08 01:06:36,Success,Cahyo Nugroho,8892056293,cahyonugroho8770@example.com,
+2025-11-08 01:07:04,Success,Gilang Saputra,8822473431,gilangsaputra8798@example.com,
+2025-11-08 01:07:35,Success,Anjing,8387001879,anjing8827@example.com,
+2025-11-08 01:08:04,Success,Budi Santoso,8549954550,budisantoso8857@example.com,
+2025-11-08 01:08:32,Success,Nugroho,8374035028,nugroho8885@example.com,
+2025-11-08 01:09:01,Success,Irfan Maulana,8324732305,irfanmaulana8914@example.com,
+2025-11-08 01:09:30,Success,Budi Santoso,8470822676,budisantoso8943@example.com,
+2025-11-08 01:09:58,Success,Deni Saputra,8951892032,denisaputra8971@example.com,
+2025-11-08 01:10:27,Success,Anies,8506392898,anies9000@example.com,
+2025-11-08 01:10:55,Success,Irfan Maulana,8941063882,irfanmaulana9028@example.com,
+2025-11-08 01:11:22,Success,Joko,8264863398,joko9056@example.com,
+2025-11-08 01:11:51,Success,Shibal,8962937328,shibal9085@example.com,
+2025-11-08 01:12:20,Success,Prabowo,8756994626,prabowo9113@example.com,
+2025-11-08 01:12:53,Success,Fajar Ramadhan,8169021655,fajarramadhan9142@example.com,
+2025-11-08 01:13:23,Success,Eko Wibowo,8823149097,ekowibowo9176@example.com,
+2025-11-08 01:14:00,Success,Prabowo,8111405784,prabowo9204@example.com,
+2025-11-08 01:16:20,Success,Cahyo Nugroho,8634249177,cahyonugroho9241@example.com,
+2025-11-08 01:16:44,Failed,Budi Santoso,8364919985,budisantoso9383@example.com,"Page.goto: NS_ERROR_UNKNOWN_HOST
+Call log:
+  - navigating to ""https://bisnispropertinpl.myscalev.com/checkout-npl-1"", waiting until ""load""
+"
+2025-11-08 01:17:26,Failed,Cahyo Nugroho,8912393240,cahyonugroho9406@example.com,"Page.goto: NS_ERROR_NET_INTERRUPT
+Call log:
+  - navigating to ""https://bisnispropertinpl.myscalev.com/checkout-npl-1"", waiting until ""load""
+"
+2025-11-08 01:19:19,Success,Joko Susilo,8628179753,jokosusilo9447@example.com,
+2025-11-08 01:19:46,Success,Budi,8362807238,budi9560@example.com,
+2025-11-08 01:20:14,Success,Nugroho,8243847335,nugroho9588@example.com,
+2025-11-08 01:20:43,Success,Shibal,8151767838,shibal9617@example.com,
+2025-11-08 01:21:12,Success,Joko Susilo,8426907436,jokosusilo9645@example.com,
+2025-11-08 01:21:39,Success,Andi Pratama,8526343485,andipratama9673@example.com,
+2025-11-08 01:22:08,Success,Andi Pratama,8575662368,andipratama9702@example.com,
+2025-11-08 01:22:37,Success,Hendra Kurniawan,8484437751,hendrakurniawan9730@example.com,
+2025-11-08 01:23:03,Success,Hendra Kurniawan,8921054736,hendrakurniawan9758@example.com,
+2025-11-08 01:23:32,Success,Budi Santoso,8773833384,budisantoso9785@example.com,
+2025-11-08 01:24:01,Success,Nugroho,8523322677,nugroho9813@example.com,
+2025-11-08 01:24:30,Success,Andi Pratama,8447527987,andipratama9844@example.com,
+2025-11-08 01:24:59,Success,Anjing,8794030810,anjing9872@example.com,
+2025-11-08 01:25:28,Success,Anjing,8837926336,anjing9901@example.com,
+2025-11-08 01:25:57,Success,Anjing,8909375233,anjing9931@example.com,
+2025-11-08 01:26:25,Success,Fajar Ramadhan,8624385185,fajarramadhan9959@example.com,
+2025-11-08 01:26:54,Success,Budi,8285880537,budi9987@example.com,
+2025-11-08 01:27:22,Success,Deni Saputra,8325983309,denisaputra15@example.com,
+2025-11-08 01:27:50,Success,Hai hai,8986779639,haihai43@example.com,
+2025-11-08 01:28:19,Success,Anies,8628879654,anies73@example.com,
+2025-11-08 01:28:51,Success,Budi,8666341705,budi100@example.com,
+2025-11-08 01:29:25,Success,Andi Pratama,8144140141,andipratama133@example.com,
+2025-11-08 01:29:59,Success,Budi,8908721857,budi168@example.com,
+2025-11-08 01:30:31,Success,Hendra Kurniawan,8852857784,hendrakurniawan200@example.com,
+2025-11-08 01:31:04,Success,Andi Pratama,8532126237,andipratama233@example.com,
+2025-11-08 01:31:36,Success,Gilang Saputra,8344674802,gilangsaputra266@example.com,
+2025-11-08 01:32:09,Success,Anies,8444219659,anies298@example.com,
+2025-11-08 01:32:37,Success,Fajar Ramadhan,8572186405,fajarramadhan331@example.com,
+2025-11-08 01:33:04,Success,Budi Santoso,8247782287,budisantoso358@example.com,
+2025-11-08 01:33:33,Success,Shibal,8437915880,shibal387@example.com,
+2025-11-08 01:34:05,Success,Gilang Saputra,8118940951,gilangsaputra414@example.com,
+2025-11-08 01:34:33,Success,Joko,8353336782,joko447@example.com,
+2025-11-08 01:35:01,Success,Hendra Kurniawan,8857831670,hendrakurniawan474@example.com,
+2025-11-08 01:35:28,Success,Irfan Maulana,8620071307,irfanmaulana502@example.com,
+2025-11-08 01:36:01,Success,Eko Wibowo,8812638946,ekowibowo531@example.com,
+2025-11-08 01:36:29,Success,Deni Saputra,8490379376,denisaputra563@example.com,
+2025-11-08 01:36:56,Success,Nugroho,8942536085,nugroho590@example.com,
+2025-11-08 01:37:24,Success,Joko,8506799291,joko618@example.com,
+2025-11-08 01:37:53,Success,Hai hai,8587390978,haihai647@example.com,
+2025-11-08 01:38:22,Success,Cahyo Nugroho,8133452125,cahyonugroho676@example.com,
+2025-11-08 01:38:50,Success,Anjing,8983151948,anjing704@example.com,
+2025-11-08 01:39:23,Success,Budi,8653030681,budi732@example.com,
+2025-11-08 01:39:55,Success,Anjing,8925348300,anjing765@example.com,
+2025-11-08 01:40:28,Success,Deni Saputra,8662920423,denisaputra797@example.com,
+2025-11-08 01:40:59,Success,Shibal,8653020688,shibal829@example.com,
+2025-11-08 01:41:32,Success,Prabowo,8935158387,prabowo862@example.com,
+2025-11-08 01:42:05,Success,Hendra Kurniawan,8922423938,hendrakurniawan894@example.com,
+2025-11-08 01:42:36,Success,Joko,8495013332,joko926@example.com,
+2025-11-08 01:43:07,Success,Irfan Maulana,8198834258,irfanmaulana957@example.com,
+2025-11-08 01:43:36,Success,Budi,8659689891,budi990@example.com,
+2025-11-08 01:44:04,Success,Anjing,8169635042,anjing1018@example.com,
+2025-11-08 01:44:35,Success,Budi Santoso,8383393367,budisantoso1045@example.com,
+2025-11-08 01:45:02,Success,Joko Susilo,8453242243,jokosusilo1077@example.com,
+2025-11-08 01:45:31,Success,Prabowo,8778978053,prabowo1105@example.com,
+2025-11-08 01:45:59,Success,Prabowo,8774820919,prabowo1134@example.com,
+2025-11-08 01:46:32,Success,Anies,8559114698,anies1162@example.com,
+2025-11-08 01:46:58,Success,Eko Wibowo,8846223412,ekowibowo1193@example.com,
+2025-11-08 01:47:26,Success,Budi Santoso,8493307668,budisantoso1221@example.com,
+2025-11-08 01:47:53,Success,Cahyo Nugroho,8707258178,cahyonugroho1248@example.com,
+2025-11-08 01:48:25,Success,Hendra Kurniawan,8768488822,hendrakurniawan1274@example.com,
+2025-11-08 01:48:53,Success,Eko Wibowo,8846309203,ekowibowo1308@example.com,
+2025-11-08 01:49:19,Success,Prabowo,8958541749,prabowo1334@example.com,
+2025-11-08 01:49:52,Success,Hendra Kurniawan,8306130938,hendrakurniawan1361@example.com,
+2025-11-08 01:50:23,Success,Gilang Saputra,8771711920,gilangsaputra1393@example.com,
+2025-11-08 01:50:56,Success,Cahyo Nugroho,8330841761,cahyonugroho1425@example.com,
+2025-11-08 01:51:29,Success,Cahyo Nugroho,8988863602,cahyonugroho1458@example.com,
+2025-11-08 01:52:02,Success,Gilang Saputra,8594449995,gilangsaputra1491@example.com,
+2025-11-08 01:52:35,Success,Budi,8135775226,budi1524@example.com,
+2025-11-08 01:53:06,Success,Joko,8496502598,joko1556@example.com,
+2025-11-08 01:53:39,Success,Eko Wibowo,8261524623,ekowibowo1588@example.com,
+2025-11-08 01:54:05,Success,Joko Susilo,8869956104,jokosusilo1620@example.com,
+2025-11-08 01:54:32,Success,Joko Susilo,8707811257,jokosusilo1647@example.com,
+2025-11-08 01:55:06,Success,Fajar Ramadhan,8979455662,fajarramadhan1675@example.com,
+2025-11-08 01:55:33,Success,Joko,8611635103,joko1707@example.com,
+2025-11-08 01:56:01,Success,Andi Pratama,8173494906,andipratama1735@example.com,
+2025-11-08 01:56:30,Success,Joko,8825752120,joko1764@example.com,
+2025-11-08 01:57:03,Success,Joko Susilo,8781818313,jokosusilo1792@example.com,
+2025-11-08 01:57:30,Success,Nugroho,8458059296,nugroho1824@example.com,
+2025-11-08 01:57:58,Success,Nugroho,8127255769,nugroho1852@example.com,
+2025-11-08 01:58:25,Success,Cahyo Nugroho,8576845385,cahyonugroho1879@example.com,
+2025-11-08 01:58:56,Success,Irfan Maulana,8124606449,irfanmaulana1906@example.com,
+2025-11-08 01:59:23,Success,Anies,8636046260,anies1937@example.com,
+2025-11-08 01:59:50,Success,Budi,8864981449,budi1964@example.com,
+2025-11-08 02:00:22,Success,Hendra Kurniawan,8155085728,hendrakurniawan1992@example.com,
+2025-11-08 02:00:55,Success,Anjing,8304288667,anjing2024@example.com,
+2025-11-08 02:01:28,Success,Eko Wibowo,8819938001,ekowibowo2057@example.com,
+2025-11-08 02:02:01,Success,Budi Santoso,8184808599,budisantoso2089@example.com,
+2025-11-08 02:02:34,Success,Irfan Maulana,8393457487,irfanmaulana2123@example.com,
+2025-11-08 02:03:06,Success,Anies,8221117413,anies2156@example.com,
+2025-11-08 08:19:07,Success,Joko Susilo,8408622243,jokosusilo4718@example.com,
+2025-11-08 08:19:37,Success,Shibal,8181385184,shibal4749@example.com,
+2025-11-08 08:20:05,Success,Joko,8633604273,joko4779@example.com,
+2025-11-08 08:20:32,Success,Deni Saputra,8255736046,denisaputra4806@example.com,
+2025-11-08 08:21:01,Success,Hai hai,8400813958,haihai4835@example.com,
+2025-11-08 08:21:27,Success,Anies,8441270309,anies4862@example.com,
+2025-11-08 08:21:54,Success,Gilang Saputra,8725932653,gilangsaputra4889@example.com,
+2025-11-08 08:22:21,Success,Shibal,8722733233,shibal4915@example.com,
+2025-11-08 08:22:49,Success,Andi Pratama,8418194942,andipratama4944@example.com,
+2025-11-08 08:23:17,Success,Fajar Ramadhan,8360473072,fajarramadhan4971@example.com,
+2025-11-08 08:23:46,Success,Gilang Saputra,8928444205,gilangsaputra4999@example.com,
+2025-11-08 08:24:14,Success,Anjing,8839493012,anjing5028@example.com,
+2025-11-08 08:24:43,Success,Deni Saputra,8523148638,denisaputra5057@example.com,
+2025-11-08 08:25:11,Success,Deni Saputra,8411604121,denisaputra5085@example.com,
+2025-11-08 08:25:38,Success,Budi Santoso,8956638798,budisantoso5113@example.com,
+2025-11-08 08:26:05,Success,Anjing,8464412107,anjing5141@example.com,
+2025-11-08 08:26:34,Success,Joko,8277374395,joko5168@example.com,
+2025-11-08 08:27:12,Success,Deni Saputra,8926616201,denisaputra5195@example.com,
+2025-11-08 08:27:43,Success,Budi Santoso,8529436836,budisantoso5235@example.com,
+2025-11-08 08:28:13,Success,Shibal,8592987291,shibal5266@example.com,
+2025-11-08 08:28:48,Success,Andi Pratama,8304494141,andipratama5295@example.com,
+2025-11-08 08:29:22,Success,Hai hai,8139078594,haihai5331@example.com,
+2025-11-08 08:29:56,Success,Cahyo Nugroho,8219646255,cahyonugroho5364@example.com,
+2025-11-08 08:30:28,Success,Prabowo,8275778001,prabowo5397@example.com,
+2025-11-08 08:31:05,Success,Deni Saputra,8314577237,denisaputra5431@example.com,
+2025-11-08 08:31:38,Success,Cahyo Nugroho,8547261588,cahyonugroho5468@example.com,
+2025-11-08 08:32:13,Success,Fajar Ramadhan,8655247436,fajarramadhan5501@example.com,
+2025-11-08 08:32:39,Success,Shibal,8614929432,shibal5534@example.com,
+2025-11-08 08:33:06,Success,Shibal,8186378120,shibal5561@example.com,
+2025-11-08 08:33:33,Success,Anies,8767267994,anies5587@example.com,
+2025-11-08 08:34:00,Success,Prabowo,8392878803,prabowo5615@example.com,
+2025-11-08 08:34:27,Success,Deni Saputra,8429116559,denisaputra5642@example.com,
+2025-11-08 08:34:54,Success,Irfan Maulana,8362439523,irfanmaulana5668@example.com,
+2025-11-08 08:35:28,Success,Anjing,8886159553,anjing5697@example.com,
+2025-11-08 08:36:02,Success,Anies,8961915567,anies5730@example.com,
+2025-11-08 08:36:36,Success,Gilang Saputra,8951389757,gilangsaputra5764@example.com,
+2025-11-08 08:37:05,Success,Budi,8313247087,budi5797@example.com,
+2025-11-08 08:37:30,Success,Hai hai,8949326898,haihai5826@example.com,
+2025-11-08 08:37:56,Success,Shibal,8804354988,shibal5852@example.com,
+2025-11-08 08:38:24,Success,Hendra Kurniawan,8717712626,hendrakurniawan5879@example.com,
+2025-11-08 08:38:51,Success,Cahyo Nugroho,8868242910,cahyonugroho5906@example.com,
+2025-11-08 08:39:21,Success,Joko Susilo,8906116496,jokosusilo5934@example.com,
+2025-11-08 08:39:53,Success,Anjing,8213608353,anjing5963@example.com,
+2025-11-08 08:40:26,Success,Irfan Maulana,8328660195,irfanmaulana5996@example.com,
+2025-11-08 08:40:58,Success,Budi,8506723963,budi6028@example.com,
+2025-11-08 08:41:31,Success,Anies,8846549831,anies6060@example.com,
+2025-11-08 08:42:03,Success,Hai hai,8130797864,haihai6092@example.com,
+2025-11-08 08:42:36,Success,Joko,8371292463,joko6125@example.com,
+2025-11-08 08:43:08,Success,Andi Pratama,8377808148,andipratama6158@example.com,
+2025-11-08 08:43:37,Success,Fajar Ramadhan,8367763351,fajarramadhan6191@example.com,
+2025-11-08 08:44:04,Success,Joko Susilo,8265311256,jokosusilo6218@example.com,
+2025-11-08 08:44:32,Success,Budi,8323762337,budi6246@example.com,
+2025-11-08 08:44:59,Success,Shibal,8690300664,shibal6273@example.com,
+2025-11-08 08:45:31,Success,Irfan Maulana,8249456540,irfanmaulana6301@example.com,
+2025-11-08 08:46:03,Success,Andi Pratama,8623826625,andipratama6332@example.com,
+2025-11-08 08:46:36,Success,Budi Santoso,8213408684,budisantoso6365@example.com,
+2025-11-08 08:47:08,Success,Hendra Kurniawan,8719930722,hendrakurniawan6397@example.com,
+2025-11-08 08:47:36,Success,Eko Wibowo,8867039054,ekowibowo6430@example.com,
+2025-11-08 08:48:04,Success,Joko Susilo,8159761219,jokosusilo6459@example.com,
+2025-11-08 08:48:31,Success,Anjing,8509836992,anjing6486@example.com,
+2025-11-08 08:48:59,Success,Eko Wibowo,8904756370,ekowibowo6513@example.com,
+2025-11-08 08:49:25,Success,Joko Susilo,8661735776,jokosusilo6540@example.com,
+2025-11-08 08:49:54,Success,Nugroho,8379039023,nugroho6567@example.com,
+2025-11-08 08:50:25,Success,Budi,8854452572,budi6595@example.com,
+2025-11-08 08:50:56,Success,Hendra Kurniawan,8382680466,hendrakurniawan6627@example.com,
+2025-11-08 08:51:29,Success,Prabowo,8802785445,prabowo6659@example.com,
+2025-11-08 08:52:02,Success,Shibal,8611802529,shibal6691@example.com,
+2025-11-08 08:52:33,Success,Gilang Saputra,8232141429,gilangsaputra6723@example.com,
+2025-11-08 08:53:07,Success,Nugroho,8810486932,nugroho6755@example.com,
+2025-11-08 08:53:40,Success,Eko Wibowo,8874532411,ekowibowo6789@example.com,
+2025-11-08 08:54:06,Success,Budi,8861363287,budi6821@example.com,
+2025-11-08 08:54:34,Success,Hendra Kurniawan,8677954664,hendrakurniawan6848@example.com,
+2025-11-08 08:55:02,Success,Hai hai,8708017010,haihai6876@example.com,
+2025-11-08 08:55:29,Success,Budi Santoso,8462860660,budisantoso6903@example.com,
+2025-11-08 08:56:01,Success,Joko Susilo,8825314037,jokosusilo6931@example.com,
+2025-11-08 08:56:34,Success,Prabowo,8905767682,prabowo6963@example.com,
+2025-11-08 08:57:03,Success,Eko Wibowo,8390881662,ekowibowo6996@example.com,
+2025-11-08 08:57:35,Success,Eko Wibowo,8310696477,ekowibowo7025@example.com,
+2025-11-08 08:58:07,Success,Prabowo,8462309913,prabowo7057@example.com,
+2025-11-08 08:58:34,Success,Budi,8827845187,budi7089@example.com,
+2025-11-08 08:59:05,Success,Eko Wibowo,8711990713,ekowibowo7117@example.com,
+2025-11-08 08:59:31,Success,Budi,8314842182,budi7146@example.com,
+2025-11-08 08:59:59,Success,Anjing,8503097517,anjing7173@example.com,
+2025-11-08 09:00:27,Success,Hai hai,8763875890,haihai7202@example.com,
+2025-11-08 09:00:54,Success,Budi Santoso,8389263207,budisantoso7229@example.com,
+2025-11-08 09:01:27,Success,Shibal,8609092706,shibal7257@example.com,
+2025-11-08 09:01:59,Success,Anies,8411363094,anies7289@example.com,
+2025-11-08 09:02:31,Success,Nugroho,8830116482,nugroho7321@example.com,
+2025-11-08 09:03:03,Success,Eko Wibowo,8614588993,ekowibowo7353@example.com,
+2025-11-08 09:03:35,Success,Deni Saputra,8915493082,denisaputra7386@example.com,
+2025-11-08 09:04:06,Success,Eko Wibowo,8433854892,ekowibowo7417@example.com,
+2025-11-08 09:04:34,Success,Eko Wibowo,8509283573,ekowibowo7449@example.com,
+2025-11-08 09:05:04,Success,Prabowo,8502856589,prabowo7477@example.com,
+2025-11-08 09:05:31,Success,Budi Santoso,8930713918,budisantoso7506@example.com,
+2025-11-08 09:05:58,Success,Nugroho,8288756664,nugroho7532@example.com,
+2025-11-08 09:06:32,Success,Joko,8996645092,joko7561@example.com,
+2025-11-08 09:07:06,Success,Anies,8273378146,anies7595@example.com,
+2025-11-08 09:07:35,Success,Cahyo Nugroho,8828755837,cahyonugroho7628@example.com,
+2025-11-08 09:08:04,Success,Nugroho,8983702833,nugroho7658@example.com,
+2025-11-08 09:08:36,Success,Deni Saputra,8306834449,denisaputra7687@example.com,
+2025-11-08 09:09:09,Success,Andi Pratama,8900794877,andipratama7718@example.com,
+2025-11-08 09:09:39,Success,Hai hai,8889669241,haihai7751@example.com,
+2025-11-08 09:10:07,Success,Hai hai,8506288103,haihai7780@example.com,
+2025-11-08 09:10:35,Success,Fajar Ramadhan,8840495087,fajarramadhan7809@example.com,
+2025-11-08 09:11:04,Success,Budi Santoso,8523831382,budisantoso7837@example.com,
+2025-11-08 09:11:32,Success,Fajar Ramadhan,8314925536,fajarramadhan7866@example.com,
+2025-11-08 09:12:07,Success,Deni Saputra,8161617034,denisaputra7895@example.com,
+2025-11-08 09:12:36,Success,Anjing,8436533840,anjing7929@example.com,
+2025-11-08 09:13:05,Success,Nugroho,8260257377,nugroho7959@example.com,
+2025-11-08 09:13:32,Success,Eko Wibowo,8400163908,ekowibowo7986@example.com,
+2025-11-08 09:14:04,Success,Budi Santoso,8152266306,budisantoso8014@example.com,
+2025-11-08 09:14:45,Success,Shibal,8619056787,shibal8046@example.com,
+2025-11-08 09:15:19,Success,Nugroho,8540347379,nugroho8087@example.com,
+2025-11-08 09:16:11,Success,Budi Santoso,8423920903,budisantoso8122@example.com,
+2025-11-08 09:17:06,Success,Hai hai,8897332311,haihai8174@example.com,
+2025-11-08 09:17:36,Success,Hendra Kurniawan,8480480222,hendrakurniawan8228@example.com,
+2025-11-08 09:18:04,Success,Joko Susilo,8520745130,jokosusilo8257@example.com,
+2025-11-08 09:18:34,Success,Joko Susilo,8348499261,jokosusilo8286@example.com,
+2025-11-08 09:19:08,Success,Deni Saputra,8759308271,denisaputra8316@example.com,
+2025-11-08 09:19:50,Success,Fajar Ramadhan,8402735354,fajarramadhan8351@example.com,
+2025-11-08 09:20:18,Success,Anjing,8506061814,anjing8393@example.com,
+2025-11-08 09:20:46,Success,Irfan Maulana,8463369836,irfanmaulana8420@example.com,
+2025-11-08 09:21:20,Success,Hai hai,8480394178,haihai8449@example.com,
+2025-11-08 09:21:49,Success,Eko Wibowo,8366111456,ekowibowo8482@example.com,
+2025-11-08 09:22:17,Success,Hai hai,8139314008,haihai8511@example.com,
+2025-11-08 09:22:48,Success,Hai hai,8985646786,haihai8538@example.com,
+2025-11-08 09:23:28,Success,Eko Wibowo,8576850821,ekowibowo8570@example.com,
+2025-11-08 09:24:40,Success,Eko Wibowo,8200048254,ekowibowo8610@example.com,
+2025-11-08 09:25:12,Success,Budi Santoso,8270404275,budisantoso8681@example.com,
+2025-11-08 09:26:30,Success,Prabowo,8629609224,prabowo8714@example.com,
+2025-11-08 09:27:35,Success,Anjing,8382027695,anjing8791@example.com,
+2025-11-08 09:28:09,Success,Hai hai,8166188567,haihai8857@example.com,
+2025-11-08 09:28:47,Success,Gilang Saputra,8739668611,gilangsaputra8890@example.com,
+2025-11-08 09:29:26,Success,Nugroho,8967484084,nugroho8928@example.com,
+2025-11-08 09:29:58,Success,Fajar Ramadhan,8894961603,fajarramadhan8968@example.com,
+2025-11-08 09:30:26,Success,Gilang Saputra,8509085051,gilangsaputra9000@example.com,
+2025-11-08 09:31:04,Success,Joko,8598191898,joko9028@example.com,
+2025-11-08 09:31:56,Success,Anies,8435075369,anies9065@example.com,
+2025-11-08 09:32:26,Success,Budi Santoso,8483859450,budisantoso9117@example.com,
+2025-11-08 09:32:57,Success,Shibal,8348939019,shibal9148@example.com,
+2025-11-08 09:33:27,Success,Shibal,8527159305,shibal9179@example.com,
+2025-11-08 09:35:00,Failed,Irfan Maulana,8718922558,irfanmaulana9210@example.com,"Timeout 90s: Gagal load form awal atau halaman. (Page.goto: Timeout 90000ms exceeded.
+Call log:
+  - navigating to ""https://bisnispropertinpl.myscalev.com/checkout-npl-1"", waiting until ""load""
+)"
+2025-11-08 09:35:02,Failed,Anjing,8702517051,anjing9301@example.com,"Page.goto: NS_ERROR_UNKNOWN_HOST
+Call log:
+  - navigating to ""https://bisnispropertinpl.myscalev.com/checkout-npl-1"", waiting until ""load""
+"
+2025-11-08 09:35:05,Failed,Fajar Ramadhan,8442921786,fajarramadhan9304@example.com,"Page.goto: NS_ERROR_UNKNOWN_HOST
+Call log:
+  - navigating to ""https://bisnispropertinpl.myscalev.com/checkout-npl-1"", waiting until ""load""
+"
+2025-11-08 09:35:08,Failed,Anjing,8644268296,anjing9307@example.com,"Page.goto: NS_ERROR_UNKNOWN_HOST
+Call log:
+  - navigating to ""https://bisnispropertinpl.myscalev.com/checkout-npl-1"", waiting until ""load""
+"
+2025-11-08 09:35:10,Failed,Anies,8611805841,anies9309@example.com,"Page.goto: NS_ERROR_UNKNOWN_HOST
+Call log:
+  - navigating to ""https://bisnispropertinpl.myscalev.com/checkout-npl-1"", waiting until ""load""
+"
+2025-11-08 09:35:12,Failed,Hendra Kurniawan,8921116431,hendrakurniawan9312@example.com,"Page.goto: NS_ERROR_UNKNOWN_HOST
+Call log:
+  - navigating to ""https://bisnispropertinpl.myscalev.com/checkout-npl-1"", waiting until ""load""
+"
+2025-11-08 09:35:15,Failed,Cahyo Nugroho,8177189942,cahyonugroho9315@example.com,"Page.goto: NS_ERROR_UNKNOWN_HOST
+Call log:
+  - navigating to ""https://bisnispropertinpl.myscalev.com/checkout-npl-1"", waiting until ""load""
+"
+2025-11-08 09:35:19,Failed,Shibal,8894446345,shibal9318@example.com,"Page.goto: NS_ERROR_UNKNOWN_HOST
+Call log:
+  - navigating to ""https://bisnispropertinpl.myscalev.com/checkout-npl-1"", waiting until ""load""
+"
+2025-11-08 09:35:21,Failed,Deni Saputra,8207867923,denisaputra9321@example.com,"Page.goto: NS_ERROR_UNKNOWN_HOST
+Call log:
+  - navigating to ""https://bisnispropertinpl.myscalev.com/checkout-npl-1"", waiting until ""load""
+"
+2025-11-08 09:35:24,Failed,Anjing,8424239006,anjing9324@example.com,"Page.goto: NS_ERROR_UNKNOWN_HOST
+Call log:
+  - navigating to ""https://bisnispropertinpl.myscalev.com/checkout-npl-1"", waiting until ""load""
+"
+2025-11-08 09:35:28,Failed,Hai hai,8778102763,haihai9327@example.com,"Page.goto: NS_ERROR_UNKNOWN_HOST
+Call log:
+  - navigating to ""https://bisnispropertinpl.myscalev.com/checkout-npl-1"", waiting until ""load""
+"
+2025-11-08 09:35:30,Failed,Gilang Saputra,8823872692,gilangsaputra9330@example.com,"Page.goto: NS_ERROR_UNKNOWN_HOST
+Call log:
+  - navigating to ""https://bisnispropertinpl.myscalev.com/checkout-npl-1"", waiting until ""load""
+"
+2025-11-08 09:35:34,Failed,Nugroho,8128713125,nugroho9333@example.com,"Page.goto: NS_ERROR_UNKNOWN_HOST
+Call log:
+  - navigating to ""https://bisnispropertinpl.myscalev.com/checkout-npl-1"", waiting until ""load""
+"
+2025-11-08 09:35:37,Failed,Prabowo,8665927714,prabowo9336@example.com,"Page.goto: NS_ERROR_UNKNOWN_HOST
+Call log:
+  - navigating to ""https://bisnispropertinpl.myscalev.com/checkout-npl-1"", waiting until ""load""
+"
+2025-11-08 09:35:39,Failed,Deni Saputra,8784904827,denisaputra9339@example.com,"Page.goto: NS_ERROR_UNKNOWN_HOST
+Call log:
+  - navigating to ""https://bisnispropertinpl.myscalev.com/checkout-npl-1"", waiting until ""load""
+"
+2025-11-08 09:35:42,Failed,Joko,8135761226,joko9342@example.com,"Page.goto: NS_ERROR_UNKNOWN_HOST
+Call log:
+  - navigating to ""https://bisnispropertinpl.myscalev.com/checkout-npl-1"", waiting until ""load""
+"
+2025-11-08 09:35:44,Failed,Hai hai,8768040942,haihai9344@example.com,"Page.goto: NS_ERROR_UNKNOWN_HOST
+Call log:
+  - navigating to ""https://bisnispropertinpl.myscalev.com/checkout-npl-1"", waiting until ""load""
+"
+2025-11-08 09:35:48,Failed,Shibal,8543275695,shibal9347@example.com,"Page.goto: NS_ERROR_UNKNOWN_HOST
+Call log:
+  - navigating to ""https://bisnispropertinpl.myscalev.com/checkout-npl-1"", waiting until ""load""
+"
+2025-11-08 09:35:51,Failed,Anjing,8166913790,anjing9351@example.com,"Page.goto: NS_ERROR_UNKNOWN_HOST
+Call log:
+  - navigating to ""https://bisnispropertinpl.myscalev.com/checkout-npl-1"", waiting until ""load""
+"
+2025-11-08 09:35:53,Failed,Prabowo,8868195334,prabowo9353@example.com,"Page.goto: NS_ERROR_UNKNOWN_HOST
+Call log:
+  - navigating to ""https://bisnispropertinpl.myscalev.com/checkout-npl-1"", waiting until ""load""
+"
+2025-11-08 09:36:26,Success,Hendra Kurniawan,8908631493,hendrakurniawan9356@example.com,
+2025-11-08 09:37:00,Success,Fajar Ramadhan,8770127713,fajarramadhan9388@example.com,
+2025-11-08 09:37:30,Success,Anjing,8781789173,anjing9421@example.com,
+2025-11-08 09:38:08,Success,Irfan Maulana,8149153428,irfanmaulana9452@example.com,
+2025-11-08 09:38:42,Success,Joko Susilo,8959031527,jokosusilo9491@example.com,
+2025-11-08 09:39:11,Success,Anies,8326353985,anies9524@example.com,
+2025-11-08 09:39:41,Success,Hendra Kurniawan,8301417759,hendrakurniawan9553@example.com,
+2025-11-08 09:41:19,Success,Gilang Saputra,8923199295,gilangsaputra9584@example.com,
+2025-11-08 09:42:03,Success,Budi Santoso,8581554303,budisantoso9681@example.com,
+2025-11-08 09:42:47,Success,Joko Susilo,8927236311,jokosusilo9724@example.com,
+2025-11-08 09:43:25,Success,Prabowo,8548934320,prabowo9769@example.com,
+2025-11-08 09:43:55,Success,Prabowo,8831516968,prabowo9807@example.com,
+2025-11-08 09:44:23,Success,Eko Wibowo,8979322347,ekowibowo9837@example.com,
+2025-11-08 09:44:52,Success,Anies,8722678674,anies9866@example.com,
+2025-11-08 09:45:21,Success,Eko Wibowo,8238087901,ekowibowo9894@example.com,
+2025-11-08 09:45:53,Success,Deni Saputra,8588910337,denisaputra9923@example.com,
+2025-11-08 09:47:32,Success,Budi Santoso,8132164117,budisantoso9954@example.com,
+2025-11-08 09:48:03,Success,Fajar Ramadhan,8883925598,fajarramadhan54@example.com,
+2025-11-08 09:48:35,Success,Andi Pratama,8128020325,andipratama86@example.com,
+2025-11-08 09:49:07,Success,Budi,8518490005,budi117@example.com,
+2025-11-08 09:50:25,Success,Gilang Saputra,8871865209,gilangsaputra149@example.com,
+2025-11-08 09:51:30,Success,Cahyo Nugroho,8486146789,cahyonugroho228@example.com,
+2025-11-08 09:52:39,Success,Shibal,8926514926,shibal291@example.com,
+2025-11-08 09:53:42,Success,Budi,8709839344,budi361@example.com,
+2025-11-08 09:54:11,Success,Cahyo Nugroho,8398280026,cahyonugroho423@example.com,
+2025-11-08 09:54:41,Success,Prabowo,8700480126,prabowo452@example.com,
+2025-11-08 09:55:17,Success,Shibal,8566003507,shibal484@example.com,
+2025-11-08 09:55:47,Success,Anies,8670045627,anies519@example.com,
+2025-11-08 09:56:18,Success,Joko,8206810341,joko548@example.com,
+2025-11-08 09:56:47,Success,Gilang Saputra,8573199102,gilangsaputra580@example.com,
+2025-11-08 09:57:20,Success,Nugroho,8907351674,nugroho609@example.com,
+2025-11-08 09:57:52,Success,Joko,8518494112,joko641@example.com,
+2025-11-08 09:58:21,Success,Anjing,8130389279,anjing673@example.com,
+2025-11-08 09:59:01,Success,Joko,8616852935,joko703@example.com,
+2025-11-08 09:59:30,Success,Cahyo Nugroho,8974106238,cahyonugroho743@example.com,
+2025-11-08 10:00:21,Success,Anjing,8181044482,anjing772@example.com,
+2025-11-08 10:00:51,Success,Nugroho,8216224747,nugroho822@example.com,
+2025-11-08 10:01:19,Success,Eko Wibowo,8931727288,ekowibowo853@example.com,
+2025-11-08 10:01:48,Success,Andi Pratama,8623254261,andipratama880@example.com,
+2025-11-08 10:02:18,Success,Anjing,8767475753,anjing911@example.com,
+2025-11-08 10:02:48,Success,Fajar Ramadhan,8753413463,fajarramadhan940@example.com,
+2025-11-08 10:03:17,Success,Nugroho,8566523779,nugroho969@example.com,
+2025-11-08 10:04:04,Success,Irfan Maulana,8619801651,irfanmaulana999@example.com,
+2025-11-08 10:05:13,Success,Eko Wibowo,8348112193,ekowibowo1046@example.com,
+2025-11-08 10:06:49,Success,Budi Santoso,8889583375,budisantoso1115@example.com,
+2025-11-08 10:08:22,Failed,Gilang Saputra,8718031814,gilangsaputra1212@example.com,"Timeout 90s: Gagal load form awal atau halaman. (Page.goto: Timeout 90000ms exceeded.
+Call log:
+  - navigating to ""https://bisnispropertinpl.myscalev.com/checkout-npl-1"", waiting until ""load""
+)"
+2025-11-08 10:08:26,Failed,Hai hai,8937353313,haihai1305@example.com,"Page.goto: NS_ERROR_UNKNOWN_HOST
+Call log:
+  - navigating to ""https://bisnispropertinpl.myscalev.com/checkout-npl-1"", waiting until ""load""
+"
+2025-11-08 10:08:29,Failed,Joko,8782792653,joko1308@example.com,"Page.goto: NS_ERROR_UNKNOWN_HOST
+Call log:
+  - navigating to ""https://bisnispropertinpl.myscalev.com/checkout-npl-1"", waiting until ""load""
+"
+2025-11-08 10:08:32,Failed,Andi Pratama,8227371086,andipratama1311@example.com,"Page.goto: NS_ERROR_UNKNOWN_HOST
+Call log:
+  - navigating to ""https://bisnispropertinpl.myscalev.com/checkout-npl-1"", waiting until ""load""
+"
+2025-11-08 10:08:35,Failed,Nugroho,8463313085,nugroho1314@example.com,"Page.goto: NS_ERROR_UNKNOWN_HOST
+Call log:
+  - navigating to ""https://bisnispropertinpl.myscalev.com/checkout-npl-1"", waiting until ""load""
+"
+2025-11-08 10:08:38,Failed,Fajar Ramadhan,8823007630,fajarramadhan1317@example.com,"Page.goto: NS_ERROR_UNKNOWN_HOST
+Call log:
+  - navigating to ""https://bisnispropertinpl.myscalev.com/checkout-npl-1"", waiting until ""load""
+"
+2025-11-08 10:08:40,Failed,Joko Susilo,8598987585,jokosusilo1319@example.com,"Page.goto: NS_ERROR_UNKNOWN_HOST
+Call log:
+  - navigating to ""https://bisnispropertinpl.myscalev.com/checkout-npl-1"", waiting until ""load""
+"
+2025-11-08 10:08:42,Failed,Prabowo,8897820069,prabowo1321@example.com,"Page.goto: NS_ERROR_UNKNOWN_HOST
+Call log:
+  - navigating to ""https://bisnispropertinpl.myscalev.com/checkout-npl-1"", waiting until ""load""
+"
+2025-11-08 10:08:45,Failed,Hai hai,8718386568,haihai1324@example.com,"Page.goto: NS_ERROR_UNKNOWN_HOST
+Call log:
+  - navigating to ""https://bisnispropertinpl.myscalev.com/checkout-npl-1"", waiting until ""load""
+"
+2025-11-08 10:08:48,Failed,Eko Wibowo,8651173178,ekowibowo1327@example.com,"Page.goto: NS_ERROR_UNKNOWN_HOST
+Call log:
+  - navigating to ""https://bisnispropertinpl.myscalev.com/checkout-npl-1"", waiting until ""load""
+"
+2025-11-08 10:08:51,Failed,Joko Susilo,8468327790,jokosusilo1330@example.com,"Page.goto: NS_ERROR_UNKNOWN_HOST
+Call log:
+  - navigating to ""https://bisnispropertinpl.myscalev.com/checkout-npl-1"", waiting until ""load""
+"
+2025-11-08 10:08:54,Failed,Andi Pratama,8706291142,andipratama1333@example.com,"Page.goto: NS_ERROR_UNKNOWN_HOST
+Call log:
+  - navigating to ""https://bisnispropertinpl.myscalev.com/checkout-npl-1"", waiting until ""load""
+"
+2025-11-08 10:08:56,Failed,Prabowo,8426858874,prabowo1335@example.com,"Page.goto: NS_ERROR_UNKNOWN_HOST
+Call log:
+  - navigating to ""https://bisnispropertinpl.myscalev.com/checkout-npl-1"", waiting until ""load""
+"
+2025-11-08 10:08:58,Failed,Hendra Kurniawan,8422732074,hendrakurniawan1338@example.com,"Page.goto: NS_ERROR_UNKNOWN_HOST
+Call log:
+  - navigating to ""https://bisnispropertinpl.myscalev.com/checkout-npl-1"", waiting until ""load""
+"
+2025-11-08 10:10:32,Failed,Nugroho,8889873435,nugroho1341@example.com,"Timeout 90s: Gagal load form awal atau halaman. (Page.goto: Timeout 90000ms exceeded.
+Call log:
+  - navigating to ""https://bisnispropertinpl.myscalev.com/checkout-npl-1"", waiting until ""load""
+)"
+2025-11-08 10:12:04,Failed,Gilang Saputra,8772451790,gilangsaputra1433@example.com,"Timeout 90s: Gagal load form awal atau halaman. (Page.goto: Timeout 90000ms exceeded.
+Call log:
+  - navigating to ""https://bisnispropertinpl.myscalev.com/checkout-npl-1"", waiting until ""load""
+)"
+2025-11-08 10:12:06,Failed,Nugroho,8399126942,nugroho1525@example.com,"Page.goto: NS_ERROR_UNKNOWN_HOST
+Call log:
+  - navigating to ""https://bisnispropertinpl.myscalev.com/checkout-npl-1"", waiting until ""load""
+"
+2025-11-08 10:12:08,Failed,Irfan Maulana,8162605973,irfanmaulana1528@example.com,"Page.goto: NS_ERROR_UNKNOWN_HOST
+Call log:
+  - navigating to ""https://bisnispropertinpl.myscalev.com/checkout-npl-1"", waiting until ""load""
+"
+2025-11-08 10:12:11,Failed,Deni Saputra,8895810336,denisaputra1530@example.com,"Page.goto: NS_ERROR_UNKNOWN_HOST
+Call log:
+  - navigating to ""https://bisnispropertinpl.myscalev.com/checkout-npl-1"", waiting until ""load""
+"
+2025-11-08 10:12:14,Failed,Cahyo Nugroho,8501469083,cahyonugroho1534@example.com,"Page.goto: NS_ERROR_UNKNOWN_HOST
+Call log:
+  - navigating to ""https://bisnispropertinpl.myscalev.com/checkout-npl-1"", waiting until ""load""
+"
+2025-11-08 10:12:16,Failed,Cahyo Nugroho,8981144871,cahyonugroho1535@example.com,"Page.goto: NS_ERROR_UNKNOWN_HOST
+Call log:
+  - navigating to ""https://bisnispropertinpl.myscalev.com/checkout-npl-1"", waiting until ""load""
+"
+2025-11-08 10:12:19,Failed,Irfan Maulana,8183090564,irfanmaulana1539@example.com,"Page.goto: NS_ERROR_UNKNOWN_HOST
+Call log:
+  - navigating to ""https://bisnispropertinpl.myscalev.com/checkout-npl-1"", waiting until ""load""
+"
+2025-11-08 10:12:21,Failed,Anjing,8488763516,anjing1541@example.com,"Page.goto: NS_ERROR_UNKNOWN_HOST
+Call log:
+  - navigating to ""https://bisnispropertinpl.myscalev.com/checkout-npl-1"", waiting until ""load""
+"
+2025-11-08 10:12:24,Failed,Joko,8534563645,joko1543@example.com,"Page.goto: NS_ERROR_UNKNOWN_HOST
+Call log:
+  - navigating to ""https://bisnispropertinpl.myscalev.com/checkout-npl-1"", waiting until ""load""
+"
+2025-11-08 10:12:26,Failed,Hendra Kurniawan,8495205034,hendrakurniawan1546@example.com,"Page.goto: NS_ERROR_UNKNOWN_HOST
+Call log:
+  - navigating to ""https://bisnispropertinpl.myscalev.com/checkout-npl-1"", waiting until ""load""
+"
+2025-11-08 10:12:28,Failed,Anjing,8416074835,anjing1547@example.com,"Page.goto: NS_ERROR_UNKNOWN_HOST
+Call log:
+  - navigating to ""https://bisnispropertinpl.myscalev.com/checkout-npl-1"", waiting until ""load""
+"
+2025-11-08 10:12:31,Failed,Budi,8570279455,budi1550@example.com,"Page.goto: NS_ERROR_UNKNOWN_HOST
+Call log:
+  - navigating to ""https://bisnispropertinpl.myscalev.com/checkout-npl-1"", waiting until ""load""
+"
+2025-11-08 10:12:34,Failed,Budi,8850341971,budi1553@example.com,"Page.goto: NS_ERROR_UNKNOWN_HOST
+Call log:
+  - navigating to ""https://bisnispropertinpl.myscalev.com/checkout-npl-1"", waiting until ""load""
+"
+2025-11-08 10:12:36,Failed,Eko Wibowo,8528868641,ekowibowo1555@example.com,"Page.goto: NS_ERROR_UNKNOWN_HOST
+Call log:
+  - navigating to ""https://bisnispropertinpl.myscalev.com/checkout-npl-1"", waiting until ""load""
+"
+2025-11-08 10:12:39,Failed,Joko,8739886633,joko1559@example.com,"Page.goto: NS_ERROR_UNKNOWN_HOST
+Call log:
+  - navigating to ""https://bisnispropertinpl.myscalev.com/checkout-npl-1"", waiting until ""load""
+"
+2025-11-08 10:12:42,Failed,Budi Santoso,8147496545,budisantoso1561@example.com,"Page.goto: NS_ERROR_UNKNOWN_HOST
+Call log:
+  - navigating to ""https://bisnispropertinpl.myscalev.com/checkout-npl-1"", waiting until ""load""
+"
+2025-11-08 10:12:44,Failed,Budi Santoso,8326654257,budisantoso1563@example.com,"Page.goto: NS_ERROR_UNKNOWN_HOST
+Call log:
+  - navigating to ""https://bisnispropertinpl.myscalev.com/checkout-npl-1"", waiting until ""load""
+"
+2025-11-08 10:12:48,Failed,Nugroho,8282802915,nugroho1567@example.com,"Page.goto: NS_ERROR_UNKNOWN_HOST
+Call log:
+  - navigating to ""https://bisnispropertinpl.myscalev.com/checkout-npl-1"", waiting until ""load""
+"
+2025-11-08 10:12:50,Failed,Anies,8957735690,anies1569@example.com,"Page.goto: NS_ERROR_UNKNOWN_HOST
+Call log:
+  - navigating to ""https://bisnispropertinpl.myscalev.com/checkout-npl-1"", waiting until ""load""
+"
+2025-11-08 10:12:51,Failed,Andi Pratama,8495454641,andipratama1571@example.com,"Page.goto: NS_ERROR_UNKNOWN_HOST
+Call log:
+  - navigating to ""https://bisnispropertinpl.myscalev.com/checkout-npl-1"", waiting until ""load""
+"
+2025-11-08 10:12:53,Failed,Andi Pratama,8356126488,andipratama1573@example.com,"Page.goto: NS_ERROR_UNKNOWN_HOST
+Call log:
+  - navigating to ""https://bisnispropertinpl.myscalev.com/checkout-npl-1"", waiting until ""load""
+"
+2025-11-08 10:12:56,Failed,Anjing,8821142984,anjing1576@example.com,"Page.goto: NS_ERROR_UNKNOWN_HOST
+Call log:
+  - navigating to ""https://bisnispropertinpl.myscalev.com/checkout-npl-1"", waiting until ""load""
+"
+2025-11-08 10:12:58,Failed,Deni Saputra,8790763242,denisaputra1578@example.com,"Page.goto: NS_ERROR_UNKNOWN_HOST
+Call log:
+  - navigating to ""https://bisnispropertinpl.myscalev.com/checkout-npl-1"", waiting until ""load""
+"
+2025-11-08 13:53:43,Success,Andi Pratama,8696622194,andipratama4778@example.com,
+2025-11-08 13:54:12,Success,Fajar Ramadhan,8551117522,fajarramadhan4824@example.com,
+2025-11-08 13:54:43,Success,Budi,8762832468,budi4854@example.com,
+2025-11-08 13:55:10,Success,Anies,8529927212,anies4884@example.com,
+2025-11-08 13:55:38,Success,Deni Saputra,8320607411,denisaputra4911@example.com,
+2025-11-08 13:56:04,Success,Anies,8395221185,anies4940@example.com,
+2025-11-08 13:56:32,Success,Andi Pratama,8595930250,andipratama4966@example.com,
+2025-11-08 13:56:59,Success,Prabowo,8381740007,prabowo4993@example.com,
+2025-11-08 13:57:26,Success,Irfan Maulana,8615563038,irfanmaulana5020@example.com,
+2025-11-08 13:57:53,Success,Hai hai,8499414419,haihai5048@example.com,
+2025-11-08 13:58:20,Success,Anies,8612779442,anies5075@example.com,
+2025-11-08 13:58:48,Success,Shibal,8766674039,shibal5103@example.com,
+2025-11-08 13:59:14,Success,Joko Susilo,8773522712,jokosusilo5129@example.com,
+2025-11-08 13:59:42,Success,Anjing,8634056080,anjing5156@example.com,
+2025-11-08 14:00:23,Success,Anjing,8131407370,anjing5185@example.com,
+2025-11-08 14:01:56,Failed,Prabowo,8627444330,prabowo5225@example.com,"Timeout 90s: Gagal load form awal atau halaman. (Page.goto: Timeout 90000ms exceeded.
+Call log:
+  - navigating to ""https://bisnispropertinpl.myscalev.com/checkout-npl-1"", waiting until ""load""
+)"
+2025-11-08 14:02:28,Success,Andi Pratama,8403317733,andipratama5318@example.com,
+2025-11-08 14:02:57,Success,Budi,8981705820,budi5349@example.com,
+2025-11-08 14:03:49,Success,Anies,8952943563,anies5379@example.com,
+2025-11-08 14:10:06,Failed,Anies,8322566330,anies5432@example.com,"Page.wait_for_function: Target page, context or browser has been closed"

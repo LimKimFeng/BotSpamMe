@@ -1,5 +1,10 @@
 import sys, re, time, random
+import os  # <-- Diperlukan untuk cek file
+import json # <-- Diperlukan untuk baca/tulis stats
 from playwright.sync_api import sync_playwright
+
+# Nama file untuk menyimpan statistik
+STATS_FILE = "stats.json"
 
 # ===== Utilities =====
 def ask_url():
@@ -22,8 +27,44 @@ def pick_dummy_data():
     email = n.lower().replace(" ", "") + str(int(time.time()) % 10000) + "@example.com"
     return {"name": n, "phone": phone, "email": email}
 
+# ===== Fungsi untuk memuat stats =====
+def load_stats():
+    """Membaca stats dari file JSON."""
+    if os.path.exists(STATS_FILE):
+        try:
+            with open(STATS_FILE, 'r') as f:
+                stats = json.load(f)
+            total = stats.get('total_runs', 0)
+            success = stats.get('success_runs', 0)
+            failed = stats.get('failed_runs', 0)
+            print(f"Melanjutkan dari stats sebelumnya:")
+            print(f"Total={total}, Sukses={success}, Gagal={failed}")
+            return total, success, failed
+        except Exception as e:
+            print(f"Gagal memuat stats.json ({e}). Memulai dari 0.")
+            return 0, 0, 0
+    else:
+        print("File stats.json tidak ditemukan. Memulai dari 0.")
+        return 0, 0, 0
+
+# ===== Fungsi untuk menyimpan stats =====
+def save_stats(total, success, failed):
+    """Menyimpan stats ke file JSON."""
+    print(f"\nMenyimpan stats ke {STATS_FILE}...")
+    stats_data = {
+        "total_runs": total,
+        "success_runs": success,
+        "failed_runs": failed
+    }
+    try:
+        with open(STATS_FILE, 'w') as f:
+            json.dump(stats_data, f, indent=4)
+        print("Stats berhasil disimpan.")
+    except Exception as e:
+        print(f"Gagal menyimpan stats: {e}")
+
 # ===== One-shot flow =====
-def do_order_once(browser, target, timeout=90):
+def do_order_once(page, target, timeout=90): # <-- Menerima 'page'
     print(f"Membuka URL: {target}")
     page.goto(target)
     
@@ -57,34 +98,45 @@ def do_order_once(browser, target, timeout=90):
         print("✅ Checkout berhasil terdeteksi!")
         return True
     except Exception as e:
-        print("❌ Checkout berhasil tidak terdeteksi.")
+        print(f"❌ Checkout berhasil tidak terdeteksi. Error: {e}")
         return False
 
 
 # ===== Main: LOOP sampai Ctrl+C =====
 if __name__ == "__main__":
     with sync_playwright() as p:
-        browser = p.firefox.launch(headless=False)  # Luncurkan browser Firefox
+        
+        # --- Fitur 1: Pilihan Headless ---
+        print("Jalankan mode headless? (tanpa UI browser) (y/n) [default: n]: ", end="", flush=True)
+        headless_input = sys.stdin.readline().strip().lower()
+        is_headless = headless_input == 'y'
+        print(f"Mode headless: {'Aktif' if is_headless else 'Non-Aktif'}")
+
+        browser = p.firefox.launch(headless=is_headless)  # Luncurkan browser Firefox
         target = ask_url()
         page = browser.new_page()
 
-        total_runs = 0
-        success_runs = 0
-        failed_runs = 0
+        # --- Fitur 2: Muat Stats ---
+        total_runs, success_runs, failed_runs = load_stats()
 
         try:
             while True:
-                total_runs += 1
-                print(f"\n=== Iterasi #{total_runs} ===")
+                # Iterasi dihitung berdasarkan total_runs yang sudah ada
+                current_run_number = total_runs + 1
+                print(f"\n=== Iterasi #{current_run_number} ===")
                 try:
-                    ok = do_order_once(browser, target, timeout=90)
+                    # Menggunakan 'page' yang sudah dibuat
+                    ok = do_order_once(page, target, timeout=90) 
                     if ok:
                         success_runs += 1
                     else:
                         failed_runs += 1
                 except Exception as e:
-                    print(f"❌ Error iterasi #{total_runs}: {e}")
+                    print(f"❌ Error iterasi #{current_run_number}: {e}")
                     failed_runs += 1
+                
+                # Update total runs setelah iterasi selesai
+                total_runs += 1
 
                 time.sleep(random.uniform(1.0, 3.0))
 
@@ -92,4 +144,8 @@ if __name__ == "__main__":
             print("\n=== Dihentikan oleh pengguna (Ctrl+C) ===")
         finally:
             print(f"\nRekap: total={total_runs}, sukses={success_runs}, gagal={failed_runs}")
+            
+            # --- Fitur 2: Simpan Stats ---
+            save_stats(total_runs, success_runs, failed_runs)
+            
             browser.close()  # Tutup browser setelah selesai
